@@ -1,0 +1,288 @@
+{
+  "menu": {
+    "home": "Rumah",
+    "more": "Lagi",
+    "mp3": {
+      "title": "TikTok ke MP3 Downloader",
+      "description": "Tukar dan muat turun video TikTok kepada fail audio MP3"
+    },
+    "mp4": {
+      "title": "Pemuat turun MP4 TikTok",
+      "description": "Muat turun video TikTok tanpa Tera Air dalam MP4"
+    },
+    "thumbnail": {
+      "title": "Pemuat Tumbnail TikTok",
+      "description": "Muat turun Lakaran Kecil TikTok dalam Saiz dan Kualiti Asal"
+    },
+    "story": {
+      "title": "Pemuat Turun Cerita TikTok",
+      "description": "Muat turun Cerita TikTok tanpa Tera Air secara percuma"
+    },
+    "slide": {
+      "title": "Pemuat Turun Tayangan Slaid TikTok",
+      "description": "Muat turun Tayangan Slaid TikTok menggunakan kualiti terbaik"
+    }
+  },
+  "footer": {
+    "aboutUs": "Tentang kami",
+    "termsOfUse": "Syarat Penggunaan",
+    "privacyPolicy": "Dasar Privasi",
+    "dmca": "DMCA",
+    "contactUs": "Hubungi Kami",
+    "associated": "Aplikasi ini dibina semata-mata untuk tujuan hiburan dan tidak dikaitkan dengan TikTok atau ByteDance dengan apa-apa cara.",
+    "rightsReserved": "©ttmp3.io 2025 Hak Cipta Terpelihara."
+  },
+  "downloader": {
+    "placeholder": "Tampal URL video TikTok...",
+    "paste": "tampal",
+    "search": "Cari",
+    "clear": "Jelas",
+    "loading": "Memuatkan...",
+    "mp4": {
+      "title": "Pemuat Turun Video TikTok",
+      "description": "Penyelesaian muktamad untuk memuat turun Video TikTok MP4 tanpa had – Selamat, tanpa kerumitan dan tanpa Tera Air"
+    },
+    "mp3": {
+      "title": "TikTok ke MP3 Downloader",
+      "description": "Tukar TikTok kepada audio MP3 – Muat turun tanpa had, pantas, percuma, berkualiti tinggi dan stabil",
+      "download": "Muat turun Mp3"
+    },
+    "thumbnail": {
+      "title": "Pemuat Tumbnail TikTok",
+      "description": "Muat turun lakaran kecil HD daripada video TikTok dalam saiz asal - 100% percuma dan mudah digunakan – Tiada Tera Air atau logo disertakan",
+      "download": "Muat Tumbnail"
+    },
+    "slideshow": {
+      "title": "Pemuat Turun Tayangan Slaid TikTok",
+      "description": "Muat turun tayangan slaid HD TikTok percuma – pantas, selamat, tanpa tera air, 100% percuma",
+      "download": "Muat turun Tayangan Slaid"
+    },
+    "story": {
+      "title": "TikTok Story Downloader",
+      "description": "Muat turun HD TikTok Stories secara percuma – pantas, mudah digunakan, tanpa nama pengguna & tera air",
+      "download": "Muat turun Cerita"
+    }
+  },
+  "features": {
+    "title1": "Selamat dan Selamat",
+    "description1": "Tidak perlu risau tentang kecurian data anda. Tiada pautan disimpan.",
+    "title2": "Tiada Tera Air",
+    "description2": "Muat turun video TikTok MP4 tanpa tera air atau logo TT",
+    "title3": "Muat Turun Tanpa Had",
+    "description3": "Menawarkan muat turun tanpa had secara percuma. Tiada langganan diperlukan",
+    "mp3": {
+      "title1": "Muat Turun MP3 Terpantas",
+      "description1": "Video dalam talian yang pantas dan percuma kepada penukar audio MP3.",
+      "title2": "Bebas virus",
+      "description2": "Tiada virus, tiada lag. Penukar bersih dan selamat tersedia dalam talian.",
+      "title3": "Muat Turun Tanpa Had",
+      "description3": "Tiada had. Tiada ketegangan. Tiada pendaftaran. Berfikir melampaui batas."
+    },
+    "thumbnail": {
+      "title1": "Muat Turun Saiz Asal",
+      "description1": "Muat turun lakaran kecil saiz asal dalam PNG, JPG, JPEG dan WebP.",
+      "title2": "Logo dan Tera Air Percuma",
+      "description2": "Muat turun imej HD yang jelas tanpa logo atau tera air.",
+      "title3": "Muat Turun Cepat Tanpa Had",
+      "description3": "Muat turun lakaran kecil tanpa had dalam masa yang singkat."
+    },
+    "slideshow": {
+      "title1": "Kualiti HD atau 4K",
+      "description1": "Muat turun Tayangan Slaid dalam format HD atau 4K jika tersedia di TikTok.",
+      "title2": "100% Percuma dan Tanpa Had",
+      "description2": "Tidak perlu risau tentang harga dan had muat turun.",
+      "title3": "Muat Turun Tidak Termampat",
+      "description3": "Semua muat turun adalah dalam saiz asalnya. Tiada pemampatan yang terlibat."
+    },
+    "story": {
+      "title1": "Kualiti Tertinggi",
+      "description1": "Muat turun cerita dalam format HD atau 4K jika tersedia.",
+      "title2": "Keserasian Peranti",
+      "description2": "Berfungsi dengan lancar untuk semua peranti (Android, iOS, Windows)",
+      "title3": "Mengalih keluar Tera Air",
+      "description3": "Tera air dan logo dialih keluar secara automatik sebelum memuat turun"
+    }
+  },
+  "content": {
+    "heading": "Pemuat turun TikTok",
+    "para1": "Ttmp3 ialah perkhidmatan muat turun video TikTok dalam talian yang menawarkan muat turun video HD percuma daripada apl TikTok dalam format MP3 dan MP4. Ciri utama pemuat turun ini ialah ia memuat turun semua video tanpa sebarang tera air atau logo TT. Ini membolehkan pelawat menyesuaikan video ini pada mana-mana peranti. Anda juga boleh menggunakan aplikasi ini pada mana-mana peranti, sama ada Mudah Alih, Tablet, Komputer riba atau PC.",
+    "para2": "Ttmp3 disemak untuk keserasiannya dengan semua peranti dan saiz skrin. Pemuat turun TikTok ini menawarkan pengguna antara muka yang mudah digunakan yang sangat stabil. Anda boleh memuat turun video tanpa had dalam format HD MP4 tanpa perlu risau tentang kecurian atau kehilangan data. Pelayan kami tidak menyimpan data carian anda, dan URL dipadamkan serta-merta daripada pelayan kami. Semua ciri ini menjadikan ttmp3 pilihan popular untuk pelawat kami.",
+    "mp3": {
+      "heading": "Pemuat turun Audio MP3 TikTok",
+      "para1": "Ttmp3.io menawarkan anda untuk memuat turun audio MP3 daripada video TikTok dengan menggunakan TikTok percuma ke MP3 Downloader. Alat ini direka khas untuk menukar video MP4 kepada fail audio MP3 atas permintaan pelawat kami.",
+      "para2": "Alat ini menggabungkan banyak ciri keselamatan. Ciri ini termasuk pelaksanaan sistem penyulitan hujung ke hujung yang selamat dan pemadaman data serta-merta. Fail dan data tentang pengguna yang memuat turun fail tersebut tidak disimpan pada pelayan tempatan kami dan tidak dikongsi dengan sesiapa pun.",
+      "para3": "Alat ini serasi dengan semua peranti yang tersedia di seluruh dunia dan dengan semua sistem pengendalian seperti iOS, Android, Windows, Linux dan Unix. Tidak perlu memuat turun dan memasang sebarang sambungan penyemak imbas untuk menggunakan alat ini. Keseluruhan fungsi disediakan pada satu halaman.",
+      "para4": "Fail yang dimuat turun diimbas untuk virus, dan anda boleh memuat turun seberapa banyak fail yang anda mahu tanpa sebarang langganan atau pendaftaran dalam beberapa saat."
+    },
+    "thumbnail": {
+      "heading": "TikTok Thumbnail Image Downloader",
+      "para1": "Imej kecil ialah imej yang diletakkan pada video TikTok untuk menarik perhatian penonton. Ttmp3.io juga menawarkan Pemuat Tumbnail TikTok yang menyimpan lakaran kecil ini dalam format HD. Fail ini disimpan dalam format JPG, JPEG, WebP dan PNG.",
+      "para2": "Imej ini disimpan dalam saiz asalnya tanpa sebarang pemampatan yang terlibat. Ttmp3 ialah alat percuma yang juga tidak memerlukan langganan atau pendaftaran dan menjamin akses yang cepat dan selamat. Apa yang anda perlu lakukan ialah menyalin URL dan menampalnya dalam kotak carian. Rehat terpulang kepada ttmp3.",
+      "para3": "Alat ini juga serasi dengan semua peranti dan perisian sistem. Anda juga tidak perlu memuat turun atau memasang sebarang perisian atau sambungan penyemak imbas untuk menggunakan alat ini. Lakaran kecil yang disimpan oleh alat ini juga tidak mempunyai tera air padanya. Semua ciri ini menjadikan alat ini pilihan pertama dalam kalangan pesaingnya."
+    },
+    "slideshow": {
+      "heading": "Pemuat Turun Tayangan Slaid Foto TikTok",
+      "para1": "Tayangan Slaid TikTok ialah koleksi foto dan imej dengan bunyi di latar belakang. Orang ramai berkongsi imej ini dengan orang tersayang mereka. Untuk tujuan ini, mereka membuat tayangan slaid imej ini dan memasukkan bunyi di latar belakang untuk menjadikannya menarik.",
+      "para2": "Ttmp3 TikTok Slideshow Downloader ialah alat yang dibangunkan untuk memudahkan penggunanya memuat turun foto dan tayangan slaid daripada profil awam pengguna TikTok. Alat ini memuat turun foto dan video tanpa logo atau tera air, sekali gus menjadikannya alat yang popular di kalangan pesaingnya. Selanjutnya, ia memuat turun foto dan tayangan slaid dalam format HD.",
+      "para3": "Alat ini serasi dengan semua platform yang tersedia, seperti Android, iOS, macOS, Windows, Linux atau Unix. Ia pantas, tepat, percuma dan selamat untuk digunakan. Memandangkan kami tidak menyimpan atau menyimpan rekod fail yang dimuat turun pada pelayan kami, alat ini merupakan pilihan yang popular untuk pelawat. Kami juga menggunakan sambungan selamat antara peranti supaya tiada maklumat tentang pelawat kami boleh digodam."
+    },
+    "story": {
+      "heading": "Pemuat turun Cerita TikTok",
+      "para1": "TikTok Story Downloader kami ialah alat percuma dan mudah digunakan yang membolehkan anda memuat turun cerita daripada mana-mana profil awam yang tersedia di TikTok. Tidak perlu memuat turun sebarang perisian atau memasang sebarang sambungan atau pemalam. Keseluruhan proses adalah tanpa kerumitan, selamat dan terjamin.",
+      "para2": "Cerita ini dimuat turun dalam format HD, Ultra HD dan juga 4K, bergantung pada cara cerita ini dimuat naik oleh pengguna TikTok tertentu. Alat ini boleh digunakan pada semua peranti dan mempunyai keserasian global. Tidak perlu risau tentang apa-apa. Anda hanya perlu salin dan tampal URL di sini.",
+      "para3": "Cerita TikTok yang pernah dimuat naik oleh seseorang kekal pada profil mereka selama 24 jam seterusnya. Jadi, lebih baik simpannya untuk melihatnya di luar talian kemudian. Alat kami memberikan anda kemudahan ini secara percuma dan tanpa sebarang tera air. Juga tiada had untuk memuat turun cerita di ttmp3."
+    }
+  },
+  "howToUse": {
+    "heading": "Cara Menggunakan TikTok MP4 Downloader Dalam Talian",
+    "title1": "Cari Video TT",
+    "description1": "Buka TikTok pada peranti anda dan cari video yang anda inginkan. Mainkan video untuk menyemak sama ada ia berfungsi. Klik pada butang kongsi dan salin pautan. Pautan akan disimpan dalam papan keratan peranti anda.",
+    "title2": "Tampal URL Video",
+    "description2": "Buka ttmp3.io pada peranti anda dan klik pada butang tampal. Pautan akan ditampal di sana. Sekarang, klik pada butang carian untuk mencari video. Anda akan dilayari ke halaman muat turun, di mana video yang anda inginkan akan ditunjukkan bersama dengan butang muat turun.",
+    "title3": "Muat turun Video",
+    "description3": "Klik pada butang muat turun, dan video akan disimpan pada storan peranti anda dalam format HD MP4. Video akan disimpan tanpa tera air. Klik pada Muat turun video lain jika anda ingin memuat turun lebih banyak video daripada TikTok.",
+    "mp3": {
+      "heading": "Cara Menggunakan Penukar Audio TikTok ke MP3 Dalam Talian",
+      "title1": "Cari Pautan TikTok",
+      "description1": "Buka TikTok pada mudah alih atau desktop anda dan cari video yang anda inginkan. Jika video dimainkan dengan betul, kemudian salin URL video dengan mengklik pada butang kongsi pada peranti mudah alih. Di sana, anda akan melihat pilihan pautan salin. Klik padanya, dan pautan akan disimpan pada papan keratan anda. Pada komputer desktop, salin URL dari bar alamat atau dengan mengklik kanan dan memilih pilihan pautan salin.",
+      "title2": "Tampal URL",
+      "description2": "Lawati ttmp3.io dan tampal pautan dalam kotak teks yang diberikan. Sekarang, klik pada butang carian. Anda akan dialihkan ke halaman muat turun. Proses ini akan cepat dan selesai dalam masa hampir 1 saat. Di sana anda akan melihat dua butang muat turun.",
+      "title3": "Muat turun Fail MP3",
+      "description3": "Klik pada butang 'Muat turun MP3', dan fail audio dengan kualiti tertinggi yang tersedia akan disimpan pada peranti anda. Sekarang klik padanya untuk memainkan fail. Anda juga boleh mengklik pada butang 'Muat Turun Video Lain' untuk memuat turun lebih banyak video, MP3, lakaran kecil, cerita atau tayangan slaid."
+    },
+    "thumbnail": {
+      "heading": "Cara Menggunakan Pemuat Tumbnail TikTok Dalam Talian",
+      "title1": "Salin URL",
+      "description1": "Pertama sekali, anda perlu menyalin pautan fail video untuk memuat turun imej kecil. Anda boleh berbuat demikian dengan membuka video dalam aplikasi TikTok dan kemudian mengklik pada butang kongsi. Di sana anda akan melihat pilihan 'salin pautan'. Klik padanya dan pautan akan disalin ke papan keratan peranti anda.",
+      "title2": "Tampal URL",
+      "description2": "Buka ttmp3.io dalam pelayar web anda dan klik pada bar alamat. Tampal URL yang telah anda salin tadi dengan menggunakan kekunci Ctrl+V. Sekarang, klik pada butang carian. Lakaran kecil akan dipaparkan kepada anda pada halaman baharu.",
+      "title3": "Muat Tumbnail",
+      "description3": "Klik pada butang 'Muat Tumbnail', dan fail akan disimpan dalam folder muat turun peranti anda. Buka fail dengan mengklik padanya. Fail akan berada dalam format WebP, JPEG, JPG atau PNG berkualiti tinggi tanpa tera air disertakan."
+    },
+    "slideshow": {
+      "heading": "Cara Menggunakan Pemuat Turun Tayangan Slaid TikTok Dalam Talian",
+      "title1": "Cari Pautan Tayangan Slaid TikTok",
+      "description1": "Buka TikTok.com pada pelayar web anda atau lancarkan apl pada peranti mudah alih anda. Sekarang navigasi ke tayangan slaid yang anda ingin muat turun dan klik pada butang kongsi di sudut kanan bawah. Di sana anda akan menemui pilihan 'Salin Pautan'. Hanya klik padanya.",
+      "title2": "Tampal Pautan Tayangan Slaid",
+      "description2": "Buka pemuat turun Tayangan Slaid ttmp3.io dan tampal pautan di sana. Klik pada butang 'Cari', dan anda akan dialihkan ke halaman muat turun.",
+      "title3": "Muat turun Tayangan Slaid",
+      "description3": "Klik pada butang 'Muat Turun Tayangan Slaid'. Tayangan Slaid akan dimuat turun ke storan peranti anda dalam masa beberapa saat. Tiada logo atau tera air akan disertakan dalam tayangan slaid. Pergi ke lokasi itu dan buka tayangan slaid."
+    },
+    "story": {
+      "heading": "Cara Menggunakan TikTok Story Downloader Dalam Talian",
+      "title1": "Cari URL Cerita TikTok",
+      "description1": "Proses mencari URL Cerita TikTok sangat mudah dan serupa. Buka video yang anda inginkan pada aplikasi TikTok dan klik pada butang kongsi yang tersedia di sudut kanan bawah. Di sana anda akan melihat pilihan 'Salin Pautan'. Hanya klik padanya.",
+      "title2": "Tampal URL Cerita",
+      "description2": "Tampal URL ini dalam kotak carian ttmp3.io dengan membuka tapak web dalam pelayar web. Sekarang, klik pada butang carian. Ttmp3 akan mencari cerita dan mengarahkan anda ke halaman muat turun.",
+      "title3": "Muat turun Cerita",
+      "description3": "Klik pada butang 'Muat Turun Cerita'. Cerita ini akan dimuat turun pada storan tempatan peranti anda dalam format HD atau 4K terbaik yang tersedia. Cerita ini akan menjadi tera air dan bebas logo, sekali gus memberi anda kebebasan untuk menggunakannya selepas itu."
+    }
+  },
+  "faq": {
+    "heading": "Soalan Lazim",
+    "title1": "Bolehkah video TikTok dimuat turun?",
+    "description1": "Ya, video TikTok boleh dimuat turun dengan mudah menggunakan apl pihak ketiga seperti TTMp3.io, SSSTikTok, Y2Mate, SnapTik dan TikTokio.",
+    "title2": "Bagaimana untuk memuat turun video TikTok tanpa tera air?",
+    "description2": "Buka ttmp3.io dan tampal pautan video untuk dimuat turun. Kemudian, klik pada butang muat turun untuk menyimpan video pada peranti anda.",
+    "title3": "Bagaimana untuk memuat turun video TikTok tanpa logo?",
+    "description3": "ttmp3.io membolehkan anda memuat turun video dalam format HD MP4 dengan logo TT. Antara muka pengguna juga mudah dan mesra pengguna.",
+    "title4": "Adakah TikTok memberitahu anda siapa yang memuat turun video anda?",
+    "description4": "Tidak, maklumat anda tidak akan dikongsi dengan pencipta video selepas video dimuat turun.",
+    "title5": "Bolehkah anda menonton video TikTok tanpa memuat turun aplikasinya?",
+    "description5": "Ya, anda boleh menggunakan tapak web TikTok untuk menonton video tanpa memuat turun aplikasi TikTok.",
+    "title6": "Adakah terdapat sebarang yuran langganan untuk menggunakan ttmp3.io TikTok Video Downloader ini?",
+    "description6": "Tidak, tiada yuran langganan untuk memuat turun video daripada ttmp3.io.",
+    "title7": "Adakah terdapat sambungan yang diperlukan untuk memuat turun video dari ttmp3?",
+    "description7": "Tidak, tiada sambungan untuk memuat turun video daripada ttmp3.io.",
+    "title8": "Di manakah video TikTok disimpan selepas memuat turun?",
+    "description8": "Video TikTok disimpan dalam folder muat turun peranti anda secara lalai. Tetapi anda boleh menukar laluan ini kemudian.",
+    "title9": "Adakah saya perlu mendaftar untuk menggunakan pemuat turun ini?",
+    "description9": "Tidak, tidak perlu mendaftar masuk atau mendaftar untuk menggunakan pemuat turun ttmp3 TikTok MP4.",
+    "title10": "Bagaimanakah saya boleh mendapatkan pautan ke video TikTok?",
+    "description10": "Buka video dalam aplikasi TikTok atau di tapak web TikTok dan klik pada butang kongsi. Di sana, anda akan menemui pilihan untuk menyalin pautan atau URL.",
+    "title11": "Bolehkah saya memuat turun video TikTok dalam format HD tanpa tera air?",
+    "description11": "Ya, ttmp3.io ialah apl eksklusif di mana anda boleh memuat turun video dalam format HD tanpa menggunakan tera air. Selain itu, anda disediakan dengan muat turun tanpa had.",
+    "mp3": {
+      "title1": "Bagaimana untuk menukar video TikTok kepada MP3?",
+      "description1": "Anda boleh menggunakan ttmp3.io untuk tujuan ini. Hanya salin pautan dari TikTok dan tampalkannya dalam kotak teks, dan klik pada butang carian. Sekarang, klik pada butang muat turun, dan anda selesai.",
+      "title2": "Bagaimana untuk menukar audio TikTok kepada MP3?",
+      "description2": "Ttmp3.io menyediakan anda cara termudah untuk menukar dan memuat turun fail audio kepada format MP3 secara percuma.",
+      "title3": "Berapa banyak muat turun TikTok ada?",
+      "description3": "Anda boleh memuat turun seberapa banyak fail yang anda boleh dengan menggunakan perkhidmatan percuma ttmp3.io. Kami sentiasa berusaha di laman web kami untuk memberikan anda pengalaman yang lancar.",
+      "title4": "Bilakah TikTok boleh dimuat turun?",
+      "description4": "Apl TikTok boleh dimuat turun dengan mudah daripada Google Play, Apple Store atau Gedung Windows, bergantung pada keserasian peranti anda.",
+      "title5": "Bilakah video TikTok boleh dimuat turun semula?",
+      "description5": "Pada ttmp3.io, anda boleh memuat turun fail video atau audio lain dengan serta-merta. Tiada had pada masa atau bilangan muat turun yang tersedia.",
+      "title6": "Adakah kita perlu memuat turun sebarang perisian untuk menggunakan perkhidmatan ini?",
+      "description6": "Tidak. Anda tidak perlu memuat turun sebarang perisian untuk menggunakan perkhidmatan ini. Perkhidmatan kami boleh digunakan dengan mudah dari laman web kami. Proses ini melibatkan beberapa langkah mudah.",
+      "title7": "Adakah kami menyimpan data atau fail peribadi pengguna?",
+      "description7": "Tidak. ttmp3 tidak menyimpan data pengguna atau profil peribadi. Anda juga tidak perlu mendaftar untuk menggunakan perkhidmatan ini. Semua video dimuat turun terus dari TikTok ke peranti tempatan pengguna."
+    },
+    "thumbnail": {
+      "title1": "Adakah ini mungkin untuk memuat turun lakaran kecil daripada Video TikTok?",
+      "description1": "ya. Lakaran kecil TikTok boleh dimuat turun dengan mudah menggunakan perkhidmatan muat turun percuma ttmp3.io.",
+      "title2": "Dalam format fail apakah lakaran kecil dimuat turun?",
+      "description2": "Lakaran kenit ini dimuat turun daripada video TikTok dalam format JPG, JPEG, PNG atau WebP.",
+      "title3": "Bolehkah saya memuat turun imej kecil daripada semua video di TikTok?",
+      "description3": "Ya, lakaran kenit boleh dimuat turun daripada semua video yang mengandungi lakaran kenit di dalamnya.",
+      "title4": "Adakah imej kecil yang dimuat turun disimpan pada pelayan ttmp3.io?",
+      "description4": "Tidak. Kami mematuhi peraturan dan peraturan privasi dengan ketat. Tiada data disimpan pada pelayan kami.",
+      "title5": "Berapa banyak lakaran kecil boleh saya muat turun menggunakan ttmp3.io?",
+      "description5": "Tiada had untuk memuat turun lakaran kecil daripada TikTok menggunakan perkhidmatan pemuat turun ttmp3.io. Anda boleh memuat turun ratusan imej kecil tanpa tera air dan logo.",
+      "title6": "Di manakah lakaran kecil yang dimuat turun disimpan pada peranti saya?",
+      "description6": "Fail atau lakaran kecil yang dimuat turun disimpan dalam folder muat turun peranti anda. Pastikan anda membenarkan ttmp3.io mengakses storan peranti anda dengan membuat pengaturan yang diperlukan dalam tetapan."
+    },
+    "slideshow": {
+      "title1": "Adakah saya perlu membayar untuk menggunakan Pemuat Turun Tayangan Slaid?",
+      "description1": "Tidak. Semua alatan di laman web kami adalah percuma untuk digunakan. Selanjutnya, tidak perlu mendaftar atau log masuk.",
+      "title2": "Bolehkah saya menggunakan ttmp3 Photo and Slideshow Downloader pada peranti Android?",
+      "description2": "Ya, ia boleh digunakan pada mana-mana peranti yang menggunakan Android sebagai sistem pengendalian.",
+      "title3": "Bolehkah saya menggunakan ttmp3 TikTok Slideshow Downloader pada iOS atau macOS saya?",
+      "description3": "ya. Anda boleh menggunakan alat ini dengan mudah pada iOS atau macOS anda. Tiada pendaftaran atau yuran pendaftaran termasuk.",
+      "title4": "Adakah selamat untuk memuat turun foto dan tayangan slaid dari TikTok menggunakan ttmp3.io?",
+      "description4": "100%. Tidak perlu risau. Semua trafik yang masuk dan keluar dari laman web kami disulitkan dengan menggunakan protokol terkini. Jadi, tiada kecurian atau kebocoran privasi.",
+      "title5": "Adakah terdapat sebarang sambungan penyemak imbas yang diperlukan untuk menggunakan alat ini?",
+      "description5": "Tidak. Anda tidak perlu memuat turun sebarang sambungan untuk menggunakan alat ini. Laman web ini mempunyai antara muka yang bersih dan mesra pengguna.",
+      "title6": "Adakah Tayangan Slaid yang dimuat turun bebas tera air?",
+      "description6": "ya. Semua tayangan slaid yang dimuat turun menggunakan ttmp3 adalah bebas daripada tera air dan logo."
+    },
+    "story": {
+      "title1": "Adakah pemuat turun cerita dari ttmp3.io percuma?",
+      "description1": "100%. Anda boleh menggunakan alat kami secara percuma dan tanpa had. Tiada yuran pendaftaran atau pendaftaran termasuk.",
+      "title2": "Bolehkah saya menggunakan ttmp3 TikTok Story Downloader pada peranti Android?",
+      "description2": "Ya, pemuat turun cerita ttmp3 boleh digunakan pada peranti Android secara percuma.",
+      "title3": "Bolehkah saya menggunakan ttmp3 TikTok Story Downloader pada iOS atau Mac?",
+      "description3": "ya. Pemuat turun cerita ini akan berfungsi dengan baik pada mana-mana peranti iOS atau Mac, tanpa mengira versi yang dipasang padanya.",
+      "title4": "Bolehkah saya memuat naik cerita saya sendiri di TikTok menggunakan ttmp3.io?",
+      "description4": "Tidak, anda tidak boleh menggunakan alat ini untuk memuat naik cerita anda ke TikTok. Anda boleh menggunakan aplikasi rasmi TikTok untuk tujuan ini.",
+      "title5": "Adakah ttmp3.io menyimpan rekod semua cerita yang dimuat turun?",
+      "description5": "Tidak. Kami tidak menyimpan rekod sebarang cerita yang dimuat turun dari tapak web kami. Kami menghormati privasi anda.",
+      "title6": "Di manakah cerita TikTok ini dimuat turun pada peranti saya?",
+      "description6": "Anda boleh menemuinya dalam folder muat turun peranti anda. Ini ialah lokasi lalai jika anda memuat turunnya dari ttmp3.",
+      "title7": "Adakah terdapat sebarang kebimbangan undang-undang semasa memuat turun cerita daripada TikTok?",
+      "description7": "Tidak, tiada kewajipan undang-undang. Dari segi etika, anda hanya perlu memuat turun cerita orang yang mungkin anda kenali."
+    }
+  },
+  "seo": {
+    "mp4": {
+      "title": "Pemuat Turun Video TikTok - Simpan Video TikTok Tanpa Tera Air dalam HD MP4",
+      "description": "Muat turun video TikTok dalam HD tanpa tera air - Tidak terhad, percuma dan pantas. Format MP4 & MP3 disokong pada semua peranti. Pemuat turun TikTok paling mudah tersedia dalam talian."
+    },
+    "mp3": {
+      "title": "TikTok to MP3 Downloader – Menukar Video kepada MP3 Audio secara percuma",
+      "description": "Pemuat turun MP3 audio TikTok dalam talian yang paling selamat, pantas dan mudah digunakan untuk semua peranti. Menukar video kepada format MP3 & MP4 berkualiti tinggi tanpa logo disertakan."
+    },
+    "thumbnail": {
+      "title": "TikTok Thumbnail Downloader – Percuma, HD, Tiada Tera Air Disertakan",
+      "description": "Muat turun lakaran kecil TikTok tanpa logo dan tera air dalam saiz asalnya. Ciri percuma ini berfungsi untuk semua peranti dengan semua saiz skrin dan memuat turun lakaran kecil dalam format HD."
+    },
+    "slideshow": {
+      "title": "Pemuat Turun Tayangan Slaid TikTok – HD, dan Tera Air Percuma",
+      "description": "Muat turun tayangan slaid foto TikTok dalam resolusi tinggi tanpa tera air – Alat ini daripada ttmp3 adalah pantas, percuma dan mudah. Simpan video tayangan slaid dari mana-mana profil TikTok awam dengan mudah."
+    },
+    "story": {
+      "title": "TikTok Story Downloader – Pantas, Percuma, HD, Tiada Tera Air & Nama Pengguna",
+      "description": "Gunakan ttmp3 untuk menyimpan video cerita TikTok daripada mana-mana profil awam serta-merta dalam format HD atau 4K. Cepat, percuma, cekap, tiada tera air & nama pengguna disertakan."
+    }
+  }
+}

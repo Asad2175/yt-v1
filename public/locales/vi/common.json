@@ -1,0 +1,288 @@
+{
+  "menu": {
+    "home": "Trang chủ",
+    "more": "Hơn",
+    "mp3": {
+      "title": "Trình tải xuống TikTok sang MP3",
+      "description": "Chuyển đổi và tải xuống video TikTok thành tệp âm thanh MP3"
+    },
+    "mp4": {
+      "title": "Trình tải xuống TikTok MP4",
+      "description": "Tải xuống video TikTok không có hình mờ ở định dạng MP4"
+    },
+    "thumbnail": {
+      "title": "Trình tải xuống hình thu nhỏ TikTok",
+      "description": "Tải xuống hình thu nhỏ TikTok ở kích thước và chất lượng gốc"
+    },
+    "story": {
+      "title": "Trình tải xuống câu chuyện TikTok",
+      "description": "Tải xuống TikTok Story không có hình mờ miễn phí"
+    },
+    "slide": {
+      "title": "Trình tải xuống trình chiếu TikTok",
+      "description": "Tải xuống Trình chiếu TikTok với chất lượng tốt nhất"
+    }
+  },
+  "footer": {
+    "aboutUs": "Về chúng tôi",
+    "termsOfUse": "Điều khoản sử dụng",
+    "privacyPolicy": "Chính sách bảo mật",
+    "dmca": "DMCA",
+    "contactUs": "Liên hệ với chúng tôi",
+    "associated": "Ứng dụng này chỉ được xây dựng cho mục đích giải trí và không liên kết với TikTok hoặc ByteDance theo bất kỳ cách nào.",
+    "rightsReserved": "©ttmp3.io 2025 Bảo lưu mọi quyền."
+  },
+  "downloader": {
+    "placeholder": "Dán URL video TikTok...",
+    "paste": "Dán",
+    "search": "Tìm kiếm",
+    "clear": "Thông thoáng",
+    "loading": "Đang tải...",
+    "mp4": {
+      "title": "Trình tải xuống video TikTok",
+      "description": "Giải pháp tối ưu để tải xuống video TikTok MP4 không giới hạn – An toàn, không rắc rối và không có hình mờ"
+    },
+    "mp3": {
+      "title": "Trình tải xuống TikTok sang MP3",
+      "description": "Chuyển đổi TikTok sang âm thanh MP3 – Trình tải xuống không giới hạn, nhanh chóng, miễn phí, chất lượng cao và ổn định",
+      "download": "Tải xuống Mp3"
+    },
+    "thumbnail": {
+      "title": "Trình tải xuống hình thu nhỏ TikTok",
+      "description": "Tải xuống hình thu nhỏ HD từ video TikTok ở kích thước gốc - 100% miễn phí và dễ sử dụng - Không có hình mờ hoặc logo",
+      "download": "Tải xuống hình thu nhỏ"
+    },
+    "slideshow": {
+      "title": "Trình tải xuống trình chiếu TikTok",
+      "description": "Tải xuống trình chiếu TikTok HD miễn phí – nhanh chóng, an toàn, không có hình mờ, miễn phí 100%",
+      "download": "Tải xuống trình chiếu"
+    },
+    "story": {
+      "title": "Trình tải xuống câu chuyện TikTok",
+      "description": "Tải xuống HD TikTok Stories miễn phí – nhanh chóng, dễ sử dụng, không có tên người dùng và hình mờ",
+      "download": "Tải xuống câu chuyện"
+    }
+  },
+  "features": {
+    "title1": "An toàn và bảo mật",
+    "description1": "Không cần lo lắng về việc dữ liệu bị đánh cắp. Không có liên kết nào được lưu.",
+    "title2": "Không có hình mờ",
+    "description2": "Tải xuống video TikTok MP4 không có hình mờ hoặc logo TT",
+    "title3": "Tải xuống không giới hạn",
+    "description3": "Cung cấp tải xuống miễn phí không giới hạn. Không cần đăng ký",
+    "mp3": {
+      "title1": "Tải xuống MP3 nhanh nhất",
+      "description1": "Công cụ chuyển đổi video sang âm thanh MP3 trực tuyến nhanh chóng và miễn phí.",
+      "title2": "Không có vi-rút",
+      "description2": "Không có virus, không lag. Bộ chuyển đổi sạch và an toàn có sẵn trực tuyến.",
+      "title3": "Tải xuống không giới hạn",
+      "description3": "Không giới hạn. Không căng thẳng. Không đăng ký. Nghĩ vượt qua giới hạn."
+    },
+    "thumbnail": {
+      "title1": "Tải xuống kích thước gốc",
+      "description1": "Tải xuống hình thu nhỏ kích thước gốc ở định dạng PNG, JPG, JPEG và WebP.",
+      "title2": "Logo và hình mờ miễn phí",
+      "description2": "Tải xuống hình ảnh HD rõ nét không có logo hoặc hình mờ.",
+      "title3": "Tải xuống nhanh không giới hạn",
+      "description3": "Tải xuống hình thu nhỏ không giới hạn trong thời gian ngắn."
+    },
+    "slideshow": {
+      "title1": "Chất lượng HD hoặc 4K",
+      "description1": "Tải xuống Trình chiếu ở định dạng HD hoặc 4K nếu có trên TikTok.",
+      "title2": "100% miễn phí và không giới hạn",
+      "description2": "Không cần phải lo lắng về giá cả và giới hạn tải xuống.",
+      "title3": "Tải xuống không nén",
+      "description3": "Tất cả các tệp tải xuống đều giữ nguyên kích thước gốc. Không cần nén."
+    },
+    "story": {
+      "title1": "Chất lượng cao nhất",
+      "description1": "Tải xuống các câu chuyện ở định dạng HD hoặc thậm chí 4K nếu có.",
+      "title2": "Khả năng tương thích của thiết bị",
+      "description2": "Hoạt động mượt mà trên mọi thiết bị (Android, iOS, Windows)",
+      "title3": "Xóa hình mờ",
+      "description3": "Hình mờ và logo sẽ tự động bị xóa trước khi tải xuống"
+    }
+  },
+  "content": {
+    "heading": "Trình tải xuống TikTok",
+    "para1": "Ttmp3 là dịch vụ tải xuống video TikTok trực tuyến, cung cấp miễn phí video HD từ ứng dụng TikTok ở định dạng MP3 và MP4. Tính năng chính của trình tải xuống này là tải xuống tất cả video mà không có hình mờ hoặc logo TT. Điều này cho phép người dùng tùy chỉnh video trên mọi thiết bị. Bạn cũng có thể sử dụng ứng dụng này trên mọi thiết bị, dù là điện thoại di động, máy tính bảng, máy tính xách tay hay PC.",
+    "para2": "Ttmp3 được kiểm tra tính tương thích với mọi thiết bị và kích thước màn hình. Trình tải xuống TikTok này cung cấp cho người dùng giao diện dễ sử dụng và độ ổn định cao. Bạn có thể tải xuống không giới hạn video ở định dạng HD MP4 mà không lo bị đánh cắp hoặc mất dữ liệu. Máy chủ của chúng tôi không lưu trữ dữ liệu bạn đã tìm kiếm, và các URL sẽ được xóa ngay lập tức khỏi máy chủ. Tất cả những tính năng này khiến ttmp3 trở thành lựa chọn phổ biến cho khách truy cập của chúng tôi.",
+    "mp3": {
+      "heading": "Tải xuống âm thanh TikTok MP3",
+      "para1": "Ttmp3.io cung cấp cho bạn tính năng tải xuống âm thanh MP3 từ video TikTok bằng Trình tải xuống TikTok sang MP3 miễn phí. Công cụ này được thiết kế đặc biệt để chuyển đổi video MP4 sang tệp âm thanh MP3 theo yêu cầu của người dùng.",
+      "para2": "Công cụ này tích hợp nhiều tính năng bảo mật. Các tính năng này bao gồm việc triển khai hệ thống mã hóa đầu cuối an toàn và xóa dữ liệu ngay lập tức. Các tệp và dữ liệu về người dùng tải xuống các tệp đó không được lưu trữ trên máy chủ cục bộ của chúng tôi và không được chia sẻ với bất kỳ ai.",
+      "para3": "Công cụ này tương thích với tất cả các thiết bị có sẵn trên toàn cầu và với tất cả các hệ điều hành như iOS, Android, Windows, Linux và Unix. Bạn không cần tải xuống và cài đặt bất kỳ tiện ích mở rộng trình duyệt nào để sử dụng công cụ này. Toàn bộ chức năng được cung cấp trên một trang duy nhất.",
+      "para4": "Các tệp đã tải xuống sẽ được quét virus và bạn có thể tải xuống bao nhiêu tệp tùy thích mà không cần đăng ký hay đăng ký chỉ trong vài giây."
+    },
+    "thumbnail": {
+      "heading": "Trình tải xuống hình thu nhỏ TikTok",
+      "para1": "Hình thu nhỏ là hình ảnh được đặt trên video TikTok để thu hút sự chú ý của người xem. Ttmp3.io cũng cung cấp Trình tải xuống hình thu nhỏ TikTok, cho phép lưu các hình thu nhỏ này ở định dạng HD. Các tệp này được lưu ở các định dạng JPG, JPEG, WebP và PNG.",
+      "para2": "Những hình ảnh này được lưu trữ ở kích thước gốc mà không cần nén. Ttmp3 là một công cụ miễn phí, không yêu cầu đăng ký hay đăng nhập và đảm bảo truy cập nhanh chóng và an toàn. Tất cả những gì bạn cần làm là sao chép URL và dán vào hộp tìm kiếm. Mọi việc còn lại là của ttmp3.",
+      "para3": "Công cụ này cũng tương thích với tất cả các thiết bị và phần mềm hệ thống. Bạn cũng không cần tải xuống hoặc cài đặt bất kỳ phần mềm hoặc tiện ích mở rộng trình duyệt nào để sử dụng công cụ này. Hình thu nhỏ được lưu trữ bởi công cụ này cũng không có hình mờ. Tất cả những tính năng này khiến công cụ này trở thành lựa chọn hàng đầu so với các đối thủ cạnh tranh."
+    },
+    "slideshow": {
+      "heading": "Trình tải xuống trình chiếu ảnh TikTok",
+      "para1": "Trình chiếu TikTok là tập hợp các ảnh và hình ảnh có kèm âm thanh nền. Mọi người chia sẻ những hình ảnh này với người thân yêu. Vì mục đích này, họ tạo trình chiếu các hình ảnh này và chèn âm thanh nền để tăng thêm sự hấp dẫn.",
+      "para2": "Ttmp3 TikTok Slideshow Downloader là một công cụ được phát triển để hỗ trợ người dùng tải xuống ảnh và trình chiếu từ trang cá nhân công khai của người dùng TikTok. Công cụ này tải xuống ảnh và video mà không có logo hoặc hình mờ, do đó trở thành một công cụ phổ biến trong số các đối thủ cạnh tranh. Hơn nữa, nó còn tải xuống ảnh và trình chiếu ở định dạng HD.",
+      "para3": "Công cụ này tương thích với tất cả các nền tảng hiện có, như Android, iOS, macOS, Windows, Linux hoặc Unix. Nó nhanh chóng, chính xác, miễn phí và an toàn khi sử dụng. Vì chúng tôi không lưu trữ hoặc ghi lại tệp đã tải xuống trên máy chủ, công cụ này là lựa chọn phổ biến cho khách truy cập. Chúng tôi cũng sử dụng kết nối an toàn giữa các thiết bị để đảm bảo thông tin của khách truy cập không bị đánh cắp."
+    },
+    "story": {
+      "heading": "Trình tải xuống câu chuyện TikTok",
+      "para1": "Trình tải xuống TikTok Story của chúng tôi là một công cụ miễn phí và dễ sử dụng, cho phép bạn tải xuống các câu chuyện từ bất kỳ hồ sơ công khai nào có sẵn trên TikTok. Bạn không cần tải xuống bất kỳ phần mềm hay cài đặt bất kỳ tiện ích mở rộng hay plugin nào. Toàn bộ quá trình diễn ra suôn sẻ, an toàn và bảo mật.",
+      "para2": "Những câu chuyện này được tải xuống ở định dạng HD, Ultra HD và thậm chí 4K, tùy thuộc vào cách người dùng TikTok tải lên. Công cụ này có thể sử dụng trên mọi thiết bị và tương thích toàn cầu. Bạn không cần phải lo lắng về bất cứ điều gì. Bạn chỉ cần sao chép và dán URL vào đây.",
+      "para3": "Các câu chuyện TikTok sau khi được ai đó tải lên sẽ được lưu trên trang cá nhân của họ trong 24 giờ tiếp theo. Vì vậy, tốt hơn hết là bạn nên lưu chúng để xem ngoại tuyến sau. Công cụ của chúng tôi cung cấp cho bạn tính năng này miễn phí và không có hình mờ. Ngoài ra, không có giới hạn tải xuống các câu chuyện trên ttmp3."
+    }
+  },
+  "howToUse": {
+    "heading": "Cách sử dụng TikTok MP4 Downloader trực tuyến",
+    "title1": "Tìm Video TT",
+    "description1": "Mở TikTok trên thiết bị của bạn và tìm kiếm video mong muốn. Phát video để kiểm tra xem video có hoạt động không. Nhấp vào nút chia sẻ và sao chép liên kết. Liên kết sẽ được lưu vào bộ nhớ tạm của thiết bị.",
+    "title2": "Dán URL video",
+    "description2": "Mở ttmp3.io trên thiết bị của bạn và nhấp vào nút dán. Liên kết sẽ được dán vào đó. Bây giờ, hãy nhấp vào nút tìm kiếm để tìm video. Bạn sẽ được chuyển hướng đến trang tải xuống, nơi video mong muốn sẽ được hiển thị cùng với nút tải xuống.",
+    "title3": "Tải xuống video",
+    "description3": "Nhấp vào nút tải xuống và video sẽ được lưu vào bộ nhớ thiết bị của bạn ở định dạng HD MP4. Video sẽ được lưu mà không có hình mờ. Nhấp vào Tải xuống video khác nếu bạn muốn tải thêm video từ TikTok.",
+    "mp3": {
+      "heading": "Cách sử dụng TikTok để chuyển đổi âm thanh MP3 trực tuyến",
+      "title1": "Tìm liên kết TikTok",
+      "description1": "Mở TikTok trên thiết bị di động hoặc máy tính để bàn và tìm kiếm video mong muốn. Nếu video đang phát bình thường, hãy sao chép URL video bằng cách nhấp vào nút chia sẻ trên thiết bị di động. Tại đó, bạn sẽ thấy tùy chọn sao chép liên kết. Nhấp vào đó và một liên kết sẽ được lưu vào bộ nhớ tạm. Trên máy tính để bàn, hãy sao chép URL từ thanh địa chỉ hoặc bằng cách nhấp chuột phải và chọn tùy chọn sao chép liên kết.",
+      "title2": "Dán URL",
+      "description2": "Truy cập ttmp3.io và dán liên kết vào hộp văn bản được cung cấp. Bây giờ, hãy nhấp vào nút tìm kiếm. Bạn sẽ được chuyển hướng đến trang tải xuống. Quá trình này sẽ diễn ra nhanh chóng và hoàn tất trong gần 1 giây. Tại đó, bạn sẽ thấy hai nút tải xuống.",
+      "title3": "Tải xuống tệp MP3",
+      "description3": "Nhấp vào nút 'Tải xuống MP3' và một tệp âm thanh với chất lượng cao nhất hiện có sẽ được lưu trên thiết bị của bạn. Bây giờ, hãy nhấp vào tệp đó để phát tệp. Bạn cũng có thể nhấp vào nút 'Tải xuống Video Khác' để tải thêm video, MP3, hình thu nhỏ, câu chuyện hoặc trình chiếu."
+    },
+    "thumbnail": {
+      "heading": "Cách sử dụng Trình tải xuống hình thu nhỏ TikTok trực tuyến",
+      "title1": "Sao chép URL",
+      "description1": "Trước hết, bạn phải sao chép liên kết của tệp video để tải xuống ảnh thu nhỏ. Bạn có thể thực hiện việc này bằng cách mở video trong ứng dụng TikTok và nhấp vào nút chia sẻ. Tại đó, bạn sẽ thấy tùy chọn 'sao chép liên kết'. Nhấp vào đó, và một liên kết sẽ được sao chép vào bộ nhớ tạm của thiết bị.",
+      "title2": "Dán URL",
+      "description2": "Mở ttmp3.io trong trình duyệt web của bạn và nhấp vào thanh địa chỉ. Dán URL bạn đã sao chép trước đó bằng phím Ctrl + V. Bây giờ, nhấp vào nút tìm kiếm. Hình thu nhỏ sẽ được hiển thị cho bạn trên một trang mới.",
+      "title3": "Tải xuống hình thu nhỏ",
+      "description3": "Nhấp vào nút 'Tải xuống hình thu nhỏ' và một tệp sẽ được lưu trong thư mục tải xuống của thiết bị. Nhấp vào tệp để mở tệp. Tệp sẽ ở định dạng WebP, JPEG, JPG hoặc PNG chất lượng cao và không có hình mờ."
+    },
+    "slideshow": {
+      "heading": "Cách sử dụng Trình tải xuống trình chiếu TikTok trực tuyến",
+      "title1": "Tìm liên kết trình chiếu TikTok",
+      "description1": "Mở TikTok.com trên trình duyệt web hoặc khởi chạy ứng dụng trên thiết bị di động. Bây giờ, hãy điều hướng đến trình chiếu bạn muốn tải xuống và nhấp vào nút chia sẻ ở góc dưới bên phải. Tại đó, bạn sẽ thấy tùy chọn 'Sao chép liên kết'. Chỉ cần nhấp vào đó.",
+      "title2": "Dán liên kết trình chiếu",
+      "description2": "Mở trình tải xuống ttmp3.io Slideshow và dán liên kết vào đó. Nhấp vào nút 'Tìm kiếm' và bạn sẽ được chuyển hướng đến trang tải xuống.",
+      "title3": "Tải xuống trình chiếu",
+      "description3": "Nhấp vào nút 'Tải xuống Trình chiếu'. Trình chiếu sẽ được tải xuống bộ nhớ thiết bị của bạn chỉ trong vài giây. Trình chiếu sẽ không có logo hoặc hình mờ. Hãy vào thư mục đó và mở trình chiếu."
+    },
+    "story": {
+      "heading": "Cách sử dụng TikTok Story Downloader trực tuyến",
+      "title1": "Tìm URL câu chuyện TikTok",
+      "description1": "Quá trình tìm URL TikTok Story rất đơn giản và tương tự. Mở video bạn muốn trên ứng dụng TikTok và nhấp vào nút chia sẻ ở góc dưới bên phải. Tại đó, bạn sẽ thấy tùy chọn 'Sao chép liên kết'. Chỉ cần nhấp vào đó.",
+      "title2": "Dán URL câu chuyện",
+      "description2": "Dán URL này vào hộp tìm kiếm ttmp3.io bằng cách mở trang web trong trình duyệt web. Bây giờ, hãy nhấp vào nút tìm kiếm. Ttmp3 sẽ tìm kiếm câu chuyện và chuyển hướng bạn đến trang tải xuống.",
+      "title3": "Tải xuống câu chuyện",
+      "description3": "Nhấp vào nút 'Tải xuống Câu chuyện'. Câu chuyện sẽ được tải xuống bộ nhớ cục bộ của thiết bị ở định dạng HD hoặc 4K tốt nhất hiện có. Câu chuyện này sẽ không có hình mờ và logo, do đó bạn có thể thoải mái sử dụng sau này."
+    }
+  },
+  "faq": {
+    "heading": "Câu hỏi thường gặp",
+    "title1": "Có thể tải xuống video TikTok không?",
+    "description1": "Có, bạn có thể dễ dàng tải xuống video TikTok bằng các ứng dụng của bên thứ ba như TTMp3.io, SSSTikTok, Y2Mate, SnapTik và TikTokio.",
+    "title2": "Làm thế nào để tải video TikTok không có hình mờ?",
+    "description2": "Mở ttmp3.io và dán liên kết video cần tải xuống. Sau đó, nhấp vào nút tải xuống để lưu video vào thiết bị của bạn.",
+    "title3": "Làm thế nào để tải xuống video TikTok không có logo?",
+    "description3": "ttmp3.io cho phép bạn tải xuống video ở định dạng HD MP4 có logo TT. Giao diện người dùng cũng đơn giản và thân thiện.",
+    "title4": "TikTok có cho bạn biết ai đã tải xuống video của bạn không?",
+    "description4": "Không, thông tin của bạn sẽ không được chia sẻ với người tạo video sau khi video được tải xuống.",
+    "title5": "Bạn có thể xem video TikTok mà không cần tải ứng dụng không?",
+    "description5": "Có, bạn có thể sử dụng trang web TikTok để xem video mà không cần tải xuống ứng dụng TikTok.",
+    "title6": "Có phải trả phí đăng ký để sử dụng Trình tải xuống video TikTok ttmp3.io này không?",
+    "description6": "Không, không có phí đăng ký để tải video từ ttmp3.io.",
+    "title7": "Có cần tiện ích mở rộng nào để tải video từ ttmp3 không?",
+    "description7": "Không, không có tiện ích mở rộng nào để tải video từ ttmp3.io.",
+    "title8": "Video TikTok được lưu ở đâu sau khi tải xuống?",
+    "description8": "Theo mặc định, video TikTok được lưu trong thư mục tải xuống của thiết bị. Tuy nhiên, bạn có thể thay đổi đường dẫn này sau.",
+    "title9": "Tôi có cần phải đăng ký để sử dụng trình tải xuống này không?",
+    "description9": "Không, bạn không cần phải đăng nhập hoặc đăng ký để sử dụng trình tải xuống ttmp3 TikTok MP4.",
+    "title10": "Làm thế nào để tôi có thể lấy được liên kết tới video TikTok?",
+    "description10": "Mở video trong ứng dụng TikTok hoặc trên trang web TikTok và nhấp vào nút chia sẻ. Tại đó, bạn sẽ thấy tùy chọn sao chép liên kết hoặc URL.",
+    "title11": "Tôi có thể tải xuống video TikTok ở định dạng HD mà không có hình mờ không?",
+    "description11": "Vâng, ttmp3.io là một ứng dụng độc quyền cho phép bạn tải xuống video ở định dạng HD mà không cần chèn hình mờ. Hơn nữa, bạn còn được cung cấp quyền tải xuống không giới hạn.",
+    "mp3": {
+      "title1": "Làm thế nào để chuyển đổi video TikTok sang MP3?",
+      "description1": "Bạn có thể sử dụng ttmp3.io cho mục đích này. Chỉ cần sao chép liên kết từ TikTok và dán vào hộp văn bản, sau đó nhấp vào nút tìm kiếm. Bây giờ, nhấp vào nút tải xuống là xong.",
+      "title2": "Làm thế nào để chuyển đổi âm thanh TikTok sang MP3?",
+      "description2": "Ttmp3.io cung cấp cho bạn cách dễ nhất để chuyển đổi và tải xuống các tệp âm thanh sang định dạng MP3 miễn phí.",
+      "title3": "TikTok có bao nhiêu lượt tải xuống?",
+      "description3": "Bạn có thể tải xuống bao nhiêu tệp tùy thích bằng dịch vụ miễn phí ttmp3.io. Chúng tôi liên tục cải tiến trang web để mang đến cho bạn trải nghiệm mượt mà.",
+      "title4": "Khi nào có thể tải TikTok?",
+      "description4": "Bạn có thể dễ dàng tải xuống ứng dụng TikTok từ Google Play, Apple Store hoặc Windows Store, tùy thuộc vào khả năng tương thích của thiết bị.",
+      "title5": "Khi nào video TikTok có thể được tải xuống lại?",
+      "description5": "Trên ttmp3.io, bạn có thể tải xuống ngay lập tức một tệp video hoặc âm thanh khác. Không có giới hạn về thời gian hoặc số lượng tải xuống.",
+      "title6": "Chúng tôi có cần tải xuống phần mềm nào để sử dụng dịch vụ này không?",
+      "description6": "Không. Bạn không cần tải xuống bất kỳ phần mềm nào để sử dụng dịch vụ này. Dịch vụ của chúng tôi có thể dễ dàng sử dụng ngay trên trang web. Quy trình chỉ gồm một vài bước đơn giản.",
+      "title7": "Chúng tôi có lưu dữ liệu hoặc tệp cá nhân của người dùng không?",
+      "description7": "Không. ttmp3 không lưu dữ liệu hoặc hồ sơ cá nhân của người dùng. Bạn cũng không cần phải đăng ký để sử dụng dịch vụ này. Tất cả video đều được tải trực tiếp từ TikTok về thiết bị cục bộ của người dùng."
+    },
+    "thumbnail": {
+      "title1": "Có thể tải xuống hình thu nhỏ từ Video TikTok không?",
+      "description1": "Có. Bạn có thể dễ dàng tải xuống hình thu nhỏ TikTok bằng dịch vụ tải xuống miễn phí ttmp3.io.",
+      "title2": "Hình thu nhỏ được tải xuống ở định dạng tệp nào?",
+      "description2": "Những hình thu nhỏ này được tải xuống từ video TikTok ở định dạng JPG, JPEG, PNG hoặc WebP.",
+      "title3": "Tôi có thể tải xuống hình thu nhỏ từ tất cả video trên TikTok không?",
+      "description3": "Có, bạn có thể tải xuống hình thu nhỏ từ tất cả các video có chứa hình thu nhỏ.",
+      "title4": "Các hình thu nhỏ đã tải xuống có được lưu trữ trên máy chủ ttmp3.io không?",
+      "description4": "Không. Chúng tôi tuân thủ nghiêm ngặt các quy định và quy tắc về quyền riêng tư. Không có dữ liệu nào được lưu trữ trên máy chủ của chúng tôi.",
+      "title5": "Tôi có thể tải xuống bao nhiêu hình thu nhỏ bằng ttmp3.io?",
+      "description5": "Không có giới hạn nào cho việc tải xuống hình thu nhỏ từ TikTok bằng dịch vụ tải xuống ttmp3.io. Bạn có thể tải xuống hàng trăm hình thu nhỏ không có hình mờ và logo.",
+      "title6": "Hình thu nhỏ đã tải xuống được lưu trữ ở đâu trên thiết bị của tôi?",
+      "description6": "Các tệp hoặc hình thu nhỏ đã tải xuống sẽ được lưu trữ trong thư mục tải xuống của thiết bị. Hãy đảm bảo bạn cho phép ttmp3.io truy cập vào bộ nhớ thiết bị bằng cách thực hiện các thiết lập cần thiết trong phần cài đặt."
+    },
+    "slideshow": {
+      "title1": "Tôi có phải trả phí để sử dụng Slideshow Downloader không?",
+      "description1": "Không. Tất cả các công cụ trên trang web của chúng tôi đều miễn phí sử dụng. Hơn nữa, bạn không cần phải đăng ký hoặc đăng nhập.",
+      "title2": "Tôi có thể sử dụng ttmp3 Photo and Slideshow Downloader trên thiết bị Android không?",
+      "description2": "Có, có thể sử dụng trên bất kỳ thiết bị nào sử dụng hệ điều hành Android.",
+      "title3": "Tôi có thể sử dụng ttmp3 TikTok Slideshow Downloader trên iOS hoặc macOS của mình không?",
+      "description3": "Có. Bạn có thể dễ dàng sử dụng công cụ này trên iOS hoặc macOS. Không có phí đăng ký hay phí đăng ký nào cả.",
+      "title4": "Có an toàn khi tải ảnh và trình chiếu từ TikTok bằng ttmp3.io không?",
+      "description4": "100%. Bạn không cần phải lo lắng. Mọi lưu lượng truy cập vào và ra khỏi trang web của chúng tôi đều được mã hóa bằng các giao thức mới nhất. Vì vậy, không có tình trạng trộm cắp hoặc rò rỉ thông tin cá nhân.",
+      "title5": "Có cần tiện ích mở rộng trình duyệt nào để sử dụng công cụ này không?",
+      "description5": "Không. Bạn không cần tải xuống bất kỳ tiện ích mở rộng nào để sử dụng công cụ này. Trang web có giao diện rõ ràng và thân thiện với người dùng.",
+      "title6": "Các Slideshows đã tải xuống có bị mờ không?",
+      "description6": "Có. Tất cả các trình chiếu được tải xuống bằng ttmp3 đều không có hình mờ và logo."
+    },
+    "story": {
+      "title1": "Trình tải truyện từ ttmp3.io có miễn phí không?",
+      "description1": "100%. Bạn có thể sử dụng công cụ của chúng tôi miễn phí và không giới hạn số lần. Không mất phí đăng ký hoặc phí đăng ký.",
+      "title2": "Tôi có thể sử dụng ttmp3 TikTok Story Downloader trên thiết bị Android không?",
+      "description2": "Có, trình tải xuống truyện ttmp3 có thể được sử dụng miễn phí trên các thiết bị Android.",
+      "title3": "Tôi có thể sử dụng ttmp3 TikTok Story Downloader trên iOS hoặc Mac không?",
+      "description3": "Có. Trình tải xuống truyện này hoạt động tốt trên mọi thiết bị iOS hoặc Mac, bất kể phiên bản nào được cài đặt trên đó.",
+      "title4": "Tôi có thể tải câu chuyện của mình lên TikTok bằng ttmp3.io không?",
+      "description4": "Không, bạn không thể sử dụng công cụ này để tải truyện lên TikTok. Bạn có thể sử dụng ứng dụng TikTok chính thức cho mục đích này.",
+      "title5": "ttmp3.io có lưu giữ hồ sơ của tất cả các câu chuyện đã tải xuống không?",
+      "description5": "Không. Chúng tôi không lưu trữ bất kỳ câu chuyện nào được tải xuống từ trang web của chúng tôi. Chúng tôi tôn trọng quyền riêng tư của bạn.",
+      "title6": "Những câu chuyện TikTok này được tải xuống ở đâu trên thiết bị của tôi?",
+      "description6": "Bạn có thể tìm thấy chúng trong thư mục tải xuống của thiết bị. Đây là vị trí mặc định nếu bạn tải xuống từ ttmp3.",
+      "title7": "Có bất kỳ lo ngại pháp lý nào khi tải xuống các câu chuyện từ TikTok không?",
+      "description7": "Không, không có nghĩa vụ pháp lý nào cả. Về mặt đạo đức, bạn chỉ nên tải xuống những câu chuyện của những người bạn có thể biết."
+    }
+  },
+  "seo": {
+    "mp4": {
+      "title": "Trình tải xuống video TikTok - Lưu video TikTok không có hình mờ ở định dạng HD MP4",
+      "description": "Tải video TikTok HD không có hình mờ - Không giới hạn, miễn phí và nhanh chóng. Định dạng MP4 & MP3 được hỗ trợ trên mọi thiết bị. Trình tải xuống TikTok dễ dàng nhất hiện có trên mạng."
+    },
+    "mp3": {
+      "title": "TikTok to MP3 Downloader – Chuyển đổi video sang âm thanh MP3 miễn phí",
+      "description": "Trình tải xuống âm thanh MP3 TikTok trực tuyến an toàn, nhanh chóng và dễ sử dụng nhất cho mọi thiết bị. Chuyển đổi video sang định dạng MP3 & MP4 chất lượng cao mà không có logo."
+    },
+    "thumbnail": {
+      "title": "Trình tải xuống hình thu nhỏ TikTok – Miễn phí, HD, Không có hình mờ",
+      "description": "Tải xuống hình thu nhỏ TikTok không logo và hình mờ ở kích thước gốc. Tính năng miễn phí này hoạt động trên mọi thiết bị với mọi kích thước màn hình và tải xuống hình thu nhỏ ở định dạng HD."
+    },
+    "slideshow": {
+      "title": "Trình tải xuống trình chiếu TikTok – HD và không có hình mờ",
+      "description": "Tải xuống trình chiếu ảnh TikTok độ phân giải cao không có hình mờ – Công cụ này từ ttmp3 nhanh chóng, miễn phí và dễ dàng. Lưu video trình chiếu từ bất kỳ hồ sơ TikTok công khai nào một cách dễ dàng."
+    },
+    "story": {
+      "title": "TikTok Story Downloader – Nhanh chóng, Miễn phí, HD, Không hình mờ & Tên người dùng",
+      "description": "Sử dụng ttmp3 để lưu video TikTok Story từ bất kỳ trang cá nhân công khai nào ngay lập tức ở định dạng HD hoặc thậm chí 4K. Nhanh chóng, miễn phí, hiệu quả, không có hình mờ và tên người dùng."
+    }
+  }
+}

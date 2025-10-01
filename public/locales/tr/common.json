@@ -1,0 +1,288 @@
+{
+  "menu": {
+    "home": "Ev",
+    "more": "Daha",
+    "mp3": {
+      "title": "TikTok'tan MP3'e İndirici",
+      "description": "TikTok videolarını MP3 ses dosyalarına dönüştürün ve indirin"
+    },
+    "mp4": {
+      "title": "TikTok MP4 İndirici",
+      "description": "TikTok videolarını filigran olmadan MP4 formatında indirin"
+    },
+    "thumbnail": {
+      "title": "TikTok Küçük Resim İndirici",
+      "description": "TikTok Küçük Resimlerini Orijinal Boyut ve Kalitede İndirin"
+    },
+    "story": {
+      "title": "TikTok Hikaye İndirici",
+      "description": "Filigransız TikTok Hikayesini ücretsiz indirin"
+    },
+    "slide": {
+      "title": "TikTok Slayt Gösterisi İndirici",
+      "description": "En iyi kaliteyi kullanarak TikTok Slayt Gösterilerini indirin"
+    }
+  },
+  "footer": {
+    "aboutUs": "Hakkımızda",
+    "termsOfUse": "Kullanım Koşulları",
+    "privacyPolicy": "Gizlilik Politikası",
+    "dmca": "DMCA",
+    "contactUs": "Bize Ulaşın",
+    "associated": "Uygulama yalnızca eğlence amaçlı oluşturulmuştur ve TikTok veya ByteDance ile hiçbir şekilde ilişkili değildir.",
+    "rightsReserved": "©ttmp3.io 2025 Tüm Hakları Saklıdır."
+  },
+  "downloader": {
+    "placeholder": "TikTok video URL'sini yapıştır...",
+    "paste": "Yapıştır",
+    "search": "Aramak",
+    "clear": "Temizlemek",
+    "loading": "Yükleniyor...",
+    "mp4": {
+      "title": "TikTok Video İndirici",
+      "description": "Sınırsız MP4 TikTok videosu indirmek için en iyi çözüm - Güvenli, zahmetsiz ve filigransız"
+    },
+    "mp3": {
+      "title": "TikTok'tan MP3'e İndirici",
+      "description": "TikTok seslerini MP3'e dönüştürün – Sınırsız, hızlı, ücretsiz, yüksek kaliteli, istikrarlı indirici",
+      "download": "Mp3 indir"
+    },
+    "thumbnail": {
+      "title": "TikTok Küçük Resim İndirici",
+      "description": "TikTok videolarından HD küçük resimleri orijinal boyutta indirin - %100 ücretsiz ve kullanımı kolay - Filigran veya logo dahil değildir",
+      "download": "Küçük resmi indir"
+    },
+    "slideshow": {
+      "title": "TikTok Slayt Gösterisi İndirici",
+      "description": "Ücretsiz HD TikTok slayt gösterilerini indirin – hızlı, güvenli, filigransız, %100 ücretsiz",
+      "download": "Slayt Gösterisini İndir"
+    },
+    "story": {
+      "title": "TikTok Hikaye İndirici",
+      "description": "HD TikTok Hikayelerini ücretsiz indirin - hızlı, kullanımı kolay, kullanıcı adı ve filigran olmadan",
+      "download": "Hikayeyi İndir"
+    }
+  },
+  "features": {
+    "title1": "Güvenli ve Emniyetli",
+    "description1": "Verilerinizin çalınması konusunda endişelenmenize gerek yok. Hiçbir bağlantı kaydedilmez.",
+    "title2": "Filigran Yok",
+    "description2": "TikTok MP4 videolarını filigran veya TT logosu olmadan indirin",
+    "title3": "Sınırsız İndirmeler",
+    "description3": "Ücretsiz ve sınırsız indirme imkanı sunuyoruz. Abonelik gerekmez",
+    "mp3": {
+      "title1": "En Hızlı MP3 İndirmeleri",
+      "description1": "Hızlı ve ücretsiz çevrimiçi videodan MP3 ses dönüştürücü.",
+      "title2": "Virüssüz",
+      "description2": "Virüs yok, gecikme yok. Temiz ve güvenli dönüştürücü çevrimiçi olarak mevcuttur.",
+      "title3": "Sınırsız İndirmeler",
+      "description3": "Sınır yok. Gerilim yok. Kayıt yok. Sınırların ötesinde düşün."
+    },
+    "thumbnail": {
+      "title1": "Orijinal Boyutta İndirmeler",
+      "description1": "Orijinal boyutlu küçük resimleri PNG, JPG, JPEG ve WebP formatlarında indirin.",
+      "title2": "Logo ve Filigran Ücretsiz",
+      "description2": "Logolar ve filigranlar olmadan net HD görseller indirin.",
+      "title3": "Sınırsız Hızlı İndirmeler",
+      "description3": "Sınırsız sayıda küçük resmi anında indirin."
+    },
+    "slideshow": {
+      "title1": "HD veya 4K Kalite",
+      "description1": "TikTok'ta mevcutsa Slayt Gösterilerini HD veya 4K formatında indirin.",
+      "title2": "%100 Ücretsiz ve Sınırsız",
+      "description2": "Fiyatlandırma ve indirme limitleri konusunda endişelenmenize gerek yok.",
+      "title3": "Sıkıştırılmamış İndirmeler",
+      "description3": "Tüm indirmeler orijinal boyutlarındadır. Hiçbir sıkıştırma söz konusu değildir."
+    },
+    "story": {
+      "title1": "En Yüksek Kalite",
+      "description1": "Hikayeleri HD veya mümkünse 4K formatında indirin.",
+      "title2": "Cihaz Uyumluluğu",
+      "description2": "Tüm cihazlarda sorunsuz çalışır (Android, iOS, Windows)",
+      "title3": "Filigranı Kaldırır",
+      "description3": "Filigranlar ve logolar indirmeden önce otomatik olarak kaldırılır"
+    }
+  },
+  "content": {
+    "heading": "tiktok indirici",
+    "para1": "Ttmp3, TikTok uygulamasından MP3 ve MP4 formatlarında ücretsiz HD video indirme olanağı sunan çevrimiçi bir TikTok video indirme hizmetidir. Bu indiricinin temel özelliği, tüm videoları filigran veya TT logosu olmadan indirmesidir. Bu, ziyaretçilerin bu videoları herhangi bir cihazda özelleştirmelerine olanak tanır. Ayrıca, ister mobil, ister tablet, ister dizüstü bilgisayar veya masaüstü bilgisayar olsun, bu uygulamayı herhangi bir cihazda kullanabilirsiniz.",
+    "para2": "Ttmp3, tüm cihazlar ve ekran boyutlarıyla uyumluluğu açısından kontrol edilmiştir. Bu TikTok indirici, kullanıcılara kullanımı kolay ve son derece kararlı bir arayüz sunar. Hırsızlık veya veri kaybı endişesi duymadan HD MP4 formatında sınırsız video indirebilirsiniz. Sunucularımız aradığınız verileri saklamaz ve URL'ler sunucumuzdan anında silinir. Tüm bu özellikler, ttmp3'ü ziyaretçilerimiz için popüler bir seçenek haline getirir.",
+    "mp3": {
+      "heading": "TikTok MP3 Ses İndirici",
+      "para1": "Ttmp3.io, ücretsiz TikTok to MP3 Downloader'ı kullanarak TikTok videolarından MP3 ses dosyaları indirmenizi sağlar. Bu araç, ziyaretçilerimizin talebi üzerine MP4 videolarını MP3 ses dosyalarına dönüştürmek için özel olarak tasarlanmıştır.",
+      "para2": "Bu araç birçok güvenlik özelliğini bünyesinde barındırmaktadır. Bu özellikler arasında güvenli bir uçtan uca şifreleme sisteminin uygulanması ve verilerin anında silinmesi yer almaktadır. Dosyalar ve bu dosyaları indiren kullanıcılara ait veriler yerel sunucularımızda saklanmaz ve kimseyle paylaşılmaz.",
+      "para3": "Araç, dünya genelindeki tüm cihazlarla ve iOS, Android, Windows, Linux ve Unix gibi tüm işletim sistemleriyle uyumludur. Bu aracı kullanmak için herhangi bir tarayıcı eklentisi indirip yüklemenize gerek yoktur. Tüm işlevler tek bir sayfada sunulmaktadır.",
+      "para4": "İndirilen dosyalar virüslere karşı taranmış olup, hiçbir abonelik veya kayıt işlemine gerek kalmadan saniyeler içerisinde istediğiniz kadar dosya indirebilirsiniz."
+    },
+    "thumbnail": {
+      "heading": "TikTok Küçük Resim İndirici",
+      "para1": "Küçük resimler, izleyicinin dikkatini çekmek için TikTok videolarının üzerine yerleştirilen görsellerdir. Ttmp3.io ayrıca, bu küçük resimleri HD formatında kaydeden bir TikTok Küçük Resim İndiricisi de sunar. Bu dosyalar JPG, JPEG, WebP ve PNG formatlarında kaydedilir.",
+      "para2": "Bu görseller herhangi bir sıkıştırma işlemi uygulanmadan orijinal boyutlarında saklanır. Ttmp3, abonelik veya kayıt gerektirmeyen ve hızlı ve güvenli erişim sağlayan ücretsiz bir araçtır. Tek yapmanız gereken URL'yi kopyalayıp arama kutusuna yapıştırmaktır. Gerisi ttmp3'e kalmıştır.",
+      "para3": "Bu araç, tüm cihazlar ve sistem yazılımlarıyla uyumludur. Bu aracı kullanmak için herhangi bir yazılım veya tarayıcı eklentisi indirmeniz veya yüklemeniz gerekmez. Bu araç tarafından kaydedilen küçük resimlerde filigran da bulunmaz. Tüm bu özellikler, bu aracı rakipleri arasında ilk tercih haline getirir."
+    },
+    "slideshow": {
+      "heading": "TikTok Fotoğraf Slayt Gösterisi İndirici",
+      "para1": "TikTok Slayt Gösterileri, arka planda ses bulunan fotoğraf ve görsellerden oluşan bir koleksiyondur. İnsanlar bu görselleri sevdikleriyle paylaşır. Bu amaçla, bu görsellerden slayt gösterileri oluşturur ve arka plana ses ekleyerek ilgi çekici hale getirirler.",
+      "para2": "Ttmp3 TikTok Slayt Gösterisi İndirici, kullanıcılarının TikTok kullanıcılarının herkese açık profillerinden fotoğraf ve slayt gösterilerini indirmelerini kolaylaştırmak için geliştirilmiş bir araçtır. Bu araç, fotoğraf ve videoları logo veya filigran olmadan indirerek rakipleri arasında popüler bir araç haline gelmiştir. Ayrıca, fotoğraf ve slayt gösterilerini HD formatında indirir.",
+      "para3": "Araç, Android, iOS, macOS, Windows, Linux veya Unix gibi tüm platformlarla uyumludur. Kullanımı hızlı, doğru, ücretsiz ve güvenlidir. İndirilen dosyanın kaydını sunucularımızda saklamadığımız veya saklamadığımız için bu araç ziyaretçiler arasında popüler bir tercihtir. Ayrıca, ziyaretçilerimiz hakkında hiçbir bilginin çalınmaması için cihazlar arasında güvenli bağlantılar kullanıyoruz."
+    },
+    "story": {
+      "heading": "TikTok Hikaye İndirici",
+      "para1": "TikTok Hikaye İndiricimiz, TikTok'ta bulunan tüm herkese açık profillerden hikaye indirmenizi sağlayan ücretsiz ve kullanımı kolay bir araçtır. Herhangi bir yazılım indirmenize veya herhangi bir eklenti veya uzantı yüklemenize gerek yoktur. Tüm süreç zahmetsiz, güvenli ve emniyetlidir.",
+      "para2": "Bu hikayeler, belirli bir TikTok kullanıcısı tarafından nasıl yüklendiğine bağlı olarak HD, Ultra HD ve hatta 4K formatında indirilebilir. Bu araç tüm cihazlarda kullanılabilir ve dünya çapında uyumludur. Hiçbir şey için endişelenmenize gerek yok. Tek yapmanız gereken URL'yi kopyalayıp buraya yapıştırmak.",
+      "para3": "Birisi tarafından yüklenen TikTok hikayeleri, sonraki 24 saat boyunca profilinde kalır. Bu nedenle, daha sonra çevrimdışı görüntülemek için kaydetmeniz daha iyidir. Aracımız bu özelliği size ücretsiz ve filigransız olarak sunar. Ayrıca, ttmp3'te hikaye indirmenin bir sınırı yoktur."
+    }
+  },
+  "howToUse": {
+    "heading": "TikTok MP4 İndirici Çevrimiçi Nasıl Kullanılır?",
+    "title1": "TT Videosunu Bul",
+    "description1": "Cihazınızda TikTok'u açın ve istediğiniz videoyu arayın. Çalışıp çalışmadığını kontrol etmek için videoyu oynatın. Paylaş butonuna tıklayın ve bağlantıyı kopyalayın. Bağlantı, cihazınızın panosuna kaydedilecektir.",
+    "title2": "Video URL'sini Yapıştır",
+    "description2": "Cihazınızda ttmp3.io'yu açın ve yapıştır butonuna tıklayın. Bağlantı oraya yapıştırılacak. Şimdi, videoyu bulmak için arama butonuna tıklayın. İstediğiniz videonun ve bir indirme butonunun gösterildiği indirme sayfasına yönlendirileceksiniz.",
+    "title3": "Videoyu İndir",
+    "description3": "İndir butonuna tıklayın, video cihazınızın depolama alanına HD MP4 formatında kaydedilecektir. Video filigransız kaydedilecektir. TikTok'tan daha fazla video indirmek istiyorsanız 'Başka bir video indir'e tıklayın.",
+    "mp3": {
+      "heading": "TikTok'tan MP3 Ses Dönüştürücüyü Çevrimiçi Olarak Nasıl Kullanabilirsiniz?",
+      "title1": "TikTok Bağlantısını Bul",
+      "description1": "Mobil veya masaüstü bilgisayarınızda TikTok'u açın ve istediğiniz videoyu arayın. Video düzgün çalışıyorsa, mobil cihazınızda paylaş butonuna tıklayarak videonun URL'sini kopyalayın. Burada, bağlantıyı kopyala seçeneğini göreceksiniz. Tıkladığınızda, bağlantı panonuza kaydedilecektir. Masaüstü bilgisayarınızda ise, adres çubuğundan veya sağ tıklayıp bağlantıyı kopyala seçeneğini belirleyerek URL'yi kopyalayın.",
+      "title2": "URL'yi yapıştır",
+      "description2": "ttmp3.io adresini ziyaret edin ve bağlantıyı verilen metin kutusuna yapıştırın. Şimdi arama butonuna tıklayın. Bir indirme sayfasına yönlendirileceksiniz. Bu işlem hızlı olacak ve neredeyse 1 saniye içinde tamamlanacaktır. Orada iki indirme butonu göreceksiniz.",
+      "title3": "MP3 Dosyasını İndir",
+      "description3": "'MP3 İndir' düğmesine tıklayın, cihazınıza en yüksek kalitede bir ses dosyası kaydedilecektir. Şimdi dosyayı oynatmak için tıklayın. Daha fazla video, MP3, küçük resim, hikaye veya slayt gösterisi indirmek için 'Başka Bir Video İndir' düğmesine de tıklayabilirsiniz."
+    },
+    "thumbnail": {
+      "heading": "TikTok Küçük Resim İndiricisi Çevrimiçi Nasıl Kullanılır?",
+      "title1": "URL'yi kopyala",
+      "description1": "Öncelikle, küçük resmi indirmek için video dosyasının bağlantısını kopyalamanız gerekiyor. Bunu, videoyu TikTok uygulamasında açıp paylaş butonuna tıklayarak yapabilirsiniz. Orada 'Bağlantıyı kopyala' seçeneğini göreceksiniz. Tıkladığınızda, bağlantı cihazınızın panosuna kopyalanacaktır.",
+      "title2": "URL'yi yapıştır",
+      "description2": "Web tarayıcınızda ttmp3.io adresini açın ve adres çubuğuna tıklayın. Daha önce kopyaladığınız URL'yi Ctrl+V tuşlarını kullanarak yapıştırın. Şimdi arama butonuna tıklayın. Küçük resim yeni bir sayfada görüntülenecektir.",
+      "title3": "Küçük resmi indir",
+      "description3": "'Küçük Resmi İndir' butonuna tıkladığınızda, cihazınızdaki indirme klasörüne bir dosya kaydedilecektir. Üzerine tıklayarak dosyayı açın. Dosya, filigran içermeyen yüksek kaliteli WebP, JPEG, JPG veya PNG formatında olacaktır."
+    },
+    "slideshow": {
+      "heading": "TikTok Slayt Gösterisi İndiricisi Çevrimiçi Nasıl Kullanılır?",
+      "title1": "TikTok Slayt Gösterisi Bağlantısını Bul",
+      "description1": "Web tarayıcınızda TikTok.com'u açın veya mobil cihazınızda uygulamayı başlatın. İndirmek istediğiniz slayt gösterisine gidin ve sağ alt köşedeki paylaş butonuna tıklayın. Orada 'Bağlantıyı Kopyala' seçeneğini bulacaksınız. Sadece tıklayın.",
+      "title2": "Slayt Gösterisi Bağlantısını Yapıştır",
+      "description2": "ttmp3.io Slayt Gösterisi İndiricisi'ni açın ve bağlantıyı yapıştırın. 'Ara' butonuna tıkladığınızda indirme sayfasına yönlendirileceksiniz.",
+      "title3": "Slayt Gösterisini İndir",
+      "description3": "'Slayt Gösterisini İndir' butonuna tıklayın. Slayt Gösterisi birkaç saniye içinde cihazınızın depolama alanına indirilecektir. Slayt gösterisine herhangi bir logo veya filigran eklenmeyecektir. Bu konuma gidin ve slayt gösterisini açın."
+    },
+    "story": {
+      "heading": "TikTok Hikaye İndirici Çevrimiçi Nasıl Kullanılır?",
+      "title1": "TikTok Hikaye URL'sini bulun",
+      "description1": "TikTok Hikaye URL'sini bulma süreci oldukça basit ve benzerdir. TikTok uygulamasında istediğiniz videoyu açın ve sağ alt köşedeki paylaş butonuna tıklayın. Orada 'Bağlantıyı Kopyala' seçeneğini göreceksiniz. Sadece tıklayın.",
+      "title2": "Hikaye URL'sini Yapıştır",
+      "description2": "Bu URL'yi ttmp3.io web sitesini bir web tarayıcısında açarak arama kutusuna yapıştırın. Şimdi arama düğmesine tıklayın. Ttmp3, hikayeyi arayacak ve sizi indirme sayfasına yönlendirecektir.",
+      "title3": "Hikayeyi İndir",
+      "description3": "'Hikayeyi İndir' butonuna tıklayın. Hikaye, cihazınızın yerel depolama alanına en iyi HD veya 4K formatında indirilecektir. Bu hikaye filigran ve logo içermeyecek, böylece daha sonra özgürce kullanabileceksiniz."
+    }
+  },
+  "faq": {
+    "heading": "Sıkça Sorulan Sorular",
+    "title1": "TikTok videoları indirilebilir mi?",
+    "description1": "Evet, TikTok videoları TTMp3.io, SSSTikTok, Y2Mate, SnapTik ve TikTokio gibi üçüncü taraf uygulamaları kullanarak kolayca indirilebilir.",
+    "title2": "Filigransız TikTok videoları nasıl indirilir?",
+    "description2": "ttmp3.io'yu açın ve indirilecek videonun bağlantılarını yapıştırın. Ardından, videoyu cihazınıza kaydetmek için indirme düğmesine tıklayın.",
+    "title3": "Logosuz TikTok videoları nasıl indirilir?",
+    "description3": "ttmp3.io, TT logolu videoları HD MP4 formatında indirmenize olanak tanır. Kullanıcı arayüzü de basit ve kullanıcı dostudur.",
+    "title4": "TikTok videonuzu kimin indirdiğini söylüyor mu?",
+    "description4": "Hayır, video indirildikten sonra bilgileriniz videonun yaratıcısıyla paylaşılmayacaktır.",
+    "title5": "Uygulamayı indirmeden TikTok videoları izlenebilir mi?",
+    "description5": "Evet, TikTok uygulamasını indirmeden videoları izlemek için TikTok web sitesini kullanabilirsiniz.",
+    "title6": "Bu ttmp3.io TikTok Video İndiricisini kullanmak için herhangi bir abonelik ücreti var mı?",
+    "description6": "Hayır, ttmp3.io'dan video indirmek için herhangi bir abonelik ücreti yoktur.",
+    "title7": "Ttmp3'ten video indirmek için herhangi bir eklentiye ihtiyaç var mı?",
+    "description7": "Hayır, ttmp3.io'dan video indirmek için bir eklenti yok.",
+    "title8": "TikTok videoları indirildikten sonra nereye kaydediliyor?",
+    "description8": "TikTok videoları varsayılan olarak cihazınızın indirilenler klasörüne kaydedilir. Ancak bu yolu daha sonra değiştirebilirsiniz.",
+    "title9": "Bu indiriciyi kullanmak için kayıt olmam gerekiyor mu?",
+    "description9": "Hayır, ttmp3 TikTok MP4 indiricisini kullanmak için oturum açmanıza veya kaydolmanıza gerek yoktur.",
+    "title10": "TikTok videosunun bağlantısını nasıl alabilirim?",
+    "description10": "Videoyu TikTok uygulamasında veya TikTok web sitesinde açın ve paylaş butonuna tıklayın. Burada bağlantıyı veya URL'yi kopyalama seçeneğini bulacaksınız.",
+    "title11": "TikTok videolarını filigran olmadan HD formatında indirebilir miyim?",
+    "description11": "Evet, ttmp3.io, filigran kullanmadan HD formatında video indirebileceğiniz özel bir uygulamadır. Üstelik sınırsız indirme olanağı da sunar.",
+    "mp3": {
+      "title1": "TikTok videosu MP3'e nasıl dönüştürülür?",
+      "description1": "Bunun için ttmp3.io kullanabilirsiniz. TikTok'taki bağlantıyı kopyalayıp metin kutusuna yapıştırın ve arama butonuna tıklayın. Şimdi indir butonuna tıklayın ve işiniz bitti.",
+      "title2": "TikTok sesi MP3'e nasıl dönüştürülür?",
+      "description2": "Ttmp3.io, ses dosyalarını MP3 formatına ücretsiz olarak dönüştürmenin ve indirmenin en kolay yolunu sağlar.",
+      "title3": "TikTok'un kaç indirmesi var?",
+      "description3": "ttmp3.io ücretsiz hizmetini kullanarak istediğiniz kadar dosya indirebilirsiniz. Size sorunsuz bir deneyim sunmak için web sitemiz üzerinde sürekli çalışıyoruz.",
+      "title4": "TikTok ne zaman indirilebilir?",
+      "description4": "TikTok uygulamasını cihazınızın uyumluluğuna bağlı olarak Google Play, Apple Store veya Windows Store'dan kolayca indirebilirsiniz.",
+      "title5": "TikTok videoları ne zaman tekrar indirilebilecek?",
+      "description5": "ttmp3.io'da hemen yeni bir video veya ses dosyası indirebilirsiniz. İndirme süresi veya sayısı konusunda herhangi bir sınırlama yoktur.",
+      "title6": "Bu hizmeti kullanabilmek için herhangi bir yazılım indirmemiz gerekiyor mu?",
+      "description6": "Hayır. Bu hizmeti kullanmak için herhangi bir yazılım indirmenize gerek yok. Hizmetimizi web sitemizden kolayca kullanabilirsiniz. İşlem birkaç basit adımdan oluşmaktadır.",
+      "title7": "Kullanıcıların kişisel verilerini veya dosyalarını kaydediyor muyuz?",
+      "description7": "Hayır. ttmp3, kullanıcı verilerini veya kişisel profillerini kaydetmez. Bu hizmeti kullanmak için kaydolmaya da gerek yoktur. Tüm videolar doğrudan TikTok'tan kullanıcının yerel cihazına indirilir."
+    },
+    "thumbnail": {
+      "title1": "TikTok videolarından küçük resim indirmek mümkün mü?",
+      "description1": "Evet. TikTok küçük resimleri ttmp3.io ücretsiz indirme servisini kullanarak kolayca indirilebilir.",
+      "title2": "Küçük resimler hangi dosya formatında indirilir?",
+      "description2": "Bu küçük resimler TikTok videolarından JPG, JPEG, PNG veya WebP formatında indirilir.",
+      "title3": "TikTok'taki tüm videoların küçük resimlerini indirebilir miyim?",
+      "description3": "Evet, içinde küçük resim bulunan tüm videolardan küçük resimler indirilebilir.",
+      "title4": "İndirilen küçük resimler ttmp3.io sunucularında saklanıyor mu?",
+      "description4": "Hayır. Gizlilik kurallarına ve yönetmeliklerine sıkı sıkıya uyuyoruz. Sunucularımızda hiçbir veri saklanmıyor.",
+      "title5": "ttmp3.io kullanarak kaç tane küçük resim indirebilirim?",
+      "description5": "ttmp3.io indirici hizmetini kullanarak TikTok'tan küçük resim indirmenin hiçbir sınırı yoktur. Filigran ve logo içermeyen yüzlerce küçük resim indirebilirsiniz.",
+      "title6": "İndirilen küçük resimler cihazımda nereye kaydedilir?",
+      "description6": "İndirilen dosyalar veya küçük resimler cihazınızın indirme klasöründe saklanır. Ayarlarda gerekli düzenlemeleri yaparak ttmp3.io'nun cihazınızın depolama alanına erişmesine izin verdiğinizden emin olun."
+    },
+    "slideshow": {
+      "title1": "Slideshow Downloader'ı kullanmak için ücret ödemem gerekiyor mu?",
+      "description1": "Hayır. Web sitemizdeki tüm araçları ücretsiz olarak kullanabilirsiniz. Ayrıca, kaydolmanıza veya oturum açmanıza gerek yoktur.",
+      "title2": "ttmp3 Fotoğraf ve Slayt Gösterisi İndiricisini Android cihazımda kullanabilir miyim?",
+      "description2": "Evet, Android işletim sistemini kullanan her türlü cihazda kullanılabilir.",
+      "title3": "ttmp3 TikTok Slayt Gösterisi İndiricisini iOS veya macOS'ta kullanabilir miyim?",
+      "description3": "Evet. Bu aracı iOS veya macOS'unuzda kolayca kullanabilirsiniz. Kayıt veya kayıt ücreti yoktur.",
+      "title4": "TikTok'tan ttmp3.io kullanarak fotoğraf ve slayt gösterisi indirmek güvenli midir?",
+      "description4": "%100. Endişelenmenize gerek yok. Web sitemize giren ve çıkan tüm trafik, en son protokoller kullanılarak şifrelenir. Bu nedenle, hırsızlık veya gizlilik sızıntısı yaşanmaz.",
+      "title5": "Bu aracı kullanmak için herhangi bir tarayıcı eklentisine ihtiyaç var mı?",
+      "description5": "Hayır. Bu aracı kullanmak için herhangi bir eklenti indirmenize gerek yok. Web sitesinin temiz ve kullanıcı dostu bir arayüzü var.",
+      "title6": "İndirilen Slayt Gösterileri filigran içermiyor mu?",
+      "description6": "Evet. ttmp3 kullanılarak indirilen tüm slayt gösterileri filigran ve logo içermez."
+    },
+    "story": {
+      "title1": "ttmp3.io'dan hikaye indiricisi ücretsiz mi?",
+      "description1": "%100. Aracımızı ücretsiz ve sınırsız sayıda kullanabilirsiniz. Kayıt veya üyelik ücreti yoktur.",
+      "title2": "ttmp3 TikTok Hikaye İndirici'yi Android cihazımda kullanabilir miyim?",
+      "description2": "Evet, ttmp3 hikaye indiricisi Android cihazlarda ücretsiz olarak kullanılabilir.",
+      "title3": "ttmp3 TikTok Hikaye İndirici'yi iOS veya Mac'te kullanabilir miyim?",
+      "description3": "Evet. Bu hikaye indirici, yüklü sürümden bağımsız olarak tüm iOS veya Mac cihazlarda sorunsuz çalışacaktır.",
+      "title4": "ttmp3.io kullanarak kendi hikayemi TikTok'a yükleyebilir miyim?",
+      "description4": "Hayır, bu aracı kullanarak hikayelerinizi TikTok'a yükleyemezsiniz. Bunun için resmi TikTok uygulamasını kullanabilirsiniz.",
+      "title5": "ttmp3.io indirilen tüm hikayelerin kaydını tutuyor mu?",
+      "description5": "Hayır. Web sitemizden indirilen hiçbir haberin kaydını tutmuyoruz. Gizliliğinize saygı duyuyoruz.",
+      "title6": "Cihazıma indirilen bu TikTok hikayeleri nereye gidiyor?",
+      "description6": "Bunları cihazınızın indirme klasöründe bulabilirsiniz. ttmp3'ten indiriyorsanız varsayılan konum burasıdır.",
+      "title7": "TikTok'tan hikaye indirirken herhangi bir yasal endişe var mı?",
+      "description7": "Hayır, yasal bir zorunluluk yok. Etik olarak, yalnızca tanıdığınız kişilerin hikayelerini indirmelisiniz."
+    }
+  },
+  "seo": {
+    "mp4": {
+      "title": "TikTok Video İndirici - TikTok Videolarını Filigransız HD MP4 Formatında Kaydedin",
+      "description": "TikTok videolarını filigransız HD olarak indirin - Sınırsız, ücretsiz ve hızlı. MP4 ve MP3 formatları tüm cihazlarda desteklenir. İnternette bulabileceğiniz en kolay TikTok indirici."
+    },
+    "mp3": {
+      "title": "TikTok'tan MP3'e İndirici – Videoları ücretsiz olarak MP3 ses dosyalarına dönüştürür",
+      "description": "Tüm cihazlar için en güvenli, hızlı ve kullanımı kolay çevrimiçi TikTok ses MP3 indiricisi. Videoları logo olmadan yüksek kaliteli MP3 ve MP4 formatına dönüştürür."
+    },
+    "thumbnail": {
+      "title": "TikTok Küçük Resim İndirici – Ücretsiz, HD, Filigran Yok",
+      "description": "TikTok küçük resimlerini logo ve filigran olmadan orijinal boyutlarında indirin. Bu ücretsiz özellik, tüm ekran boyutlarına sahip tüm cihazlarda çalışır ve küçük resimleri HD formatında indirir."
+    },
+    "slideshow": {
+      "title": "TikTok Slayt Gösterisi İndirici – HD ve Filigransız",
+      "description": "TikTok fotoğraf slayt gösterilerini filigransız yüksek çözünürlükte indirin – ttmp3'ün bu aracı hızlı, ücretsiz ve kolaydır. Herhangi bir herkese açık TikTok profilinden slayt gösterisi videolarını kolayca kaydedin."
+    },
+    "story": {
+      "title": "TikTok Hikaye İndirici – Hızlı, Ücretsiz, HD, Filigran ve Kullanıcı Adı Yok",
+      "description": "Herhangi bir genel profilden TikTok hikaye videolarını anında HD veya hatta 4K formatında kaydetmek için ttmp3 kullanın. Hızlı, ücretsiz, verimli, filigran ve kullanıcı adı içermez."
+    }
+  }
+}

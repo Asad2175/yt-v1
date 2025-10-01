@@ -1,0 +1,288 @@
+{
+  "menu": {
+    "home": "Domov",
+    "more": "Více",
+    "mp3": {
+      "title": "Stahovač TikTok do MP3",
+      "description": "Převod a stahování videí z TikToku do audio souborů MP3"
+    },
+    "mp4": {
+      "title": "Stahovač MP4 pro TikTok",
+      "description": "Stáhněte si videa z TikToku bez vodoznaku ve formátu MP4"
+    },
+    "thumbnail": {
+      "title": "Stahovač miniatur z TikToku",
+      "description": "Stáhněte si miniatury z TikToku v původní velikosti a kvalitě"
+    },
+    "story": {
+      "title": "TikTok Story Downloader",
+      "description": "Stáhněte si TikTok Story bez vodoznaku zdarma"
+    },
+    "slide": {
+      "title": "TikTok Slideshow Downloader",
+      "description": "Stáhněte si prezentace z TikToku v nejlepší kvalitě"
+    }
+  },
+  "footer": {
+    "aboutUs": "O nás",
+    "termsOfUse": "Podmínky použití",
+    "privacyPolicy": "Zásady ochrany osobních údajů",
+    "dmca": "DMCA",
+    "contactUs": "Kontaktujte nás",
+    "associated": "Aplikace je vytvořena výhradně pro zábavní účely a nijak nesouvisí s TikTokem ani ByteDance.",
+    "rightsReserved": "©ttmp3.io 2025 Všechna práva vyhrazena."
+  },
+  "downloader": {
+    "placeholder": "Vložit URL adresu videa z TikToku...",
+    "paste": "Pasta",
+    "search": "Vyhledávání",
+    "clear": "Jasný",
+    "loading": "Načítání...",
+    "mp4": {
+      "title": "stahovač videí z TikToku",
+      "description": "Dokonalé řešení pro stahování neomezeného množství videí z TikTok ve formátu MP4 – bezpečné, bezproblémové a bez vodoznaku"
+    },
+    "mp3": {
+      "title": "Stahovač TikTok do MP3",
+      "description": "Převod TikTok audia do MP3 – Neomezený, rychlý, bezplatný, vysoce kvalitní a stabilní stahovač",
+      "download": "Stáhnout Mp3"
+    },
+    "thumbnail": {
+      "title": "Stahovač miniatur z TikToku",
+      "description": "Stáhněte si HD miniatury z videí z TikToku v původní velikosti - 100% zdarma a snadno použitelné - Bez vodoznaků a log",
+      "download": "Stáhnout náhled"
+    },
+    "slideshow": {
+      "title": "TikTok Slideshow Downloader",
+      "description": "Stáhněte si zdarma HD TikTok slideshows – rychlé, bezpečné, bez vodoznaku, 100% zdarma",
+      "download": "Stáhnout Slideshow"
+    },
+    "story": {
+      "title": "TikTok Story Downloader",
+      "description": "Stáhněte si HD TikTok Stories zdarma – rychlé, snadné použití, bez uživatelského jména a vodoznaku",
+      "download": "Stáhnout příběh"
+    }
+  },
+  "features": {
+    "title1": "Bezpečné a bezpečné",
+    "description1": "Nemusíte se bát krádeže vašich dat. Žádné odkazy se neukládají.",
+    "title2": "Žádné vodoznaky",
+    "description2": "Stáhněte si videa z TikTok MP4 bez vodoznaku nebo loga TT",
+    "title3": "Neomezené stahování",
+    "description3": "Nabízíme neomezené stahování zdarma. Není vyžadováno žádné předplatné.",
+    "mp3": {
+      "title1": "Nejrychlejší stahování MP3",
+      "description1": "Rychlý a bezplatný online převodník videa do MP3 audia.",
+      "title2": "Bez viru",
+      "description2": "Žádný virus, žádné zpoždění. Čistý a bezpečný převodník dostupný online.",
+      "title3": "Neomezené stahování",
+      "description3": "Žádné limity. Žádné napětí. Žádné registrace. Myslete za hranicemi."
+    },
+    "thumbnail": {
+      "title1": "Původní velikost ke stažení",
+      "description1": "Stáhněte si miniatury v původní velikosti ve formátech PNG, JPG, JPEG a WebP.",
+      "title2": "Logo a vodoznak zdarma",
+      "description2": "Stáhněte si čisté HD obrázky bez log a vodoznaků.",
+      "title3": "Neomezené rychlé stahování",
+      "description3": "Stáhněte si neomezený počet miniatur během chvilky."
+    },
+    "slideshow": {
+      "title1": "HD nebo 4K kvalita",
+      "description1": "Stáhněte si prezentace ve formátu HD nebo 4K, pokud jsou na TikToku k dispozici.",
+      "title2": "100% zdarma a neomezeně",
+      "description2": "Nemusíte se starat o ceny a limity stahování.",
+      "title3": "Nekomprimované stahování",
+      "description3": "Všechny soubory ke stažení jsou v původní velikosti. Není použita žádná komprese."
+    },
+    "story": {
+      "title1": "Nejvyšší kvalita",
+      "description1": "Stáhněte si příběhy ve formátu HD nebo dokonce 4K, pokud je k dispozici.",
+      "title2": "Kompatibilita zařízení",
+      "description2": "Funguje bez problémů na všech zařízeních (Android, iOS, Windows)",
+      "title3": "Odstraňuje vodoznak",
+      "description3": "Vodoznaky a loga se před stažením automaticky odstraní"
+    }
+  },
+  "content": {
+    "heading": "Trình tải xuống TikTok",
+    "para1": "Ttmp3 je online služba pro stahování videí z TikToku, která nabízí bezplatné stahování HD videí z aplikace TikTok ve formátech MP3 a MP4. Hlavní funkcí této služby je, že stahuje všechna videa bez vodoznaku nebo loga TT. To umožňuje návštěvníkům tato videa přizpůsobit na jakémkoli zařízení. Tuto aplikaci můžete také používat na jakémkoli zařízení, ať už se jedná o mobil, tablet, notebook nebo počítač.",
+    "para2": "Kompatibilita Ttmp3 je testována se všemi zařízeními a velikostmi obrazovek. Tento program pro stahování TikTok nabízí uživatelům snadno použitelné a vysoce stabilní rozhraní. Můžete si stáhnout neomezený počet videí ve formátu HD MP4 bez obav z krádeže nebo ztráty dat. Naše servery neukládají vámi vyhledaná data a adresy URL jsou z našeho serveru okamžitě smazány. Díky těmto funkcím je ttmp3 oblíbenou volbou našich návštěvníků.",
+    "mp3": {
+      "heading": "Tải xuống âm thanh TikTok MP3",
+      "para1": "Ttmp3.io vám nabízí stahování MP3 audio z videí na TikToku pomocí bezplatného nástroje TikTok to MP3 Downloader. Tento nástroj je speciálně navržen pro převod MP4 videí do MP3 audio souborů na žádost našich návštěvníků.",
+      "para2": "Tento nástroj obsahuje mnoho bezpečnostních funkcí. Mezi tyto funkce patří implementace bezpečného systému end-to-end šifrování a okamžité mazání dat. Soubory a data o uživatelích, kteří si tyto soubory stahují, nejsou uloženy na našich lokálních serverech a nejsou s nikým sdíleny.",
+      "para3": "Nástroj je kompatibilní se všemi zařízeními dostupnými po celém světě a se všemi operačními systémy, jako jsou iOS, Android, Windows, Linux a Unix. Pro používání tohoto nástroje není třeba stahovat a instalovat žádné rozšíření prohlížeče. Veškeré funkce jsou k dispozici na jedné stránce.",
+      "para4": "Stažené soubory jsou skenovány na přítomnost virů a můžete si stáhnout libovolný počet souborů bez jakéhokoli předplatného nebo registrace během několika sekund."
+    },
+    "thumbnail": {
+      "heading": "Trình tải xuống hình thu nhỏ TikTok",
+      "para1": "Miniatury jsou obrázky umístěné přes videa z TikToku, aby upoutaly pozornost diváka. Ttmp3.io také nabízí program pro stahování miniatur z TikToku, který tyto miniatury ukládá ve formátu HD. Tyto soubory jsou uloženy ve formátech JPG, JPEG, WebP a PNG.",
+      "para2": "Tyto obrázky jsou uloženy v původní velikosti bez jakékoli komprese. Ttmp3 je bezplatný nástroj, který nevyžaduje žádné předplatné ani registraci a zaručuje rychlý a bezpečný přístup. Stačí zkopírovat URL adresu a vložit ji do vyhledávacího pole. Zbytek už záleží na ttmp3.",
+      "para3": "Tento nástroj je také kompatibilní se všemi zařízeními a systémovým softwarem. Pro jeho používání není nutné stahovat ani instalovat žádný software ani rozšíření prohlížeče. Náhledy uložené tímto nástrojem také neobsahují vodoznaky. Všechny tyto funkce dělají z tohoto nástroje první volbu mezi konkurencí."
+    },
+    "slideshow": {
+      "heading": "Trình tải xuống trình chiếu ảnh TikTok",
+      "para1": "Prezentace na TikToku jsou kolekce fotografií a obrázků se zvukem na pozadí. Lidé tyto obrázky sdílejí se svými blízkými. Za tímto účelem vytvářejí prezentace z těchto obrázků a vkládají zvuk na pozadí, aby byly poutavé.",
+      "para2": "Ttmp3 TikTok Slideshow Downloader je nástroj vyvinutý pro usnadnění stahování fotografií a prezentací z veřejných profilů uživatelů TikToku. Tento nástroj stahuje fotografie a videa bez log a vodoznaků, což z něj dělá oblíbený nástroj mezi konkurencí. Navíc stahuje fotografie a prezentace ve formátu HD.",
+      "para3": "Nástroj je kompatibilní se všemi dostupnými platformami, jako jsou Android, iOS, macOS, Windows, Linux nebo Unix. Je rychlý, přesný, bezplatný a bezpečný. Protože neukládáme ani nevedeme záznamy o stažených souborech na našich serverech, je tento nástroj oblíbenou volbou návštěvníků. Používáme také zabezpečená připojení mezi zařízeními, aby nedošlo k hackerskému útoku."
+    },
+    "story": {
+      "heading": "Trình tải xuống câu chuyện TikTok",
+      "para1": "Náš TikTok Story Downloader je bezplatný a snadno použitelný nástroj, který vám umožňuje stahovat příběhy z jakéhokoli veřejného profilu dostupného na TikToku. Není třeba stahovat žádný software ani instalovat žádná rozšíření nebo pluginy. Celý proces je bezproblémový, bezpečný a zabezpečený.",
+      "para2": "Tyto příběhy se stahují ve formátu HD, Ultra HD a dokonce i 4K, v závislosti na tom, jak je konkrétní uživatel TikToku nahraje. Tento nástroj lze použít na všech zařízeních a je globálně kompatibilní. Nemusíte se o nic starat. Stačí sem zkopírovat a vložit URL adresu.",
+      "para3": "Příběhy na TikTok, které někdo nahraje, zůstanou na jeho profilu dalších 24 hodin. Proto je lepší si je uložit, abyste si je mohli později prohlédnout offline. Náš nástroj vám tuto funkci poskytuje zdarma a bez vodoznaku. Stahování příběhů na ttmp3 není nijak omezeno."
+    }
+  },
+  "howToUse": {
+    "heading": "Jak používat online stahovač MP4 z TikTok",
+    "title1": "Najděte TT Video",
+    "description1": "Otevřete TikTok na svém zařízení a vyhledejte požadované video. Přehrajte video a zkontrolujte, zda funguje. Klikněte na tlačítko sdílení a zkopírujte odkaz. Odkaz se uloží do schránky vašeho zařízení.",
+    "title2": "Vložte adresu URL videa",
+    "description2": "Otevřete na svém zařízení soubor ttmp3.io a klikněte na tlačítko Vložit. Odkaz se tam vloží. Nyní klikněte na tlačítko Hledat a vyhledejte video. Budete přesměrováni na stránku stahování, kde se zobrazí požadované video spolu s tlačítkem pro stažení.",
+    "title3": "Stáhnout video",
+    "description3": "Klikněte na tlačítko Stáhnout a video se uloží do úložiště vašeho zařízení ve formátu HD MP4. Video bude uloženo bez vodoznaku. Klikněte na Stáhnout další video, pokud si chcete stáhnout další videa z TikToku.",
+    "mp3": {
+      "heading": "Jak používat online převodník zvuku z TikTok do MP3",
+      "title1": "Najděte odkaz na TikTok",
+      "description1": "Otevřete TikTok na svém mobilu nebo počítači a vyhledejte požadované video. Pokud se video přehrává správně, zkopírujte URL adresu videa kliknutím na tlačítko sdílení na mobilním zařízení. Tam uvidíte možnost kopírovat odkaz. Klikněte na ni a odkaz se uloží do schránky. Na stolním počítači zkopírujte URL adresu z adresního řádku nebo kliknutím pravým tlačítkem myši a výběrem možnosti kopírovat odkaz.",
+      "title2": "Vložte adresu URL",
+      "description2": "Navštivte stránku ttmp3.io a vložte odkaz do textového pole. Nyní klikněte na tlačítko pro vyhledávání. Budete přesměrováni na stránku pro stahování. Tento proces bude rychlý a bude dokončen téměř za 1 sekundu. Zde uvidíte dvě tlačítka pro stahování.",
+      "title3": "Stáhnout soubor MP3",
+      "description3": "Klikněte na tlačítko „Stáhnout MP3“ a do vašeho zařízení se uloží zvukový soubor v nejvyšší dostupné kvalitě. Nyní na něj klikněte pro přehrání souboru. Můžete také kliknout na tlačítko „Stáhnout další video“ a stáhnout si další videa, MP3, miniatury, příběhy nebo prezentace."
+    },
+    "thumbnail": {
+      "heading": "Jak používat online stahovač miniatur z TikToku",
+      "title1": "Kopírovat URL",
+      "description1": "Nejprve musíte zkopírovat odkaz na video soubor, abyste si stáhli miniaturu. Můžete to udělat tak, že otevřete video v aplikaci TikTok a poté kliknete na tlačítko sdílet. Tam uvidíte možnost „kopírovat odkaz“. Klikněte na ni a odkaz se zkopíruje do schránky vašeho zařízení.",
+      "title2": "Vložte adresu URL",
+      "description2": "Otevřete soubor ttmp3.io ve webovém prohlížeči a klikněte na adresní řádek. Vložte URL adresu, kterou jste dříve zkopírovali, pomocí kláves Ctrl+V. Nyní klikněte na tlačítko Hledat. Miniatura se vám zobrazí na nové stránce.",
+      "title3": "Stáhnout náhled",
+      "description3": "Klikněte na tlačítko „Stáhnout miniaturu“ a soubor se uloží do složky stažených souborů ve vašem zařízení. Soubor otevřete kliknutím na něj. Soubor bude ve vysoce kvalitním formátu WebP, JPEG, JPG nebo PNG bez vodoznaků."
+    },
+    "slideshow": {
+      "heading": "Jak používat online stahovač prezentací z TikTok",
+      "title1": "Najděte odkaz na prezentaci TikTok",
+      "description1": "Otevřete TikTok.com ve webovém prohlížeči nebo spusťte aplikaci na svém mobilním zařízení. Nyní přejděte na prezentaci, kterou chcete stáhnout, a klikněte na tlačítko sdílení v pravém dolním rohu. Tam najdete možnost „Kopírovat odkaz“. Stačí na ni kliknout.",
+      "title2": "Vložit odkaz na prezentaci",
+      "description2": "Otevřete program pro stahování prezentací ttmp3.io a vložte tam odkaz. Klikněte na tlačítko „Hledat“ a budete přesměrováni na stránku pro stahování.",
+      "title3": "Stáhnout Slideshow",
+      "description3": "Klikněte na tlačítko „Stáhnout prezentaci“. Prezentace se stáhne do úložiště vašeho zařízení během několika sekund. Prezentace nebude obsahovat žádné logo ani vodoznak. Přejděte do daného umístění a otevřete prezentaci."
+    },
+    "story": {
+      "heading": "Jak používat online stahovač příběhů z TikTok",
+      "title1": "Najděte adresu URL příběhu TikTok",
+      "description1": "Proces nalezení URL adresy TikTok Story je velmi jednoduchý a podobný. Otevřete požadované video v aplikaci TikTok a klikněte na tlačítko sdílení v pravém dolním rohu. Tam uvidíte možnost „Kopírovat odkaz“. Stačí na ni kliknout.",
+      "title2": "Vložit adresu URL příběhu",
+      "description2": "Vložte tuto URL adresu do vyhledávacího pole ttmp3.io otevřením webové stránky ve webovém prohlížeči. Nyní klikněte na tlačítko pro hledání. Ttmp3 vyhledá příběh a přesměruje vás na stránku pro stahování.",
+      "title3": "Stáhnout příběh",
+      "description3": "Klikněte na tlačítko „Stáhnout příběh“. Příběh se stáhne do lokálního úložiště vašeho zařízení v nejlepším dostupném formátu HD nebo 4K. Tento příběh bude bez vodoznaku a loga, takže ho budete moci později volně používat."
+    }
+  },
+  "faq": {
+    "heading": "Často kladené otázky",
+    "title1": "Dají se stáhnout videa z TikToku?",
+    "description1": "Ano, videa z TikToku lze snadno stáhnout pomocí aplikací třetích stran, jako jsou TTMp3.io, SSSTikTok, Y2Mate, SnapTik a TikTokio.",
+    "title2": "Jak stáhnout videa z TikToku bez vodoznaku?",
+    "description2": "Otevřete ttmp3.io a vložte odkazy na video, které chcete stáhnout. Poté klikněte na tlačítko pro stažení a video si uložte do svého zařízení.",
+    "title3": "Jak stáhnout videa z TikToku bez loga?",
+    "description3": "Stránka ttmp3.io umožňuje stahovat videa ve formátu HD MP4 s logem TT. Uživatelské rozhraní je také jednoduché a uživatelsky přívětivé.",
+    "title4": "Říká vám TikTok, kdo si stáhl vaše video?",
+    "description4": "Ne, vaše informace nebudou po stažení videa sdíleny s jeho tvůrcem.",
+    "title5": "Můžete sledovat videa z TikToku bez stahování aplikace?",
+    "description5": "Ano, videa můžete sledovat na webových stránkách TikTok bez stahování aplikace TikTok.",
+    "title6": "Platí se za používání tohoto stahovače videa z TikTok od ttmp3.io nějaký poplatek?",
+    "description6": "Ne, za stahování videí z ttmp3.io se neplatí žádný poplatek za předplatné.",
+    "title7": "Je pro stahování videí z ttmp3 potřeba nějaké rozšíření?",
+    "description7": "Ne, neexistuje žádné rozšíření pro stahování videí z ttmp3.io.",
+    "title8": "Kam se ukládají videa z TikToku po stažení?",
+    "description8": "Videa z TikToku se ve výchozím nastavení ukládají do složky se staženými soubory ve vašem zařízení. Tuto cestu však můžete později změnit.",
+    "title9": "Musím se pro používání tohoto stahovacího programu zaregistrovat?",
+    "description9": "Ne, pro použití stahovače MP4 z TikTok ve formátu ttmp3 se není třeba přihlašovat ani registrovat.",
+    "title10": "Jak můžu získat odkaz na video na TikToku?",
+    "description10": "Otevřete video v aplikaci TikTok nebo na webových stránkách TikTok a klikněte na tlačítko sdílet. Tam najdete možnost zkopírovat odkaz nebo URL.",
+    "title11": "Mohu si stáhnout videa z TikToku ve formátu HD bez vodoznaku?",
+    "description11": "Ano, ttmp3.io je exkluzivní aplikace, kde si můžete stahovat videa ve formátu HD bez použití vodoznaku. Navíc máte k dispozici neomezené stahování.",
+    "mp3": {
+      "title1": "Jak převést video z TikToku do MP3?",
+      "description1": "K tomuto účelu můžete použít ttmp3.io. Stačí zkopírovat odkaz z TikToku, vložit ho do textového pole a kliknout na tlačítko Hledat. Nyní klikněte na tlačítko Stáhnout a máte hotovo.",
+      "title2": "Jak převést zvuk z TikToku do MP3?",
+      "description2": "Ttmp3.io vám poskytuje nejjednodušší způsob, jak zdarma převést a stáhnout zvukové soubory do formátu MP3.",
+      "title3": "Kolik stažení má TikTok?",
+      "description3": "S bezplatnou službou ttmp3.io si můžete stáhnout libovolný počet souborů. Na našich webových stránkách neustále pracujeme, abychom vám poskytli co nejplynulejší zážitek.",
+      "title4": "Kdy si lze stáhnout TikTok?",
+      "description4": "Aplikaci TikTok si můžete snadno stáhnout z Google Play, Apple Storu nebo Windows Storu, v závislosti na kompatibilitě vašeho zařízení.",
+      "title5": "Kdy bude možné zase stahovat videa z TikToku?",
+      "description5": "Na ttmp3.io si můžete okamžitě stáhnout další video nebo audio soubor. Neexistují žádná omezení času ani počtu dostupných stažení.",
+      "title6": "Musíme si pro používání této služby stáhnout nějaký software?",
+      "description6": "Ne. Pro používání této služby si nemusíte stahovat žádný software. Naši službu lze snadno používat z našich webových stránek. Proces zahrnuje několik jednoduchých kroků.",
+      "title7": "Ukládáme osobní údaje nebo soubory uživatelů?",
+      "description7": "Ne. ttmp3 neukládá uživatelská data ani osobní profily. Pro používání této služby se také není třeba registrovat. Všechna videa se stahují přímo z TikToku do lokálního zařízení uživatele."
+    },
+    "thumbnail": {
+      "title1": "Je možné stahovat miniatury z videí na TikToku?",
+      "description1": "Ano. Miniatury z TikToku si můžete snadno stáhnout pomocí bezplatné služby stahování ttmp3.io.",
+      "title2": "V jakém formátu souboru se stahují miniatury?",
+      "description2": "Tyto miniatury se stahují z videí na TikToku ve formátu JPG, JPEG, PNG nebo WebP.",
+      "title3": "Můžu si stáhnout miniatury ze všech videí na TikToku?",
+      "description3": "Ano, miniatury lze stáhnout ze všech videí, která miniatury obsahují.",
+      "title4": "Jsou stažené miniatury uloženy na serverech ttmp3.io?",
+      "description4": "Ne. Přísně dodržujeme pravidla a předpisy na ochranu osobních údajů. Na našich serverech nejsou ukládána žádná data.",
+      "title5": "Kolik miniatur si mohu stáhnout pomocí ttmp3.io?",
+      "description5": "Stahování miniatur z TikToku pomocí služby ttmp3.io není nijak omezeno. Můžete si stáhnout stovky miniatur bez vodoznaků a log.",
+      "title6": "Kde jsou stažené miniatury uloženy v mém zařízení?",
+      "description6": "Stažené soubory nebo miniatury jsou uloženy ve složce stažených souborů ve vašem zařízení. Ujistěte se, že jste aplikaci ttmp3.io povolili přístup k úložišti vašeho zařízení provedením potřebných úprav v nastavení."
+    },
+    "slideshow": {
+      "title1": "Musím za používání Slideshow Downloaderu platit?",
+      "description1": "Ne. Všechny nástroje na našich webových stránkách jsou zdarma. Navíc se není třeba registrovat ani přihlašovat.",
+      "title2": "Mohu používat program ttmp3 Photo and Slideshow Downloader na zařízení Android?",
+      "description2": "Ano, lze jej použít na jakémkoli zařízení, které používá operační systém Android.",
+      "title3": "Můžu používat ttmp3 TikTok Slideshow Downloader na iOS nebo macOS?",
+      "description3": "Ano. Tento nástroj můžete snadno používat na iOS nebo macOS. Nejsou zde žádné registrační poplatky ani poplatky za registraci.",
+      "title4": "Je bezpečné stahovat fotografie a prezentace z TikToku pomocí ttmp3.io?",
+      "description4": "100% Není třeba se ničeho obávat. Veškerý provoz přicházející a odcházející z našich webových stránek je šifrován pomocí nejnovějších protokolů. Nedochází tedy ke krádeži ani úniku soukromí.",
+      "title5": "Je k použití tohoto nástroje potřeba nějaké rozšíření prohlížeče?",
+      "description5": "Ne. Pro používání tohoto nástroje si nemusíte stahovat žádné rozšíření. Webová stránka má čisté a uživatelsky přívětivé rozhraní.",
+      "title6": "Jsou stažené prezentace bez vodoznaku?",
+      "description6": "Ano. Všechny prezentace stažené pomocí ttmp3 neobsahují vodoznaky ani loga."
+    },
+    "story": {
+      "title1": "Je stahovač příběhů z ttmp3.io zdarma?",
+      "description1": "100 %. Náš nástroj můžete používat zdarma a neomezeně často. Není v něm zahrnut žádný registrační poplatek.",
+      "title2": "Mohu používat ttmp3 TikTok Story Downloader na zařízení Android?",
+      "description2": "Ano, program pro stahování příběhů ttmp3 lze na zařízeních Android používat zdarma.",
+      "title3": "Můžu používat ttmp3 TikTok Story Downloader na iOS nebo Macu?",
+      "description3": "Ano. Tento stahovač příběhů bude fungovat bez problémů na jakémkoli zařízení se systémem iOS nebo Mac, bez ohledu na verzi, která je na něm nainstalována.",
+      "title4": "Můžu nahrát svůj vlastní příběh na TikTok pomocí ttmp3.io?",
+      "description4": "Ne, tento nástroj nemůžete použít k nahrávání svých příběhů na TikTok. K tomuto účelu můžete použít oficiální aplikaci TikTok.",
+      "title5": "Uchovává si ttmp3.io záznamy o všech stažených příbězích?",
+      "description5": "Ne. Neuchováváme záznamy o žádném příběhu staženém z našich webových stránek. Respektujeme vaše soukromí.",
+      "title6": "Kde se mi do zařízení stahují tyto příběhy z TikToku?",
+      "description6": "Najdete je ve složce stažených souborů ve vašem zařízení. Toto je výchozí umístění, pokud je stahujete z ttmp3.",
+      "title7": "Existují nějaké právní obavy při stahování příběhů z TikToku?",
+      "description7": "Ne, neexistují žádné právní závazky. Z etického hlediska byste si měli stahovat pouze příběhy lidí, které znáte."
+    }
+  },
+  "seo": {
+    "mp4": {
+      "title": "Stahovač videí z TikTok - Ukládání videí z TikTok bez vodoznaku v HD MP4",
+      "description": "Stahujte videa z TikToku v HD bez vodoznaku - neomezeně, zdarma a rychle. Formáty MP4 a MP3 jsou podporovány na všech zařízeních. Nejjednodušší stahovač TikToku dostupný online."
+    },
+    "mp3": {
+      "title": "TikTok to MP3 Downloader – Převádí videa do MP3 audia zdarma",
+      "description": "Nejbezpečnější, nejrychlejší a nejsnadněji použitelný online program pro stahování audia a MP3 z TikToku pro všechna zařízení. Převádí videa do vysoce kvalitního formátu MP3 a MP4 bez log."
+    },
+    "thumbnail": {
+      "title": "Stahovač miniatur z TikTok – zdarma, HD, bez vodoznaků",
+      "description": "Stáhněte si miniatury z TikToku bez loga a vodoznaku v původní velikosti. Tato bezplatná funkce funguje na všech zařízeních se všemi velikostmi obrazovky a stahuje miniatury ve formátu HD."
+    },
+    "slideshow": {
+      "title": "Stahovač prezentací TikTok – HD a vodoznaky zdarma",
+      "description": "Stáhněte si prezentace fotografií z TikToku ve vysokém rozlišení bez vodoznaku – Tento nástroj od ttmp3 je rychlý, bezplatný a snadný. Snadno si uložte videa z prezentací z jakéhokoli veřejného profilu na TikToku."
+    },
+    "story": {
+      "title": "Stahovač příběhů z TikTok – rychlý, zdarma, HD, bez vodoznaků a uživatelského jména",
+      "description": "Použijte ttmp3 k okamžitému uložení videí z TikTok Story z jakéhokoli veřejného profilu v HD nebo dokonce 4K formátu. Rychlé, zdarma, efektivní, bez vodoznaků a uživatelského jména."
+    }
+  }
+}

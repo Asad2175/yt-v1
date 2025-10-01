@@ -1,0 +1,288 @@
+{
+  "menu": {
+    "home": "Heim",
+    "more": "Mehr",
+    "mp3": {
+      "title": "TikTok zum MP3-Downloader",
+      "description": "TikTok-Videos in MP3-Audiodateien konvertieren und herunterladen"
+    },
+    "mp4": {
+      "title": "TikTok MP4 Downloader",
+      "description": "Laden Sie TikTok-Videos ohne Wasserzeichen im MP4-Format herunter"
+    },
+    "thumbnail": {
+      "title": "TikTok-Thumbnail-Downloader",
+      "description": "Laden Sie TikTok-Vorschaubilder in Originalgröße und -qualität herunter"
+    },
+    "story": {
+      "title": "TikTok Story Downloader",
+      "description": "Laden Sie TikTok Story kostenlos ohne Wasserzeichen herunter"
+    },
+    "slide": {
+      "title": "TikTok-Diashow-Downloader",
+      "description": "Laden Sie TikTok-Diashows in bester Qualität herunter"
+    }
+  },
+  "footer": {
+    "aboutUs": "Über uns",
+    "termsOfUse": "Nutzungsbedingungen",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "dmca": "DMCA",
+    "contactUs": "Kontaktieren Sie uns",
+    "associated": "Die Anwendung dient ausschließlich Unterhaltungszwecken und steht in keiner Verbindung zu TikTok oder ByteDance.",
+    "rightsReserved": "©ttmp3.io 2025. Alle Rechte vorbehalten."
+  },
+  "downloader": {
+    "placeholder": "Fügen Sie die URL des TikTok-Videos ein …",
+    "paste": "Paste",
+    "search": "Suchen",
+    "clear": "Klar",
+    "loading": "Laden...",
+    "mp4": {
+      "title": "TikTok-Video-Downloader",
+      "description": "Ultimative Lösung zum unbegrenzten Herunterladen von MP4-TikTok-Videos – sicher, problemlos und ohne Wasserzeichen"
+    },
+    "mp3": {
+      "title": "TikTok zum MP3-Downloader",
+      "description": "TikTok in MP3-Audios konvertieren – Unbegrenzter, schneller, kostenloser, hochwertiger und stabiler Downloader",
+      "download": "MP3 herunterladen"
+    },
+    "thumbnail": {
+      "title": "TikTok-Thumbnail-Downloader",
+      "description": "Laden Sie HD-Thumbnails von TikTok-Videos in Originalgröße herunter – 100 % kostenlos und einfach zu verwenden – Keine Wasserzeichen oder Logos enthalten",
+      "download": "Miniaturansicht herunterladen"
+    },
+    "slideshow": {
+      "title": "TikTok-Diashow-Downloader",
+      "description": "Laden Sie kostenlose HD-TikTok-Diashows herunter – schnell, sicher, ohne Wasserzeichen, 100 % kostenlos",
+      "download": "Diashow herunterladen"
+    },
+    "story": {
+      "title": "TikTok Story Downloader",
+      "description": "Laden Sie HD TikTok Stories kostenlos herunter – schnell, einfach zu verwenden, ohne Benutzernamen und Wasserzeichen",
+      "download": "Story herunterladen"
+    }
+  },
+  "features": {
+    "title1": "Sicher und geschützt",
+    "description1": "Sie müssen sich keine Sorgen über den Diebstahl Ihrer Daten machen. Es werden keine Links gespeichert.",
+    "title2": "Keine Wasserzeichen",
+    "description2": "Laden Sie TikTok MP4-Videos ohne Wasserzeichen oder TT-Logo herunter",
+    "title3": "Unbegrenzte Downloads",
+    "description3": "Bietet unbegrenzte kostenlose Downloads. Kein Abonnement erforderlich",
+    "mp3": {
+      "title1": "Schnellste MP3-Downloads",
+      "description1": "Schneller und kostenloser Online-Video-zu-MP3-Audiokonverter.",
+      "title2": "Virenfrei",
+      "description2": "Kein Virus, keine Verzögerung. Sauberer und sicherer Konverter online verfügbar.",
+      "title3": "Unbegrenzte Downloads",
+      "description3": "Keine Grenzen. Keine Spannung. Keine Anmeldungen. Denken Sie über Grenzen hinaus."
+    },
+    "thumbnail": {
+      "title1": "Downloads in Originalgröße",
+      "description1": "Laden Sie Miniaturansichten in Originalgröße in PNG, JPG, JPEG und WebP herunter.",
+      "title2": "Logo und Wasserzeichen frei",
+      "description2": "Laden Sie klare HD-Bilder ohne Logos oder Wasserzeichen herunter.",
+      "title3": "Unbegrenzt schnelle Downloads",
+      "description3": "Laden Sie im Handumdrehen eine unbegrenzte Anzahl von Miniaturansichten herunter."
+    },
+    "slideshow": {
+      "title1": "HD- oder 4K-Qualität",
+      "description1": "Laden Sie Diashows im HD- oder 4K-Format herunter, falls diese auf TikTok verfügbar sind.",
+      "title2": "100 % kostenlos und unbegrenzt",
+      "description2": "Sie müssen sich keine Gedanken über Preise und Download-Limits machen.",
+      "title3": "Unkomprimierte Downloads",
+      "description3": "Alle Downloads erfolgen in ihrer Originalgröße. Es erfolgt keine Komprimierung."
+    },
+    "story": {
+      "title1": "Höchste Qualität",
+      "description1": "Laden Sie Geschichten im HD- oder sogar 4K-Format herunter, falls verfügbar.",
+      "title2": "Gerätekompatibilität",
+      "description2": "Funktioniert reibungslos auf allen Geräten (Android, iOS, Windows)",
+      "title3": "Entfernt Wasserzeichen",
+      "description3": "Wasserzeichen und Logos werden vor dem Download automatisch entfernt"
+    }
+  },
+  "content": {
+    "heading": "Téléchargeur TikTok",
+    "para1": "Ttmp3 ist ein Online-TikTok-Video-Downloader, der kostenlose HD-Video-Downloads von der TikTok-App in den Formaten MP3 und MP4 anbietet. Das Hauptmerkmal dieses Downloaders ist, dass er alle Videos ohne Wasserzeichen oder TT-Logo herunterlädt. So können Besucher die Videos auf jedem Gerät individuell gestalten. Sie können diese Anwendung auch auf jedem Gerät verwenden, egal ob Handy, Tablet, Laptop oder PC.",
+    "para2": "Ttmp3 ist auf Kompatibilität mit allen Geräten und Bildschirmgrößen geprüft. Dieser TikTok-Downloader bietet Nutzern eine benutzerfreundliche Oberfläche und hohe Stabilität. Sie können unbegrenzt Videos im HD-MP4-Format herunterladen, ohne sich um Diebstahl oder Datenverlust sorgen zu müssen. Unsere Server speichern Ihre gesuchten Daten nicht und URLs werden sofort von unserem Server gelöscht. All diese Funktionen machen ttmp3 zu einer beliebten Wahl für unsere Besucher.",
+    "mp3": {
+      "heading": "Téléchargeur audio MP3 TikTok",
+      "para1": "Ttmp3.io bietet Ihnen die Möglichkeit, MP3-Audios von TikTok-Videos mit dem kostenlosen TikTok to MP3 Downloader herunterzuladen. Dieses Tool wurde speziell entwickelt, um MP4-Videos auf Wunsch unserer Besucher in MP3-Audiodateien zu konvertieren.",
+      "para2": "Dieses Tool bietet zahlreiche Sicherheitsfunktionen. Dazu gehören die Implementierung eines sicheren End-to-End-Verschlüsselungssystems und die sofortige Löschung von Daten. Die Dateien und die Daten der Benutzer, die diese Dateien herunterladen, werden nicht auf unseren lokalen Servern gespeichert und nicht an Dritte weitergegeben.",
+      "para3": "Das Tool ist mit allen weltweit verfügbaren Geräten und allen Betriebssystemen wie iOS, Android, Windows, Linux und Unix kompatibel. Für die Nutzung dieses Tools ist kein Download und keine Installation einer Browsererweiterung erforderlich. Die gesamte Funktionalität wird auf einer einzigen Seite bereitgestellt.",
+      "para4": "Die heruntergeladenen Dateien werden auf Viren geprüft und Sie können innerhalb von Sekunden so viele Dateien herunterladen, wie Sie möchten, ohne dass ein Abonnement oder eine Registrierung erforderlich ist."
+    },
+    "thumbnail": {
+      "heading": "Téléchargeur d'images miniatures TikTok",
+      "para1": "Thumbnails sind Bilder, die über TikTok-Videos gelegt werden, um die Aufmerksamkeit des Betrachters zu erregen. Ttmp3.io bietet auch einen TikTok-Thumbnail-Downloader, der diese Thumbnails im HD-Format speichert. Diese Dateien werden in den Formaten JPG, JPEG, WebP und PNG gespeichert.",
+      "para2": "Die Bilder werden in Originalgröße und ohne Komprimierung gespeichert. ttmp3 ist ein kostenloses Tool, das weder ein Abonnement noch eine Registrierung erfordert und einen schnellen und sicheren Zugriff garantiert. Kopieren Sie einfach die URL und fügen Sie sie in das Suchfeld ein. Der Rest wird von ttmp3 erledigt.",
+      "para3": "Dieses Tool ist mit allen Geräten und Systemsoftware kompatibel. Sie müssen keine Software oder Browsererweiterungen herunterladen oder installieren, um dieses Tool zu nutzen. Die von diesem Tool gespeicherten Miniaturansichten sind außerdem frei von Wasserzeichen. All diese Funktionen machen dieses Tool zur ersten Wahl unter seinen Konkurrenten."
+    },
+    "slideshow": {
+      "heading": "Téléchargeur de diaporamas photo TikTok",
+      "para1": "TikTok-Diashows sind eine Sammlung von Fotos und Bildern mit Hintergrundton. Menschen teilen diese Bilder mit ihren Lieben. Zu diesem Zweck erstellen sie Diashows dieser Bilder und fügen im Hintergrund Ton ein, um sie ansprechender zu gestalten.",
+      "para2": "Ttmp3 TikTok Slideshow Downloader ist ein Tool, das entwickelt wurde, um seinen Nutzern das Herunterladen von Fotos und Diashows aus öffentlichen Profilen von TikTok-Nutzern zu erleichtern. Dieses Tool lädt Fotos und Videos ohne Logos oder Wasserzeichen herunter und ist daher ein beliebtes Tool unter seinen Konkurrenten. Außerdem lädt es Fotos und Diashows im HD-Format herunter.",
+      "para3": "Das Tool ist mit allen verfügbaren Plattformen wie Android, iOS, macOS, Windows, Linux und Unix kompatibel. Es ist schnell, präzise, kostenlos und sicher in der Anwendung. Da wir die heruntergeladene Datei nicht auf unseren Servern speichern, ist dieses Tool bei Besuchern sehr beliebt. Wir verwenden außerdem sichere Verbindungen zwischen den Geräten, damit keine Informationen über unsere Besucher gehackt werden können."
+    },
+    "story": {
+      "heading": "Téléchargeur d'histoires TikTok",
+      "para1": "Unser TikTok Story Downloader ist ein kostenloses und benutzerfreundliches Tool, mit dem Sie Storys von jedem öffentlichen Profil auf TikTok herunterladen können. Sie müssen keine Software herunterladen oder Erweiterungen oder Plugins installieren. Der gesamte Vorgang ist problemlos und sicher.",
+      "para2": "Diese Stories werden in HD, Ultra HD und sogar 4K heruntergeladen, je nachdem, wie sie von einem bestimmten TikTok-Benutzer hochgeladen werden. Dieses Tool kann auf allen Geräten verwendet werden und ist weltweit kompatibel. Sie müssen sich um nichts kümmern. Sie müssen lediglich die URL hier kopieren und einfügen.",
+      "para3": "Hochgeladene TikTok-Storys bleiben 24 Stunden lang in ihrem Profil. Speichern Sie sie daher am besten, um sie später offline anzusehen. Unser Tool bietet Ihnen diese Möglichkeit kostenlos und ohne Wasserzeichen. Auch beim Herunterladen von Storys auf ttmp3 gibt es keine Einschränkungen."
+    }
+  },
+  "howToUse": {
+    "heading": "So verwenden Sie den TikTok MP4-Downloader online",
+    "title1": "Finden Sie TT-Video",
+    "description1": "Öffnen Sie TikTok auf Ihrem Gerät und suchen Sie nach dem gewünschten Video. Spielen Sie das Video ab, um zu prüfen, ob es funktioniert. Klicken Sie auf die Schaltfläche „Teilen“ und kopieren Sie den Link. Der Link wird in der Zwischenablage Ihres Geräts gespeichert.",
+    "title2": "Video-URL einfügen",
+    "description2": "Öffnen Sie ttmp3.io auf Ihrem Gerät und klicken Sie auf die Schaltfläche „Einfügen“. Der Link wird dort eingefügt. Klicken Sie anschließend auf die Suchschaltfläche, um das Video zu finden. Sie werden zur Download-Seite weitergeleitet, wo das gewünschte Video zusammen mit einem Download-Button angezeigt wird.",
+    "title3": "Video herunterladen",
+    "description3": "Klicken Sie auf den Download-Button. Das Video wird im HD-MP4-Format auf Ihrem Gerät gespeichert. Das Video wird ohne Wasserzeichen gespeichert. Klicken Sie auf „Weiteres Video herunterladen“, wenn Sie weitere Videos von TikTok herunterladen möchten.",
+    "mp3": {
+      "heading": "So verwenden Sie den TikTok-zu-MP3-Audiokonverter online",
+      "title1": "Finden Sie den TikTok-Link",
+      "description1": "Öffnen Sie TikTok auf Ihrem Handy oder Desktop und suchen Sie nach dem gewünschten Video. Wenn das Video korrekt abgespielt wird, kopieren Sie die Video-URL, indem Sie auf einem Mobilgerät auf die Schaltfläche „Teilen“ klicken. Dort sehen Sie die Option „Link kopieren“. Klicken Sie darauf, und ein Link wird in Ihrer Zwischenablage gespeichert. Kopieren Sie auf einem Desktop-Computer die URL aus der Adressleiste oder klicken Sie mit der rechten Maustaste und wählen Sie die Option „Link kopieren“.",
+      "title2": "URL einfügen",
+      "description2": "Besuchen Sie ttmp3.io und fügen Sie den Link in das angegebene Textfeld ein. Klicken Sie anschließend auf die Suchschaltfläche. Sie werden auf eine Download-Seite weitergeleitet. Dieser Vorgang ist schnell und in knapp einer Sekunde abgeschlossen. Dort sehen Sie die beiden Download-Buttons.",
+      "title3": "Laden Sie die MP3-Datei herunter",
+      "description3": "Klicken Sie auf „MP3 herunterladen“. Eine Audiodatei in höchster Qualität wird auf Ihrem Gerät gespeichert. Klicken Sie nun darauf, um die Datei abzuspielen. Sie können auch auf „Weiteres Video herunterladen“ klicken, um weitere Videos, MP3s, Vorschaubilder, Storys oder Diashows herunterzuladen."
+    },
+    "thumbnail": {
+      "heading": "So verwenden Sie den TikTok Thumbnail Downloader online",
+      "title1": "URL kopieren",
+      "description1": "Um das Vorschaubild herunterzuladen, musst du zunächst den Link der Videodatei kopieren. Öffne dazu das Video in der TikTok-App und klicke anschließend auf den Teilen-Button. Dort siehst du die Option „Link kopieren“. Klicke darauf, und der Link wird in die Zwischenablage deines Geräts kopiert.",
+      "title2": "URL einfügen",
+      "description2": "Öffnen Sie ttmp3.io in Ihrem Webbrowser und klicken Sie auf die Adressleiste. Fügen Sie die zuvor kopierte URL mit der Tastenkombination Strg+V ein. Klicken Sie anschließend auf die Suchschaltfläche. Das Vorschaubild wird Ihnen auf einer neuen Seite angezeigt.",
+      "title3": "Miniaturansicht herunterladen",
+      "description3": "Klicken Sie auf „Miniaturansicht herunterladen“. Die Datei wird im Download-Ordner Ihres Geräts gespeichert. Öffnen Sie die Datei per Klick. Die Datei liegt im hochwertigen WebP-, JPEG-, JPG- oder PNG-Format ohne Wasserzeichen vor."
+    },
+    "slideshow": {
+      "heading": "So verwenden Sie den TikTok Slideshow Downloader online",
+      "title1": "TikTok-Diashow-Link suchen",
+      "description1": "Öffnen Sie TikTok.com in Ihrem Webbrowser oder starten Sie die App auf Ihrem Mobilgerät. Navigieren Sie nun zu der Diashow, die Sie herunterladen möchten, und klicken Sie unten rechts auf die Schaltfläche „Teilen“. Dort finden Sie die Option „Link kopieren“. Klicken Sie einfach darauf.",
+      "title2": "Diashow-Link einfügen",
+      "description2": "Öffnen Sie den ttmp3.io Slideshow-Downloader und fügen Sie den Link dort ein. Klicken Sie auf die Schaltfläche „Suchen“, und Sie werden zur Download-Seite weitergeleitet.",
+      "title3": "Diashow herunterladen",
+      "description3": "Klicken Sie auf „Diashow herunterladen“. Die Diashow wird innerhalb weniger Sekunden auf Ihr Gerät heruntergeladen. Die Diashow enthält weder Logo noch Wasserzeichen. Öffnen Sie die Diashow."
+    },
+    "story": {
+      "heading": "So verwenden Sie den TikTok Story Downloader online",
+      "title1": "Finden Sie die URL der TikTok-Story",
+      "description1": "Das Finden der TikTok Story-URL ist ganz einfach und ähnlich. Öffnen Sie das gewünschte Video in der TikTok-App und klicken Sie auf die Schaltfläche „Teilen“ in der unteren rechten Ecke. Dort sehen Sie die Option „Link kopieren“. Klicken Sie einfach darauf.",
+      "title2": "Story-URL einfügen",
+      "description2": "Fügen Sie diese URL in das Suchfeld von ttmp3.io ein, indem Sie die Website in einem Webbrowser öffnen. Klicken Sie anschließend auf die Suchschaltfläche. ttmp3 sucht nach der Story und leitet Sie zur Download-Seite weiter.",
+      "title3": "Story herunterladen",
+      "description3": "Klicken Sie auf die Schaltfläche „Story herunterladen“. Die Story wird im bestmöglichen HD- oder 4K-Format auf den lokalen Speicher Ihres Geräts heruntergeladen. Die Story ist frei von Wasserzeichen und Logos, sodass Sie sie anschließend frei verwenden können."
+    }
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "title1": "Können TikTok-Videos heruntergeladen werden?",
+    "description1": "Ja, TikTok-Videos können problemlos mit Drittanbieter-Apps wie TTMp3.io, SSSTikTok, Y2Mate, SnapTik und TikTokio heruntergeladen werden.",
+    "title2": "Wie lade ich TikTok-Videos ohne Wasserzeichen herunter?",
+    "description2": "Öffnen Sie ttmp3.io und fügen Sie die Links des herunterzuladenden Videos ein. Klicken Sie anschließend auf die Download-Schaltfläche, um das Video auf Ihrem Gerät zu speichern.",
+    "title3": "Wie lade ich TikTok-Videos ohne Logo herunter?",
+    "description3": "Mit ttmp3.io können Sie Videos im HD-MP4-Format mit dem TT-Logo herunterladen. Die Benutzeroberfläche ist ebenfalls einfach und benutzerfreundlich.",
+    "title4": "Teilt Ihnen TikTok mit, wer Ihr Video heruntergeladen hat?",
+    "description4": "Nein, Ihre Informationen werden nach dem Herunterladen des Videos nicht an den Ersteller des Videos weitergegeben.",
+    "title5": "Können Sie TikTok-Videos ansehen, ohne die App herunterzuladen?",
+    "description5": "Ja, Sie können die Videos auf der TikTok-Website ansehen, ohne die TikTok-App herunterzuladen.",
+    "title6": "Fällt für die Nutzung dieses ttmp3.io TikTok Video Downloaders eine Abonnementgebühr an?",
+    "description6": "Nein, für das Herunterladen von Videos von ttmp3.io wird keine Abonnementgebühr erhoben.",
+    "title7": "Ist zum Herunterladen von Videos von ttmp3 eine Erweiterung erforderlich?",
+    "description7": "Nein, es gibt keine Erweiterung zum Herunterladen von Videos von ttmp3.io.",
+    "title8": "Wo werden TikTok-Videos nach dem Herunterladen gespeichert?",
+    "description8": "Die TikTok-Videos werden standardmäßig im Download-Ordner Ihres Geräts gespeichert. Sie können diesen Pfad jedoch später ändern.",
+    "title9": "Muss ich mich anmelden, um diesen Downloader zu verwenden?",
+    "description9": "Nein, Sie müssen sich nicht anmelden oder registrieren, um den ttmp3 TikTok MP4-Downloader zu verwenden.",
+    "title10": "Wie kann ich den Link zu einem TikTok-Video erhalten?",
+    "description10": "Öffnen Sie das Video in der TikTok-App oder auf der TikTok-Website und klicken Sie auf die Schaltfläche „Teilen“. Dort finden Sie die Option, den Link bzw. die URL zu kopieren.",
+    "title11": "Kann ich TikTok-Videos im HD-Format ohne Wasserzeichen herunterladen?",
+    "description11": "Ja, ttmp3.io ist eine exklusive App, mit der Sie Videos im HD-Format ohne Wasserzeichen herunterladen können. Darüber hinaus stehen Ihnen unbegrenzte Downloads zur Verfügung.",
+    "mp3": {
+      "title1": "Wie konvertiere ich ein TikTok-Video in MP3?",
+      "description1": "Sie können hierfür ttmp3.io verwenden. Kopieren Sie einfach den Link von TikTok, fügen Sie ihn in das Textfeld ein und klicken Sie auf die Suchschaltfläche. Klicken Sie anschließend auf die Download-Schaltfläche, und schon sind Sie fertig.",
+      "title2": "Wie konvertiere ich TikTok-Audio in MP3?",
+      "description2": "Ttmp3.io bietet Ihnen die einfachste Möglichkeit, Audiodateien kostenlos in das MP3-Format zu konvertieren und herunterzuladen.",
+      "title3": "Wie viele Downloads hat TikTok?",
+      "description3": "Mit dem kostenlosen Dienst ttmp3.io können Sie beliebig viele Dateien herunterladen. Wir arbeiten ständig an unserer Website, um Ihnen ein reibungsloses Erlebnis zu bieten.",
+      "title4": "Wann kann TikTok heruntergeladen werden?",
+      "description4": "Die TikTok-App kann je nach Gerätekompatibilität einfach aus dem Google Play Store, Apple Store oder Windows Store heruntergeladen werden.",
+      "title5": "Wann können TikTok-Videos wieder heruntergeladen werden?",
+      "description5": "Auf ttmp3.io können Sie sofort eine weitere Video- oder Audiodatei herunterladen. Es gibt keine zeitlichen oder Anzahlbeschränkungen für die verfügbaren Downloads.",
+      "title6": "Müssen wir Software herunterladen, um diesen Dienst zu nutzen?",
+      "description6": "Nein. Sie müssen keine Software herunterladen, um diesen Service zu nutzen. Unser Service kann ganz einfach über unsere Website genutzt werden. Der Vorgang umfasst nur wenige einfache Schritte.",
+      "title7": "Speichern wir personenbezogene Daten oder Dateien der Benutzer?",
+      "description7": "Nein. ttmp3 speichert weder Benutzerdaten noch persönliche Profile. Für die Nutzung dieses Dienstes ist auch keine Registrierung erforderlich. Alle Videos werden direkt von TikTok auf das lokale Gerät des Benutzers heruntergeladen."
+    },
+    "thumbnail": {
+      "title1": "Ist es möglich, Miniaturansichten von TikTok-Videos herunterzuladen?",
+      "description1": "Ja. Die TikTok-Thumbnails können einfach mit dem kostenlosen Download-Dienst ttmp3.io heruntergeladen werden.",
+      "title2": "In welchem Dateiformat werden Miniaturansichten heruntergeladen?",
+      "description2": "Diese Miniaturansichten werden von TikTok-Videos im JPG-, JPEG-, PNG- oder WebP-Format heruntergeladen.",
+      "title3": "Kann ich Miniaturansichten von allen Videos auf TikTok herunterladen?",
+      "description3": "Ja, die Miniaturansichten können von allen Videos heruntergeladen werden, die Miniaturansichten enthalten.",
+      "title4": "Werden die heruntergeladenen Miniaturansichten auf ttmp3.io-Servern gespeichert?",
+      "description4": "Nein. Wir halten uns strikt an die Datenschutzbestimmungen. Auf unseren Servern werden keine Daten gespeichert.",
+      "title5": "Wie viele Miniaturansichten kann ich mit ttmp3.io herunterladen?",
+      "description5": "Mit dem Download-Dienst ttmp3.io sind dem Herunterladen von Miniaturansichten von TikTok keine Grenzen gesetzt. Sie können Hunderte von Miniaturansichten ohne Wasserzeichen und Logos herunterladen.",
+      "title6": "Wo werden die heruntergeladenen Miniaturansichten auf meinem Gerät gespeichert?",
+      "description6": "Die heruntergeladenen Dateien oder Miniaturansichten werden im Download-Ordner Ihres Geräts gespeichert. Stellen Sie sicher, dass Sie ttmp3.io den Zugriff auf Ihren Gerätespeicher erlauben, indem Sie die entsprechenden Einstellungen vornehmen."
+    },
+    "slideshow": {
+      "title1": "Muss ich für die Nutzung des Slideshow Downloader bezahlen?",
+      "description1": "Nein. Alle Tools auf unserer Website sind kostenlos. Eine Registrierung oder Anmeldung ist nicht erforderlich.",
+      "title2": "Kann ich den ttmp3 Photo and Slideshow Downloader auf einem Android-Gerät verwenden?",
+      "description2": "Ja, es kann auf jedem Gerät verwendet werden, das Android als Betriebssystem verwendet.",
+      "title3": "Kann ich den ttmp3 TikTok Slideshow Downloader auf meinem iOS oder macOS verwenden?",
+      "description3": "Ja. Sie können dieses Tool problemlos auf Ihrem iOS oder macOS verwenden. Es fallen keine Anmelde- oder Registrierungsgebühren an.",
+      "title4": "Ist es sicher, mit ttmp3.io Fotos und Diashows von TikTok herunterzuladen?",
+      "description4": "100 %. Sie brauchen sich keine Sorgen zu machen. Der gesamte Datenverkehr unserer Website wird mithilfe der neuesten Protokolle verschlüsselt. So kommt es weder zu Diebstahl noch zu Datenschutzverletzungen.",
+      "title5": "Ist zur Verwendung dieses Tools eine Browsererweiterung erforderlich?",
+      "description5": "Nein. Sie müssen keine Erweiterung herunterladen, um dieses Tool zu verwenden. Die Website verfügt über eine übersichtliche und benutzerfreundliche Oberfläche.",
+      "title6": "Sind die heruntergeladenen Diashows wasserzeichenfrei?",
+      "description6": "Ja. Alle mit ttmp3 heruntergeladenen Diashows sind frei von Wasserzeichen und Logos."
+    },
+    "story": {
+      "title1": "Ist ein Story-Downloader von ttmp3.io kostenlos?",
+      "description1": "100 %. Sie können unser Tool kostenlos und unbegrenzt oft nutzen. Es fallen keine Anmelde- oder Registrierungsgebühren an.",
+      "title2": "Kann ich den ttmp3 TikTok Story Downloader auf einem Android-Gerät verwenden?",
+      "description2": "Ja, der ttmp3 Story Downloader kann kostenlos auf Android-Geräten verwendet werden.",
+      "title3": "Kann ich den ttmp3 TikTok Story Downloader auf einem iOS oder Mac verwenden?",
+      "description3": "Ja. Dieser Story-Downloader funktioniert auf jedem iOS- oder Mac-Gerät einwandfrei, unabhängig von der darauf installierten Version.",
+      "title4": "Kann ich mit ttmp3.io meine eigene Story auf TikTok hochladen?",
+      "description4": "Nein, Sie können dieses Tool nicht verwenden, um Ihre Storys auf TikTok hochzuladen. Sie können hierfür die offizielle TikTok-App verwenden.",
+      "title5": "Führt ttmp3.io ein Protokoll aller heruntergeladenen Geschichten?",
+      "description5": "Nein. Wir speichern keine Aufzeichnungen der von unserer Website heruntergeladenen Geschichten. Wir respektieren Ihre Privatsphäre.",
+      "title6": "Wo werden diese TikTok-Storys auf mein Gerät heruntergeladen?",
+      "description6": "Sie finden sie im Download-Ordner Ihres Geräts. Dies ist der Standardspeicherort, wenn Sie sie von ttmp3 herunterladen.",
+      "title7": "Gibt es rechtliche Bedenken beim Herunterladen von Stories von TikTok?",
+      "description7": "Nein, es besteht keine rechtliche Verpflichtung. Aus ethischen Gründen sollten Sie nur Geschichten von Personen herunterladen, die Sie kennen."
+    }
+  },
+  "seo": {
+    "mp4": {
+      "title": "TikTok Video Downloader – Speichern Sie TikTok-Videos ohne Wasserzeichen in HD MP4",
+      "description": "Laden Sie TikTok-Videos in HD ohne Wasserzeichen herunter – unbegrenzt, kostenlos und schnell. MP4- und MP3-Formate werden auf allen Geräten unterstützt. Der einfachste TikTok-Downloader im Internet."
+    },
+    "mp3": {
+      "title": "TikTok to MP3 Downloader – Konvertiert Videos kostenlos in MP3-Audios",
+      "description": "Der sicherste, schnellste und benutzerfreundlichste Online-TikTok-Audio-MP3-Downloader für alle Geräte. Konvertiert Videos in das hochwertige MP3- und MP4-Format ohne Logos."
+    },
+    "thumbnail": {
+      "title": "TikTok Thumbnail Downloader – Kostenlos, HD, keine Wasserzeichen enthalten",
+      "description": "Laden Sie TikTok-Thumbnails ohne Logo und Wasserzeichen in Originalgröße herunter. Diese kostenlose Funktion funktioniert auf allen Geräten mit allen Bildschirmgrößen und lädt Thumbnails im HD-Format herunter."
+    },
+    "slideshow": {
+      "title": "TikTok-Diashow-Downloader – HD und ohne Wasserzeichen",
+      "description": "Laden Sie TikTok-Foto-Diashows in hoher Auflösung ohne Wasserzeichen herunter – Dieses Tool von ttmp3 ist schnell, kostenlos und einfach. Speichern Sie Diashow-Videos ganz einfach von jedem öffentlichen TikTok-Profil."
+    },
+    "story": {
+      "title": "TikTok Story Downloader – Schnell, kostenlos, HD, keine Wasserzeichen und Benutzername",
+      "description": "Verwenden Sie ttmp3, um TikTok-Story-Videos von jedem öffentlichen Profil sofort im HD- oder sogar 4K-Format zu speichern. Schnell, kostenlos, effizient, ohne Wasserzeichen und Benutzername."
+    }
+  }
+}

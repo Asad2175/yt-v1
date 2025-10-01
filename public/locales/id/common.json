@@ -1,0 +1,288 @@
+{
+  "menu": {
+    "home": "Rumah",
+    "more": "Lagi",
+    "mp3": {
+      "title": "Pengunduh TikTok ke MP3",
+      "description": "Konversi dan unduh video TikTok ke file audio MP3"
+    },
+    "mp4": {
+      "title": "Pengunduh MP4 TikTok",
+      "description": "Unduh video TikTok tanpa Watermark dalam format MP4"
+    },
+    "thumbnail": {
+      "title": "Pengunduh Gambar Mini TikTok",
+      "description": "Unduh Thumbnail TikTok dalam Ukuran dan Kualitas Asli"
+    },
+    "story": {
+      "title": "Pengunduh Cerita TikTok",
+      "description": "Unduh TikTok Story tanpa Watermark secara gratis"
+    },
+    "slide": {
+      "title": "Pengunduh Slideshow TikTok",
+      "description": "Unduh Slideshow TikTok menggunakan kualitas terbaik"
+    }
+  },
+  "footer": {
+    "aboutUs": "Tentang kami",
+    "termsOfUse": "Ketentuan Penggunaan",
+    "privacyPolicy": "Kebijakan Privasi",
+    "dmca": "DMCA",
+    "contactUs": "Hubungi kami",
+    "associated": "Aplikasi ini semata-mata dibuat untuk tujuan hiburan dan tidak terkait dengan TikTok atau ByteDance dengan cara apa pun.",
+    "rightsReserved": "©ttmp3.io 2025 Hak Cipta Dilindungi Undang-Undang."
+  },
+  "downloader": {
+    "placeholder": "Tempel URL video TikTok...",
+    "paste": "Pasta",
+    "search": "Mencari",
+    "clear": "Jernih",
+    "loading": "Memuat...",
+    "mp4": {
+      "title": "Pengunduh Video TikTok",
+      "description": "Solusi terbaik untuk mengunduh Video TikTok MP4 tanpa batas – Aman, bebas repot, dan tanpa Watermark"
+    },
+    "mp3": {
+      "title": "Pengunduh TikTok ke MP3",
+      "description": "Konversi TikTok ke audio MP3 – Pengunduh tak terbatas, cepat, gratis, berkualitas tinggi, dan stabil",
+      "download": "Unduh Mp3"
+    },
+    "thumbnail": {
+      "title": "Pengunduh Gambar Mini TikTok",
+      "description": "Unduh thumbnail HD dari video TikTok dalam ukuran asli - 100% gratis dan mudah digunakan – Tidak termasuk Watermark atau logo",
+      "download": "Unduh Gambar Kecil"
+    },
+    "slideshow": {
+      "title": "Pengunduh Slideshow TikTok",
+      "description": "Unduh tayangan slide TikTok HD gratis – cepat, aman, tanpa tanda air, 100% gratis",
+      "download": "Unduh Tayangan Slide"
+    },
+    "story": {
+      "title": "Pengunduh Cerita TikTok",
+      "description": "Unduh Cerita TikTok HD gratis – cepat, mudah digunakan, tanpa nama pengguna & tanda air",
+      "download": "Unduh Cerita"
+    }
+  },
+  "features": {
+    "title1": "Aman dan Terjamin",
+    "description1": "Tidak perlu khawatir data Anda dicuri. Tidak ada tautan yang disimpan.",
+    "title2": "Tanpa Tanda Air",
+    "description2": "Unduh video TikTok MP4 tanpa tanda air atau logo TT",
+    "title3": "Unduhan Tanpa Batas",
+    "description3": "Menawarkan unduhan gratis tanpa batas. Tidak perlu berlangganan.",
+    "mp3": {
+      "title1": "Unduhan MP3 Tercepat",
+      "description1": "Konverter video daring ke audio MP3 yang cepat dan gratis.",
+      "title2": "Bebas virus",
+      "description2": "Bebas virus, bebas lag. Konverter bersih dan aman tersedia online.",
+      "title3": "Unduhan Tanpa Batas",
+      "description3": "Tanpa batas. Tanpa ketegangan. Tanpa pendaftaran. Berpikirlah melampaui batas."
+    },
+    "thumbnail": {
+      "title1": "Unduhan Ukuran Asli",
+      "description1": "Unduh gambar mini ukuran asli dalam PNG, JPG, JPEG, dan WebP.",
+      "title2": "Logo dan Tanda Air Gratis",
+      "description2": "Unduh gambar HD yang jernih tanpa logo atau tanda air.",
+      "title3": "Unduhan Cepat Tanpa Batas",
+      "description3": "Unduh gambar mini tanpa batas dalam waktu singkat."
+    },
+    "slideshow": {
+      "title1": "Kualitas HD atau 4K",
+      "description1": "Unduh Slideshow dalam format HD atau 4K jika tersedia di TikTok.",
+      "title2": "100% Gratis dan Tidak Terbatas",
+      "description2": "Tidak perlu khawatir tentang harga dan batasan unduhan.",
+      "title3": "Unduhan Tidak Terkompresi",
+      "description3": "Semua unduhan dalam ukuran aslinya. Tidak ada kompresi."
+    },
+    "story": {
+      "title1": "Kualitas Tertinggi",
+      "description1": "Unduh cerita dalam format HD atau bahkan 4K jika tersedia.",
+      "title2": "Kompatibilitas Perangkat",
+      "description2": "Bekerja dengan lancar di semua perangkat (Android, iOS, Windows)",
+      "title3": "Menghapus Tanda Air",
+      "description3": "Tanda air dan logo dihapus secara otomatis sebelum diunduh"
+    }
+  },
+  "content": {
+    "heading": "Pengunduh TikTok",
+    "para1": "Ttmp3 adalah layanan pengunduh video TikTok daring yang menawarkan unduhan video HD gratis dari aplikasi TikTok dalam format MP3 dan MP4. Fitur utama pengunduh ini adalah mengunduh semua video tanpa tanda air atau logo TT. Hal ini memungkinkan pengunjung untuk menyesuaikan video-video ini di perangkat apa pun. Anda juga dapat menggunakan aplikasi ini di perangkat apa pun, baik itu ponsel, tablet, laptop, maupun PC.",
+    "para2": "TTMP3 telah teruji kompatibilitasnya dengan semua perangkat dan ukuran layar. Pengunduh TikTok ini menawarkan antarmuka yang mudah digunakan dan sangat stabil bagi pengguna. Anda dapat mengunduh video dalam format HD MP4 tanpa khawatir dicuri atau kehilangan data. Server kami tidak menyimpan data pencarian Anda, dan URL akan langsung dihapus dari server kami. Semua fitur ini menjadikan TTMP3 pilihan populer bagi pengunjung kami.",
+    "mp3": {
+      "heading": "Unduh Audio MP3 TikTok",
+      "para1": "Ttmp3.io menawarkan Anda untuk mengunduh audio MP3 dari video TikTok dengan menggunakan Pengunduh TikTok ke MP3 gratis. Alat ini dirancang khusus untuk mengonversi video MP4 ke berkas audio MP3 sesuai permintaan pengunjung kami.",
+      "para2": "Alat ini menggabungkan banyak fitur keamanan. Fitur-fitur ini mencakup penerapan sistem enkripsi ujung ke ujung yang aman dan penghapusan data secara langsung. Berkas dan data tentang pengguna yang mengunduh berkas tersebut tidak disimpan di server lokal kami dan tidak dibagikan dengan siapa pun.",
+      "para3": "Alat ini kompatibel dengan semua perangkat yang tersedia di seluruh dunia dan dengan semua sistem operasi seperti iOS, Android, Windows, Linux, dan Unix. Anda tidak perlu mengunduh dan memasang ekstensi peramban apa pun untuk menggunakan alat ini. Seluruh fungsi tersedia dalam satu halaman.",
+      "para4": "File yang diunduh dipindai untuk memeriksa virus, dan Anda dapat mengunduh file sebanyak yang Anda inginkan tanpa berlangganan atau registrasi apa pun dalam hitungan detik."
+    },
+    "thumbnail": {
+      "heading": "Pengunduh Gambar Miniatur TikTok",
+      "para1": "Thumbnail adalah gambar yang ditempatkan di atas video TikTok untuk menarik perhatian penonton. Ttmp3.io juga menawarkan Pengunduh Thumbnail TikTok yang menyimpan thumbnail ini dalam format HD. Berkas-berkas ini disimpan dalam format JPG, JPEG, WebP, dan PNG.",
+      "para2": "Gambar-gambar ini disimpan dalam ukuran aslinya tanpa kompresi apa pun. TTMP3 adalah alat gratis yang juga tidak memerlukan langganan atau registrasi, serta menjamin akses yang cepat dan aman. Anda hanya perlu menyalin URL dan menempelkannya di kotak pencarian. Selebihnya terserah TTMP3.",
+      "para3": "Alat ini juga kompatibel dengan semua perangkat dan perangkat lunak sistem. Anda juga tidak perlu mengunduh atau memasang perangkat lunak atau ekstensi peramban apa pun untuk menggunakan alat ini. Gambar mini yang disimpan oleh alat ini juga tidak memiliki tanda air. Semua fitur ini menjadikan alat ini pilihan utama di antara para pesaingnya."
+    },
+    "slideshow": {
+      "heading": "Pengunduh Slideshow Foto TikTok",
+      "para1": "Slideshow TikTok adalah kumpulan foto dan gambar dengan suara di latar belakang. Orang-orang membagikan gambar-gambar ini dengan orang-orang terkasih. Untuk tujuan ini, mereka membuat slideshow dari gambar-gambar tersebut dan menyisipkan suara di latar belakang agar lebih menarik.",
+      "para2": "Ttmp3 TikTok Slideshow Downloader adalah alat yang dikembangkan untuk memudahkan pengguna mengunduh foto dan tayangan slide dari profil publik pengguna TikTok. Alat ini mengunduh foto dan video tanpa logo atau tanda air, sehingga menjadikannya alat yang populer di antara para pesaingnya. Selain itu, alat ini mengunduh foto dan tayangan slide dalam format HD.",
+      "para3": "Alat ini kompatibel dengan semua platform yang tersedia, seperti Android, iOS, macOS, Windows, Linux, atau Unix. Cepat, akurat, gratis, dan aman digunakan. Karena kami tidak menyimpan atau menyimpan catatan berkas yang diunduh di server kami, alat ini menjadi pilihan populer bagi pengunjung. Kami juga menggunakan koneksi aman antar perangkat sehingga informasi tentang pengunjung kami tidak dapat diretas."
+    },
+    "story": {
+      "heading": "Pengunduh Cerita TikTok",
+      "para1": "Pengunduh Cerita TikTok kami adalah alat gratis dan mudah digunakan yang memungkinkan Anda mengunduh cerita dari profil publik mana pun yang tersedia di TikTok. Tidak perlu mengunduh perangkat lunak apa pun atau memasang ekstensi atau plugin apa pun. Seluruh prosesnya bebas repot, aman, dan terjamin.",
+      "para2": "Cerita-cerita ini dapat diunduh dalam format HD, Ultra HD, dan bahkan 4K, tergantung bagaimana cerita-cerita ini diunggah oleh pengguna TikTok tertentu. Alat ini dapat digunakan di semua perangkat dan memiliki kompatibilitas global. Tidak perlu khawatir tentang apa pun. Anda hanya perlu menyalin dan menempelkan URL di sini.",
+      "para3": "Cerita TikTok yang diunggah oleh seseorang akan tetap ada di profil mereka selama 24 jam ke depan. Jadi, sebaiknya simpan cerita tersebut untuk dilihat nanti secara offline. Alat kami menyediakan fitur ini secara gratis dan tanpa tanda air. Tidak ada batasan untuk mengunduh cerita di ttmp3."
+    }
+  },
+  "howToUse": {
+    "heading": "Cara Menggunakan Pengunduh MP4 TikTok Online",
+    "title1": "Temukan Video TT",
+    "description1": "Buka TikTok di perangkat Anda dan cari video yang diinginkan. Putar video untuk memeriksa apakah berfungsi. Klik tombol bagikan dan salin tautannya. Tautan akan tersimpan di papan klip perangkat Anda.",
+    "title2": "Tempel URL Video",
+    "description2": "Buka ttmp3.io di perangkat Anda dan klik tombol tempel. Tautan akan ditempel di sana. Sekarang, klik tombol cari untuk menemukan videonya. Anda akan diarahkan ke halaman unduh, di mana video yang Anda inginkan akan ditampilkan beserta tombol unduh.",
+    "title3": "Unduh Video",
+    "description3": "Klik tombol unduh, dan video akan tersimpan di penyimpanan perangkat Anda dalam format HD MP4. Video akan disimpan tanpa tanda air. Klik Unduh video lain jika Anda ingin mengunduh lebih banyak video dari TikTok.",
+    "mp3": {
+      "heading": "Cara Menggunakan Konverter Audio TikTok ke MP3 Online",
+      "title1": "Temukan Tautan TikTok ",
+      "description1": "Buka TikTok di ponsel atau desktop Anda dan cari video yang diinginkan. Jika video diputar dengan benar, salin URL video dengan mengeklik tombol bagikan di perangkat seluler. Di sana, Anda akan melihat opsi salin tautan. Klik opsi tersebut, dan tautan akan tersimpan di clipboard Anda. Di komputer desktop, salin URL dari bilah alamat atau dengan mengeklik kanan dan memilih opsi salin tautan.",
+      "title2": "Tempel URL",
+      "description2": "Kunjungi ttmp3.io dan tempel tautan di kotak teks yang tersedia. Kemudian, klik tombol cari. Anda akan diarahkan ke halaman unduh. Proses ini akan cepat dan selesai dalam waktu hampir 1 detik. Di sana, Anda akan melihat dua tombol unduh.",
+      "title3": "Unduh Berkas MP3",
+      "description3": "Klik tombol 'Unduh MP3', dan berkas audio dengan kualitas terbaik akan tersimpan di perangkat Anda. Klik untuk memutar berkas. Anda juga dapat mengeklik tombol 'Unduh Video Lain' untuk mengunduh lebih banyak video, MP3, gambar mini, cerita, atau tayangan slide."
+    },
+    "thumbnail": {
+      "heading": "Cara Menggunakan Pengunduh Thumbnail TikTok Online",
+      "title1": "Salin URL",
+      "description1": "Pertama-tama, Anda perlu menyalin tautan berkas video untuk mengunduh thumbnail. Anda dapat melakukannya dengan membuka video di aplikasi TikTok, lalu mengeklik tombol bagikan. Di sana, Anda akan melihat opsi 'salin tautan'. Klik opsi tersebut, dan tautan akan disalin ke papan klip perangkat Anda.",
+      "title2": "Tempel URL",
+      "description2": "Buka ttmp3.io di peramban web Anda dan klik bilah alamat. Tempel URL yang telah Anda salin sebelumnya dengan menekan tombol Ctrl+V. Kemudian, klik tombol cari. Thumbnail akan ditampilkan di halaman baru.",
+      "title3": "Unduh Gambar Kecil",
+      "description3": "Klik tombol 'Unduh Gambar Mini', dan berkas akan tersimpan di folder unduhan perangkat Anda. Buka berkas dengan mengekliknya. Berkas akan berformat WebP, JPEG, JPG, atau PNG berkualitas tinggi tanpa tanda air."
+    },
+    "slideshow": {
+      "heading": "Cara Menggunakan Pengunduh Slideshow TikTok Online",
+      "title1": "Temukan Tautan Slideshow TikTok",
+      "description1": "Buka TikTok.com di peramban web Anda atau luncurkan aplikasi di perangkat seluler Anda. Sekarang, navigasikan ke tayangan slide yang ingin Anda unduh dan klik tombol bagikan di pojok kanan bawah. Di sana, Anda akan menemukan opsi 'Salin Tautan'. Klik saja.",
+      "title2": "Tempel Tautan Tayangan Slide",
+      "description2": "Buka pengunduh Slideshow ttmp3.io dan tempel tautannya di sana. Klik tombol 'Cari', dan Anda akan diarahkan ke halaman unduhan.",
+      "title3": "Unduh Tayangan Slide",
+      "description3": "Klik tombol 'Unduh Slideshow'. Slideshow akan diunduh ke penyimpanan perangkat Anda dalam hitungan detik. Tidak akan ada logo atau tanda air yang disertakan dalam slideshow. Buka lokasi tersebut dan buka slideshow."
+    },
+    "story": {
+      "heading": "Cara Menggunakan Pengunduh Cerita TikTok Online",
+      "title1": "Temukan URL Cerita TikTok",
+      "description1": "Proses menemukan URL TikTok Story sangat mudah dan serupa. Buka video yang Anda inginkan di aplikasi TikTok dan klik tombol bagikan yang tersedia di pojok kanan bawah. Di sana, Anda akan melihat opsi 'Salin Tautan'. Klik saja.",
+      "title2": "Tempel URL Cerita",
+      "description2": "Tempel URL ini di kotak pencarian ttmp3.io dengan membuka situs web tersebut di peramban web. Kemudian, klik tombol cari. Ttmp3 akan mencari cerita tersebut dan mengarahkan Anda ke halaman unduhan.",
+      "title3": "Unduh Cerita",
+      "description3": "Klik tombol 'Unduh Cerita'. Cerita akan diunduh ke penyimpanan lokal perangkat Anda dalam format HD atau 4K terbaik yang tersedia. Cerita ini akan bebas watermark dan logo, sehingga Anda bebas menggunakannya nanti."
+    }
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "title1": "Bisakah video TikTok diunduh?",
+    "description1": "Ya, video TikTok dapat dengan mudah diunduh menggunakan aplikasi pihak ketiga seperti TTMp3.io, SSSTikTok, Y2Mate, SnapTik, dan TikTokio.",
+    "title2": "Bagaimana cara mengunduh video TikTok tanpa tanda air?",
+    "description2": "Buka ttmp3.io dan tempel tautan video yang ingin diunduh. Kemudian, klik tombol unduh untuk menyimpan video di perangkat Anda.",
+    "title3": "Bagaimana cara mengunduh video TikTok tanpa logo?",
+    "description3": "ttmp3.io memungkinkan Anda mengunduh video dalam format HD MP4 dengan logo TT. Antarmuka penggunanya juga sederhana dan ramah pengguna.",
+    "title4": "Apakah TikTok memberi tahu Anda siapa yang mengunduh video Anda?",
+    "description4": "Tidak, info Anda tidak akan dibagikan dengan pembuat video setelah video diunduh.",
+    "title5": "Bisakah Anda menonton video TikTok tanpa mengunduh aplikasinya?",
+    "description5": "Ya, Anda dapat menggunakan situs web TikTok untuk menonton video tanpa mengunduh aplikasi TikTok.",
+    "title6": "Apakah ada biaya berlangganan untuk menggunakan Pengunduh Video TikTok ttmp3.io ini?",
+    "description6": "Tidak, tidak ada biaya berlangganan untuk mengunduh video dari ttmp3.io.",
+    "title7": "Apakah ada ekstensi yang diperlukan untuk mengunduh video dari ttmp3?",
+    "description7": "Tidak, tidak ada ekstensi untuk mengunduh video dari ttmp3.io.",
+    "title8": "Di mana video TikTok disimpan setelah diunduh?",
+    "description8": "Video TikTok tersimpan di folder unduhan perangkat Anda secara default. Namun, Anda dapat mengubah lokasi ini nanti.",
+    "title9": "Apakah saya perlu mendaftar untuk menggunakan pengunduh ini?",
+    "description9": "Tidak, tidak perlu masuk atau mendaftar untuk menggunakan pengunduh ttmp3 TikTok MP4.",
+    "title10": "Bagaimana cara mendapatkan tautan ke video TikTok?",
+    "description10": "Buka video di aplikasi TikTok atau situs web TikTok dan klik tombol bagikan. Di sana, Anda akan menemukan opsi untuk menyalin tautan atau URL.",
+    "title11": "Bisakah saya mengunduh video TikTok dalam format HD tanpa tanda air?",
+    "description11": "Ya, ttmp3.io adalah aplikasi eksklusif yang memungkinkan Anda mengunduh video dalam format HD tanpa watermark. Selain itu, Anda juga mendapatkan unduhan tanpa batas.",
+    "mp3": {
+      "title1": "Bagaimana cara mengubah video TikTok ke MP3?",
+      "description1": "Anda bisa menggunakan ttmp3.io untuk tujuan ini. Cukup salin tautan dari TikTok dan tempel di kolom teks, lalu klik tombol cari. Setelah itu, klik tombol unduh, dan selesai.",
+      "title2": "Bagaimana cara mengubah audio TikTok ke MP3?",
+      "description2": "Ttmp3.io memberi Anda cara termudah untuk mengonversi dan mengunduh berkas audio ke format MP3 secara gratis.",
+      "title3": "Berapa banyak unduhan yang dimiliki TikTok?",
+      "description3": "Anda dapat mengunduh berkas sebanyak mungkin dengan menggunakan layanan gratis ttmp3.io. Kami terus berupaya meningkatkan situs web kami untuk memberikan Anda pengalaman yang lancar.",
+      "title4": "Kapan TikTok dapat diunduh?",
+      "description4": "Aplikasi TikTok dapat dengan mudah diunduh dari Google Play, Apple Store, atau Windows Store, tergantung pada kompatibilitas perangkat Anda.",
+      "title5": "Kapan video TikTok dapat diunduh lagi?",
+      "description5": "Di ttmp3.io, Anda dapat langsung mengunduh berkas video atau audio lainnya. Tidak ada batasan waktu atau jumlah unduhan yang tersedia.",
+      "title6": "Apakah kami harus mengunduh perangkat lunak apa pun untuk menggunakan layanan ini?",
+      "description6": "Tidak. Anda tidak perlu mengunduh perangkat lunak apa pun untuk menggunakan layanan ini. Layanan kami dapat diakses dengan mudah melalui situs web kami. Prosesnya hanya memerlukan beberapa langkah sederhana.",
+      "title7": "Apakah kami menyimpan data atau berkas pribadi pengguna?",
+      "description7": "Tidak. ttmp3 tidak menyimpan data atau profil pribadi pengguna. Anda juga tidak perlu mendaftar untuk menggunakan layanan ini. Semua video diunduh langsung dari TikTok ke perangkat lokal pengguna."
+    },
+    "thumbnail": {
+      "title1": "Apakah mungkin untuk mengunduh gambar mini dari video TikTok?",
+      "description1": "Ya. Thumbnail TikTok dapat diunduh dengan mudah menggunakan layanan unduh gratis ttmp3.io.",
+      "title2": "Dalam format berkas apa gambar mini diunduh?",
+      "description2": "Thumbnail ini diunduh dari video TikTok dalam format JPG, JPEG, PNG, atau WebP.",
+      "title3": "Bisakah saya mengunduh thumbnail dari semua video di TikTok?",
+      "description3": "Ya, gambar mini dapat diunduh dari semua video yang memuat gambar mini di dalamnya.",
+      "title4": "Apakah gambar mini yang diunduh disimpan di server ttmp3.io?",
+      "description4": "Tidak. Kami sepenuhnya mematuhi aturan dan peraturan privasi. Tidak ada data yang disimpan di server kami.",
+      "title5": "Berapa banyak thumbnail yang dapat saya unduh menggunakan ttmp3.io?",
+      "description5": "Tidak ada batasan untuk mengunduh thumbnail dari TikTok menggunakan layanan pengunduh ttmp3.io. Anda dapat mengunduh ratusan gambar thumbnail tanpa tanda air dan logo.",
+      "title6": "Di mana gambar mini yang diunduh disimpan di perangkat saya?",
+      "description6": "Berkas atau gambar mini yang diunduh akan disimpan di folder unduhan perangkat Anda. Pastikan Anda mengizinkan ttmp3.io mengakses penyimpanan perangkat Anda dengan melakukan pengaturan yang diperlukan di pengaturan."
+    },
+    "slideshow": {
+      "title1": "Apakah saya harus membayar untuk menggunakan Slideshow Downloader?",
+      "description1": "Tidak. Semua alat di situs web kami gratis untuk digunakan. Selain itu, Anda tidak perlu mendaftar atau masuk.",
+      "title2": "Dapatkah saya menggunakan ttmp3 Photo and Slideshow Downloader pada perangkat Android?",
+      "description2": "Ya, dapat digunakan pada perangkat apa pun yang menggunakan Android sebagai sistem operasinya.",
+      "title3": "Dapatkah saya menggunakan ttmp3 TikTok Slideshow Downloader di iOS atau macOS saya?",
+      "description3": "Ya. Anda dapat menggunakan alat ini dengan mudah di iOS atau macOS Anda. Tidak ada biaya pendaftaran atau biaya administrasi.",
+      "title4": "Apakah aman mengunduh foto dan tayangan slide dari TikTok menggunakan ttmp3.io?",
+      "description4": "100%. Tidak perlu khawatir. Semua lalu lintas yang masuk dan keluar dari situs web kami dienkripsi menggunakan protokol terbaru. Jadi, tidak ada pencurian atau kebocoran privasi.",
+      "title5": "Apakah ada ekstensi browser yang dibutuhkan untuk menggunakan alat ini?",
+      "description5": "Tidak. Anda tidak perlu mengunduh ekstensi apa pun untuk menggunakan alat ini. Situs web ini memiliki antarmuka yang bersih dan ramah pengguna.",
+      "title6": "Apakah Slideshow yang diunduh bebas tanda air?",
+      "description6": "Ya. Semua tayangan slide yang diunduh menggunakan ttmp3 bebas dari tanda air dan logo."
+    },
+    "story": {
+      "title1": "Apakah pengunduh cerita dari ttmp3.io gratis?",
+      "description1": "100%. Anda dapat menggunakan alat kami secara gratis dan tanpa batas waktu. Tidak ada biaya pendaftaran.",
+      "title2": "Bisakah saya menggunakan ttmp3 TikTok Story Downloader di perangkat Android?",
+      "description2": "Ya, pengunduh cerita ttmp3 dapat digunakan pada perangkat Android tanpa biaya.",
+      "title3": "Bisakah saya menggunakan ttmp3 TikTok Story Downloader di iOS atau Mac?",
+      "description3": "Ya. Pengunduh cerita ini akan berfungsi dengan baik di perangkat iOS atau Mac apa pun, apa pun versi yang terpasang di dalamnya.",
+      "title4": "Bisakah saya mengunggah cerita saya sendiri di TikTok menggunakan ttmp3.io?",
+      "description4": "Tidak, Anda tidak dapat menggunakan alat ini untuk mengunggah cerita Anda ke TikTok. Anda dapat menggunakan aplikasi resmi TikTok untuk tujuan ini.",
+      "title5": "Apakah ttmp3.io menyimpan catatan semua cerita yang diunduh?",
+      "description5": "Tidak. Kami tidak menyimpan catatan cerita apa pun yang diunduh dari situs web kami. Kami menghormati privasi Anda.",
+      "title6": "Di mana cerita TikTok ini diunduh di perangkat saya?",
+      "description6": "Anda dapat menemukannya di folder unduhan perangkat Anda. Ini adalah lokasi default jika Anda mengunduhnya dari ttmp3.",
+      "title7": "Apakah ada masalah hukum saat mengunduh cerita dari TikTok?",
+      "description7": "Tidak, tidak ada kewajiban hukum. Secara etis, Anda sebaiknya hanya mengunduh cerita dari orang-orang yang mungkin Anda kenal."
+    }
+  },
+  "seo": {
+    "mp4": {
+      "title": "Pengunduh Video TikTok - Simpan Video TikTok Tanpa Tanda Air dalam HD MP4",
+      "description": "Unduh video TikTok dalam HD tanpa tanda air - Tanpa batas, gratis, dan cepat. Format MP4 & MP3 didukung di semua perangkat. Pengunduh TikTok termudah yang tersedia online."
+    },
+    "mp3": {
+      "title": "Pengunduh TikTok ke MP3 – Mengonversi Video ke Audio MP3 secara gratis",
+      "description": "Pengunduh audio MP3 TikTok online teraman, tercepat, dan termudah untuk semua perangkat. Mengonversi video ke format MP3 & MP4 berkualitas tinggi tanpa logo."
+    },
+    "thumbnail": {
+      "title": "Pengunduh Thumbnail TikTok – Gratis, HD, Tanpa Tanda Air",
+      "description": "Unduh thumbnail TikTok tanpa logo dan tanda air dalam ukuran aslinya. Fitur gratis ini berfungsi untuk semua perangkat dengan semua ukuran layar dan mengunduh thumbnail dalam format HD."
+    },
+    "slideshow": {
+      "title": "Pengunduh Slideshow TikTok – HD, dan Tanda Air Gratis",
+      "description": "Unduh tayangan slide foto TikTok beresolusi tinggi tanpa tanda air – Alat dari ttmp3 ini cepat, gratis, dan mudah. Simpan video tayangan slide dari profil TikTok publik mana pun dengan mudah."
+    },
+    "story": {
+      "title": "Pengunduh Cerita TikTok – Cepat, Gratis, HD, Tanpa Tanda Air & Nama Pengguna",
+      "description": "Gunakan ttmp3 untuk menyimpan video story TikTok dari profil publik mana pun secara instan dalam format HD atau bahkan 4K. Cepat, gratis, efisien, tanpa watermark & ​​nama pengguna."
+    }
+  }
+}

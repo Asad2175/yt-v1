@@ -1,0 +1,288 @@
+{
+  "menu": {
+    "home": "Otthon",
+    "more": "Több",
+    "mp3": {
+      "title": "TikTok MP3 letöltő",
+      "description": "TikTok videók konvertálása és letöltése MP3 hangfájlokká"
+    },
+    "mp4": {
+      "title": "TikTok MP4 letöltő",
+      "description": "TikTok videók letöltése vízjel nélkül MP4 formátumban"
+    },
+    "thumbnail": {
+      "title": "TikTok bélyegkép letöltő",
+      "description": "TikTok indexképek letöltése eredeti méretben és minőségben"
+    },
+    "story": {
+      "title": "TikTok Story Downloader",
+      "description": "Töltsd le ingyen a TikTok Story-t vízjel nélkül"
+    },
+    "slide": {
+      "title": "TikTok diavetítés letöltő",
+      "description": "Tölts le TikTok diavetítéseket a legjobb minőségben"
+    }
+  },
+  "footer": {
+    "aboutUs": "Rólunk",
+    "termsOfUse": "Felhasználási feltételek",
+    "privacyPolicy": "Adatvédelmi szabályzat",
+    "dmca": "DMCA",
+    "contactUs": "Lépjen kapcsolatba velünk",
+    "associated": "Az alkalmazás kizárólag szórakoztatási célokat szolgál, és semmilyen módon nem kapcsolódik a TikTokhoz vagy a ByteDance-hez.",
+    "rightsReserved": "©ttmp3.io 2025 Minden jog fenntartva."
+  },
+  "downloader": {
+    "placeholder": "TikTok videó URL-jének beillesztése...",
+    "paste": "Paszta",
+    "search": "Keresés",
+    "clear": "Világos",
+    "loading": "Terhelés...",
+    "mp4": {
+      "title": "tiktok videó letöltő",
+      "description": "Végső megoldás korlátlan MP4 TikTok videók letöltésére – Biztonságos, gondtalan és vízjel nélküli"
+    },
+    "mp3": {
+      "title": "TikTok MP3 letöltő",
+      "description": "TikTok konvertálása MP3 hanganyagokká – Korlátlan, gyors, ingyenes, kiváló minőségű, stabil letöltő",
+      "download": "Letöltés Mp3"
+    },
+    "thumbnail": {
+      "title": "TikTok bélyegkép letöltő",
+      "description": "Tölts le HD miniatűröket a TikTok videókból eredeti méretben - 100%-ban ingyenes és könnyen használható – Nincsenek vízjelek vagy logók",
+      "download": "Miniatűr letöltése"
+    },
+    "slideshow": {
+      "title": "TikTok diavetítés letöltő",
+      "description": "Tölts le ingyenes HD TikTok diavetítéseket – gyors, biztonságos, vízjel nélkül, 100%-ban ingyenes",
+      "download": "Letöltés Diavetítés"
+    },
+    "story": {
+      "title": "TikTok Story Downloader",
+      "description": "Töltsd le ingyen a HD TikTok Stories-t – gyors, könnyen használható, felhasználónév és vízjel nélkül",
+      "download": "Töltse le a történetet"
+    }
+  },
+  "features": {
+    "title1": "Biztonságos és biztonságos",
+    "description1": "Nem kell aggódnia az adatai ellopása miatt. A linkek nem kerülnek mentésre.",
+    "title2": "Nincs vízjel",
+    "description2": "Tölts le TikTok MP4 videókat vízjel vagy TT logó nélkül",
+    "title3": "Korlátlan letöltés",
+    "description3": "Korlátlan számú ingyenes letöltést kínál. Előfizetés nem szükséges.",
+    "mp3": {
+      "title1": "Leggyorsabb MP3 letöltések",
+      "description1": "Gyors és ingyenes online videó MP3 audio konverter.",
+      "title2": "Vírusmentes",
+      "description2": "Nincs vírus, nincs akadozás. Tiszta és biztonságos konverter elérhető online.",
+      "title3": "Korlátlan letöltés",
+      "description3": "Nincsenek határok. Nincs feszültség. Nincsenek regisztrációk. Gondolkodj a határokon túl."
+    },
+    "thumbnail": {
+      "title1": "Eredeti méretű letöltések",
+      "description1": "Eredeti méretű bélyegképek letöltése PNG, JPG, JPEG és WebP formátumban.",
+      "title2": "Logó és vízjel ingyenes",
+      "description2": "Tölts le tiszta HD képeket logók és vízjelek nélkül.",
+      "title3": "Korlátlan gyors letöltés",
+      "description3": "Töltsön le korlátlan számú bélyegképet pillanatok alatt."
+    },
+    "slideshow": {
+      "title1": "HD vagy 4K minőség",
+      "description1": "Tölts le diavetítéseket HD vagy 4K formátumban, ha elérhetők a TikTokon.",
+      "title2": "100%-ban ingyenes és korlátlan",
+      "description2": "Nem kell aggódnia az árak és a letöltési korlátok miatt.",
+      "title3": "Tömörítetlen letöltések",
+      "description3": "Minden letöltés eredeti méretében van. Nincs tömörítés."
+    },
+    "story": {
+      "title1": "Legmagasabb minőség",
+      "description1": "Töltsd le a történeteket HD vagy akár 4K formátumban, ha elérhető.",
+      "title2": "Eszköz kompatibilitás",
+      "description2": "Zökkenőmentesen működik minden eszközön (Android, iOS, Windows)",
+      "title3": "Eltávolítja a vízjelet",
+      "description3": "A vízjelek és logók automatikusan eltávolításra kerülnek a letöltés előtt"
+    }
+  },
+  "content": {
+    "heading": "TikTok letöltő",
+    "para1": "A Ttmp3 egy online TikTok videóletöltő szolgáltatás, amely ingyenes HD videó letöltést kínál a TikTok alkalmazásból MP3 és MP4 formátumban. A letöltő fő jellemzője, hogy minden videót vízjel vagy TT logó nélkül tölt le. Ez lehetővé teszi a látogatók számára, hogy ezeket a videókat bármilyen eszközön testreszabják. Az alkalmazást bármilyen eszközön használhatod, legyen az mobiltelefon, táblagép, laptop vagy PC.",
+    "para2": "A TTmp3 kompatibilitását minden eszközzel és képernyőmérettel ellenőriztük. Ez a TikTok letöltő könnyen használható és stabil felületet kínál a felhasználóknak. Korlátlan számú videót tölthet le HD MP4 formátumban anélkül, hogy aggódnia kellene az adatlopás vagy az adatvesztés miatt. Szervereink nem tárolják a keresett adatokat, és az URL-eket azonnal törlik szerverünkről. Mindezek a funkciók teszik a TTmp3-at népszerű választássá látogatóink körében.",
+    "mp3": {
+      "heading": "TikTok MP3 hang letöltés",
+      "para1": "A Ttmp3.io ingyenes TikTok MP3 letöltőjével MP3 hanganyagokat tölthetsz le TikTok videókból. Ez az eszköz kifejezetten arra készült, hogy látogatóink kérésére MP4 videókat MP3 hangfájlokká konvertáljon.",
+      "para2": "Ez az eszköz számos biztonsági funkciót tartalmaz. Ezek a funkciók magukban foglalják a biztonságos, végpontok közötti titkosítási rendszer megvalósítását és az adatok azonnali törlését. A fájlokat és a letöltő felhasználók adatait nem tároljuk a helyi szervereinken, és senkivel sem osztjuk meg.",
+      "para3": "Az eszköz kompatibilis az összes világszerte elérhető eszközzel és az összes operációs rendszerrel, például iOS, Android, Windows, Linux és Unix. Az eszköz használatához nem kell letölteni és telepíteni semmilyen böngészőbővítményt. A teljes funkció egyetlen oldalon érhető el.",
+      "para4": "A letöltött fájlokat vírusok ellenőrzik, és másodpercek alatt annyi fájlt tölthet le, amennyit csak szeretne, előfizetés vagy regisztráció nélkül."
+    },
+    "thumbnail": {
+      "heading": "TikTok bélyegkép-letöltő",
+      "para1": "Az indexképek olyan képek, amelyeket a TikTok videók fölé helyeznek, hogy felkeltsék a néző figyelmét. A Ttmp3.io egy TikTok indexkép-letöltőt is kínál, amely HD formátumban menti el ezeket az indexképeket. Ezek a fájlok JPG, JPEG, WebP és PNG formátumban vannak mentve.",
+      "para2": "Ezek a képek eredeti méretükben tárolódnak, tömörítés nélkül. A Ttmp3 egy ingyenes eszköz, amelyhez nem kell előfizetés vagy regisztráció, és gyors és biztonságos hozzáférést garantál. Csak ki kell másolnia az URL-t, és be kell illesztenie a keresőmezőbe. A többi a ttmp3-on múlik.",
+      "para3": "Ez az eszköz minden eszközzel és rendszerszoftverrel kompatibilis. Nincs szükség semmilyen szoftver vagy böngészőbővítmény letöltésére vagy telepítésére a használatához. Az eszköz által tárolt bélyegképek sem tartalmaznak vízjelet. Mindezek a funkciók teszik ezt az eszközt az első számú választássá a versenytársai között."
+    },
+    "slideshow": {
+      "heading": "TikTok fotó diavetítés letöltő",
+      "para1": "A TikTok diavetítések fotók és képek gyűjteményei, háttérben hanggal. Az emberek megosztják ezeket a képeket szeretteikkel. Erre a célra diavetítéseket készítenek ezekből a képekből, és hangot illesztenek be a háttérbe, hogy lebilincselővé tegyék azokat.",
+      "para2": "A Ttmp3 TikTok Slideshow Downloader egy olyan eszköz, amelyet azért fejlesztettek ki, hogy megkönnyítse a felhasználók számára a fényképek és diavetítések letöltését a TikTok felhasználók nyilvános profiljaiból. Ez az eszköz logók és vízjelek nélkül tölti le a fényképeket és videókat, így népszerűvé teszi a versenytársai körében. Továbbá HD formátumban tölti le a fényképeket és diavetítéseket.",
+      "para3": "Az eszköz kompatibilis az összes elérhető platformmal, például Androiddal, iOS-szel, macOS-szel, Windowsszal, Linuxszal vagy Unixszal. Gyors, pontos, ingyenes és biztonságos a használata. Mivel nem tároljuk és nem is nyilvántartjuk a letöltött fájlokat a szervereinken, ez az eszköz népszerű választás a látogatók körében. Biztonságos kapcsolatokat is használunk az eszközök között, így a látogatóink adatait ne lehessen feltörni."
+    },
+    "story": {
+      "heading": "TikTok történetek letöltő",
+      "para1": "A TikTok Story Downloader egy ingyenes és könnyen használható eszköz, amely lehetővé teszi a történetek letöltését bármely, a TikTokon elérhető nyilvános profilról. Nincs szükség semmilyen szoftver letöltésére, illetve semmilyen bővítmény vagy bővítmény telepítésére. A teljes folyamat gondtalan, biztonságos és védett.",
+      "para2": "Ezek a történetek HD, Ultra HD és akár 4K formátumban is letölthetők, attól függően, hogy egy adott TikTok felhasználó hogyan töltötte fel őket. Ez az eszköz minden eszközön használható, és globális kompatibilitással rendelkezik. Nem kell semmi miatt aggódnod. Csak ki kell másolni és beilleszteni az URL-t ide.",
+      "para3": "A feltöltött TikTok-sztorik 24 óráig a profiljukon maradnak. Ezért érdemesebb elmenteni őket, hogy később offline is megtekinthesd őket. Eszközünk ingyenesen és vízjel nélkül teszi ezt. A ttmp3-ra letölthető történetek száma sem korlátozott."
+    }
+  },
+  "howToUse": {
+    "heading": "Hogyan használjuk a TikTok MP4 letöltőt online",
+    "title1": "Keresse meg a TT videót",
+    "description1": "Nyisd meg a TikTokot az eszközödön, és keresd meg a kívánt videót. Játsszd le a videót, hogy ellenőrizd, működik-e. Kattints a megosztás gombra, és másold ki a linket. A link a készülék vágólapjára lesz mentve.",
+    "title2": "Illessze be a videó URL-jét",
+    "description2": "Nyisd meg a ttmp3.io oldalt az eszközödön, és kattints a beillesztés gombra. A link be lesz másolva. Most kattints a keresés gombra a videó megtalálásához. A letöltési oldalra kerülsz, ahol a kívánt videó megjelenik a letöltés gombbal együtt.",
+    "title3": "Videó letöltése",
+    "description3": "Kattints a letöltés gombra, és a videó HD MP4 formátumban mentésre kerül az eszközöd tárhelyére. A videó vízjel nélkül lesz mentve. Kattints a „További videó letöltése” gombra, ha további videókat szeretnél letölteni a TikTokról.",
+    "mp3": {
+      "heading": "Hogyan használjuk a TikTok-ot MP3 audio konverterre online",
+      "title1": "Keresse meg a TikTok hivatkozást",
+      "description1": "Nyisd meg a TikTokot a mobilodon vagy asztali gépeden, és keresd meg a kívánt videót. Ha a videó megfelelően lejátszódik, akkor másold ki a videó URL-jét a megosztás gombra kattintva egy mobileszközön. Ott látni fogod a link másolása lehetőséget. Kattints rá, és a link mentésre kerül a vágólapra. Asztali számítógépen másold ki az URL-t a címsorból, vagy kattints rá jobb gombbal, és válaszd a link másolása lehetőséget.",
+      "title2": "URL beillesztése",
+      "description2": "Látogass el a ttmp3.io oldalra, és illeszd be a linket a megadott szövegmezőbe. Most kattints a keresés gombra. Átirányítunk egy letöltési oldalra. Ez a folyamat gyors lesz, és majdnem 1 másodperc alatt befejeződik. Ott látni fogod a két letöltés gombot.",
+      "title3": "MP3 fájl letöltése",
+      "description3": "Kattints az „MP3 letöltése” gombra, és a lehető legjobb minőségű hangfájl mentésre kerül az eszközödre. Most kattints rá a fájl lejátszásához. A „További videó letöltése” gombra kattintva további videókat, MP3-akat, indexképeket, történeteket vagy diavetítéseket tölthetsz le."
+    },
+    "thumbnail": {
+      "heading": "A TikTok Thumbnail Downloader online használata",
+      "title1": "URL másolása",
+      "description1": "Először is, ki kell másolnod a videófájl linkjét a miniatűr letöltéséhez. Ezt úgy teheted meg, hogy megnyitod a videót a TikTok alkalmazásban, majd rákattintasz a megosztás gombra. Ott láthatod a „link másolása” opciót. Kattints rá, és a link átmásolódik az eszközöd vágólapjára.",
+      "title2": "URL beillesztése",
+      "description2": "Nyisd meg a ttmp3.io fájlt a böngésződben, és kattints a címsorra. Illeszd be a korábban kimásolt URL-t a Ctrl+V billentyűkombinációval. Most kattints a keresés gombra. A miniatűr egy új oldalon jelenik meg.",
+      "title3": "Miniatűr letöltése",
+      "description3": "Kattints a „Miniatűr letöltése” gombra, és a fájl mentésre kerül az eszközöd letöltési mappájába. Nyisd meg a fájlt rákattintva. A fájl kiváló minőségű WebP, JPEG, JPG vagy PNG formátumban lesz, vízjel nélkül."
+    },
+    "slideshow": {
+      "heading": "A TikTok Slideshow Downloader online használata",
+      "title1": "TikTok diavetítés link keresése",
+      "description1": "Nyisd meg a TikTok.com oldalt a webböngésződben, vagy indítsd el az alkalmazást a mobileszközödön. Most keresd meg a letölteni kívánt diavetítést, és kattints a jobb alsó sarokban található megosztás gombra. Ott találod a „Link másolása” lehetőséget. Csak kattints rá.",
+      "title2": "Diavetítés hivatkozás beillesztése",
+      "description2": "Nyisd meg a ttmp3.io diavetítés letöltőt, és illeszd be oda a linket. Kattints a „Keresés” gombra, és átirányít a letöltési oldalra.",
+      "title3": "Letöltés Diavetítés",
+      "description3": "Kattints a „Diavetítés letöltése” gombra. A diavetítés másodpercek alatt letöltődik az eszközöd tárhelyére. A diavetítés nem tartalmaz logót vagy vízjelet. Lépj a kívánt helyre, és nyisd meg a diavetítést."
+    },
+    "story": {
+      "heading": "A TikTok Story Downloader online használata",
+      "title1": "Keresse meg a TikTok történet URL-jét",
+      "description1": "A TikTok Story URL-jének megtalálása nagyon egyszerű és hasonló. Nyisd meg a kívánt videót a TikTok alkalmazásban, és kattints a jobb alsó sarokban található megosztás gombra. Ott látni fogod a „Link másolása” opciót. Csak kattints rá.",
+      "title2": "Illessze be a történet URL-jét",
+      "description2": "Másold be ezt az URL-t a ttmp3.io keresőmezőjébe a weboldal megnyitásával egy webböngészőben. Most kattints a keresés gombra. A ttmp3 megkeresi a történetet, és átirányít a letöltési oldalra.",
+      "title3": "Töltse le a történetet",
+      "description3": "Kattints a „Történet letöltése” gombra. A történet a lehető legjobb HD vagy 4K formátumban töltődik le az eszközöd helyi tárhelyére. A történet vízjel- és logómentes lesz, így szabadon felhasználhatod később."
+    }
+  },
+  "faq": {
+    "heading": "Gyakran Ismételt Kérdések",
+    "title1": "Letölthetők a TikTok videók?",
+    "description1": "Igen, a TikTok videók könnyen letölthetők harmadik féltől származó alkalmazások, például a TTMp3.io, az SSSTikTok, a Y2Mate, a SnapTik és a TikTokio segítségével.",
+    "title2": "Hogyan lehet letölteni TikTok videókat vízjel nélkül?",
+    "description2": "Nyisd meg a ttmp3.io oldalt, és illeszd be a letölteni kívánt videó linkjét. Ezután kattints a letöltés gombra a videó mentéséhez az eszközödre.",
+    "title3": "Hogyan lehet letölteni TikTok videókat logó nélkül?",
+    "description3": "A ttmp3.io lehetővé teszi HD MP4 formátumú videók letöltését a TT logóval. A felhasználói felület egyszerű és felhasználóbarát.",
+    "title4": "A TikTok megmondja, hogy ki töltötte le a videódat?",
+    "description4": "Nem, az adataidat nem osztjuk meg a videó készítőjével a videó letöltése után.",
+    "title5": "Meg lehet nézni a TikTok videókat az alkalmazás letöltése nélkül?",
+    "description5": "Igen, a TikTok weboldalon videókat nézhetsz a TikTok alkalmazás letöltése nélkül.",
+    "title6": "Van előfizetési díj a ttmp3.io TikTok videóletöltő használatáért?",
+    "description6": "Nem, a ttmp3.io-ról letölthető videókért nincs előfizetési díj.",
+    "title7": "Szükséges valamilyen kiterjesztés a ttmp3-ról letölthető videók eléréséhez?",
+    "description7": "Nem, nincs kiterjesztés a ttmp3.io webhelyről letölthető videók számára.",
+    "title8": "Hová mentődnek a TikTok videók letöltés után?",
+    "description8": "A TikTok videók alapértelmezés szerint az eszköz letöltési mappájába kerülnek mentésre. De ezt az elérési utat később módosíthatod.",
+    "title9": "Regisztrálnom kell ahhoz, hogy használhassam ezt a letöltőt?",
+    "description9": "Nem, nem kell bejelentkezni vagy regisztrálni a ttmp3 TikTok MP4 letöltő használatához.",
+    "title10": "Hogyan tudnék megszerezni egy TikTok videó linkjét?",
+    "description10": "Nyisd meg a videót a TikTok alkalmazásban vagy a TikTok weboldalán, és kattints a megosztás gombra. Ott megtalálod a link vagy URL másolásának lehetőségét.",
+    "title11": "Letölthetek TikTok videókat HD formátumban vízjel nélkül?",
+    "description11": "Igen, a ttmp3.io egy exkluzív alkalmazás, ahol HD formátumban tölthetsz le videókat vízjel használata nélkül. Ráadásul korlátlan letöltési lehetőséget kapsz.",
+    "mp3": {
+      "title1": "Hogyan lehet TikTok videót MP3-ba konvertálni?",
+      "description1": "Erre a célra használhatod a ttmp3.io-t. Csak másold ki a TikTok linkjét, illeszd be a szövegmezőbe, majd kattints a keresés gombra. Most kattints a letöltés gombra, és kész is vagy.",
+      "title2": "Hogyan lehet TikTok hanganyagot MP3-ba konvertálni?",
+      "description2": "A Ttmp3.io a legegyszerűbb módot kínálja a hangfájlok ingyenes MP3 formátumba konvertálására és letöltésére.",
+      "title3": "Hány letöltése van a TikToknak?",
+      "description3": "A ttmp3.io ingyenes szolgáltatásával annyi fájlt tölthetsz le, amennyit csak tudsz. Folyamatosan dolgozunk weboldalunkon, hogy zökkenőmentes felhasználói élményt nyújtsunk.",
+      "title4": "Mikor lehet letölteni a TikTok-ot?",
+      "description4": "A TikTok alkalmazás könnyen letölthető a Google Playről, az Apple Store-ból vagy a Windows Store-ból, az eszköz kompatibilitásától függően.",
+      "title5": "Mikor lesznek újra letölthetők a TikTok videók?",
+      "description5": "A ttmp3.io oldalon azonnal letölthetsz egy másik videó- vagy hangfájlt. Nincsenek korlátozások az időre vagy a letöltések számára vonatkozóan.",
+      "title6": "Kell letöltenünk valamilyen szoftvert ahhoz, hogy használhassuk ezt a szolgáltatást?",
+      "description6": "Nem. Nem kell semmilyen szoftvert letöltenie a szolgáltatás használatához. Szolgáltatásunk könnyen használható weboldalunkon keresztül. A folyamat néhány egyszerű lépésből áll.",
+      "title7": "Mentünk-e felhasználók személyes adatait vagy fájljait?",
+      "description7": "Nem. A ttmp3 nem menti el a felhasználók adatait vagy személyes profiljait. A szolgáltatás használatához regisztráció sem szükséges. Az összes videó közvetlenül a TikTokról töltődik le a felhasználó helyi eszközére."
+    },
+    "thumbnail": {
+      "title1": "Lehetséges TikTok videók miniatűrjeit letölteni?",
+      "description1": "Igen. A TikTok miniatűrjei könnyen letölthetők a ttmp3.io ingyenes letöltési szolgáltatással.",
+      "title2": "Milyen fájlformátumban töltődnek le a miniatűrök?",
+      "description2": "Ezek az indexképek JPG, JPEG, PNG vagy WebP formátumban vannak letöltve a TikTok videókból.",
+      "title3": "Letölthetek miniatűröket az összes TikTok videóról?",
+      "description3": "Igen, az indexképek letölthetők az összes olyan videóról, amely tartalmaz indexképet.",
+      "title4": "A letöltött bélyegképek a ttmp3.io szervereken tárolódnak?",
+      "description4": "Nem. Szigorúan betartjuk az adatvédelmi szabályokat és előírásokat. Semmilyen adatot nem tárolunk a szervereinken.",
+      "title5": "Hány bélyegképet tölthetek le a ttmp3.io segítségével?",
+      "description5": "A ttmp3.io letöltőszolgáltatással nincsenek korlátozások a TikTokról letölthető indexképek számára. Több száz indexképet tölthetsz le vízjel és logó nélkül.",
+      "title6": "Hol tárolódnak a letöltött bélyegképek az eszközömön?",
+      "description6": "A letöltött fájlok vagy bélyegképek az eszköz letöltési mappájában tárolódnak. Győződjön meg róla, hogy engedélyezi a ttmp3.io számára az eszköz tárhelyének elérését a beállításokban szükséges lépések elvégzésével."
+    },
+    "slideshow": {
+      "title1": "Fizetnem kell a Slideshow Downloader használatáért?",
+      "description1": "Nem. Weboldalunkon található összes eszköz ingyenesen használható. Továbbá nem kell regisztrálni vagy bejelentkezni.",
+      "title2": "Használhatom a ttmp3 fotó- és diavetítés-letöltőt Android-eszközön?",
+      "description2": "Igen, bármilyen eszközön használható, amely Android operációs rendszert használ.",
+      "title3": "Használhatom a ttmp3 TikTok Slideshow Downloader alkalmazást iOS vagy macOS rendszeren?",
+      "description3": "Igen. Ez az eszköz könnyedén használható iOS vagy macOS rendszeren. Nincsenek regisztrációs díjak.",
+      "title4": "Biztonságos fotókat és diavetítéseket letölteni a TikTokról a ttmp3.io használatával?",
+      "description4": "100%. Nincs ok az aggodalomra. A weboldalunkra bejövő és onnan kimenő összes forgalom titkosítva van a legújabb protokollok használatával. Így nincs lopás vagy adatvédelmi szivárgás.",
+      "title5": "Szükséges valamilyen böngészőbővítmény ennek az eszköznek a használatához?",
+      "description5": "Nem. Nem kell semmilyen bővítményt letöltenie az eszköz használatához. A weboldal letisztult és felhasználóbarát felülettel rendelkezik.",
+      "title6": "A letöltött diavetítések vízjelmentesek?",
+      "description6": "Igen. A ttmp3 formátumban letöltött összes diavetítés mentes a vízjelektől és logóktól."
+    },
+    "story": {
+      "title1": "Ingyenes a ttmp3.io-ról letölthető történet?",
+      "description1": "100%. Az eszközünket ingyenesen és korlátlan alkalommal használhatod. Nincs regisztrációs díj.",
+      "title2": "Használhatom a ttmp3 TikTok Story Downloadert Android-eszközön?",
+      "description2": "Igen, a ttmp3 történet letöltő ingyenesen használható Android eszközökön.",
+      "title3": "Használhatom a ttmp3 TikTok Story Downloadert iOS vagy Mac rendszeren?",
+      "description3": "Igen. Ez a történetletöltő bármilyen iOS vagy Mac eszközön jól működik, függetlenül attól, hogy melyik verzió van telepítve rajta.",
+      "title4": "Feltölthetem a saját történetemet a TikTokra a ttmp3.io használatával?",
+      "description4": "Nem, ezt az eszközt nem használhatod a történeteid feltöltésére a TikTokra. Használhatod erre a célra a hivatalos TikTok alkalmazást.",
+      "title5": "A ttmp3.io rögzíti az összes letöltött történetet?",
+      "description5": "Nem. Nem tárolunk nyilvántartást a weboldalunkról letöltött történetekről. Tiszteletben tartjuk az Ön adatainak védelmét.",
+      "title6": "Honnan vannak letöltve ezek a TikTok történetek az eszközömre?",
+      "description6": "A készülék letöltési mappájában találod őket. Ez az alapértelmezett hely, ha a ttmp3-ról töltöd le őket.",
+      "title7": "Vannak-e jogi aggályok a TikTokról származó történetek letöltésekor?",
+      "description7": "Nem, nincsenek jogi kötelezettségek. Etikai szempontból csak olyan emberek történeteit szabad letöltened, akiket ismerhetsz."
+    }
+  },
+  "seo": {
+    "mp4": {
+      "title": "TikTok videóletöltő – Mentsd el a TikTok videókat vízjel nélkül HD MP4 formátumban",
+      "description": "Tölts le TikTok videókat HD minőségben vízjel nélkül - Korlátlanul, ingyenesen és gyorsan. Az MP4 és MP3 formátumok minden eszközön támogatottak. A legegyszerűbb TikTok letöltő online."
+    },
+    "mp3": {
+      "title": "TikTok MP3 letöltő – Videók MP3 hanganyagokká konvertálása ingyen",
+      "description": "A legbiztonságosabb, leggyorsabb és legegyszerűbben használható online TikTok audio MP3 letöltő minden eszközre. Videókat konvertál kiváló minőségű MP3 és MP4 formátumba logók nélkül."
+    },
+    "thumbnail": {
+      "title": "TikTok Thumbnail Downloader – Ingyenes, HD, vízjelek nélkül",
+      "description": "Tölts le TikTok bélyegképeket logó és vízjel nélkül eredeti méretükben. Ez az ingyenes funkció minden eszközön, minden képernyőmérettel működik, és HD formátumban tölti le a bélyegképeket."
+    },
+    "slideshow": {
+      "title": "TikTok diavetítés letöltő – HD és ingyenes vízjelek",
+      "description": "Tölts le TikTok fotó diavetítéseket nagy felbontásban vízjel nélkül – Ez a ttmp3 eszköz gyors, ingyenes és egyszerű. Mentsd el diavetítés videókat könnyedén bármely nyilvános TikTok profilról."
+    },
+    "story": {
+      "title": "TikTok Story Downloader – Gyors, Ingyenes, HD, Vízjel és Felhasználónév Nélkül",
+      "description": "Használd a ttmp3-at, hogy TikTok sztorivideókat ments el bármilyen nyilvános profilról azonnal HD vagy akár 4K formátumban. Gyors, ingyenes, hatékony, vízjel és felhasználónév nélkül."
+    }
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "menu": {
+    "home": "Acasă",
+    "more": "Mai mult",
+    "mp3": {
+      "title": "Descărcător TikTok în MP3",
+      "description": "Convertește și descarcă videoclipuri TikTok în fișiere audio MP3"
+    },
+    "mp4": {
+      "title": "Descărcător MP4 TikTok",
+      "description": "Descarcă videoclipuri TikTok fără filigran în format MP4"
+    },
+    "thumbnail": {
+      "title": "Descărcător de miniaturi TikTok",
+      "description": "Descarcă miniaturile TikTok în dimensiunea și calitatea originală"
+    },
+    "story": {
+      "title": "TikTok Story Downloader",
+      "description": "Descarcă gratuit TikTok Story fără filigran"
+    },
+    "slide": {
+      "title": "Descărcător de diapozitive TikTok",
+      "description": "Descarcă prezentări TikTok la cea mai bună calitate"
+    }
+  },
+  "footer": {
+    "aboutUs": "Despre noi",
+    "termsOfUse": "Termeni de utilizare",
+    "privacyPolicy": "Politica de confidențialitate",
+    "dmca": "DMCA",
+    "contactUs": "Contactaţi-ne",
+    "associated": "Aplicația este concepută exclusiv în scopuri de divertisment și nu este asociată în niciun fel cu TikTok sau ByteDance.",
+    "rightsReserved": "©ttmp3.io 2025 Toate drepturile rezervate."
+  },
+  "downloader": {
+    "placeholder": "Lipiți adresa URL a videoclipului TikTok...",
+    "paste": "Pastă",
+    "search": "Căutare",
+    "clear": "Clar",
+    "loading": "Încărcare...",
+    "another": "Descărcați un alt videoclip",
+    "mp4": {
+      "title": "descărcare video TikTok",
+      "description": "Ultimate solution to download unlimited MP4 TikTok Videos – Secure, hassle-free, and without Watermark",
+      "download": "Descărcați Mp4"
+    },
+    "mp3": {
+      "title": "Descărcător TikTok în MP3",
+      "description": "Convertește fișiere TikTok în MP3 – Descărcător nelimitat, rapid, gratuit, de înaltă calitate și stabil",
+      "download": "Descărcați Mp3"
+    },
+    "thumbnail": {
+      "title": "Descărcător de miniaturi TikTok",
+      "description": "Descarcă miniaturi HD din videoclipurile TikTok în dimensiunea originală - 100% gratuit și ușor de utilizat - Fără filigrane sau logo-uri incluse",
+      "download": "Descărcați miniatura"
+    },
+    "slideshow": {
+      "title": "Descărcător de diapozitive TikTok",
+      "description": "Descarcă gratuit prezentări de diapozitive TikTok HD – rapid, sigur, fără filigran, 100% gratuit",
+      "download": "Descărcați prezentarea"
+    },
+    "story": {
+      "title": "TikTok Story Downloader",
+      "description": "Descarcă gratuit Stories TikTok HD – rapid, ușor de utilizat, fără nume de utilizator și filigran",
+      "download": "Descărcați Story"
+    }
+  },
+  "features": {
+    "title1": "Sigur și Securizat",
+    "description1": "Nu trebuie să vă faceți griji cu privire la furtul datelor dumneavoastră. Nu se salvează linkuri.",
+    "title2": "Fără filigrane",
+    "description2": "Descărcați videoclipuri TikTok MP4 fără filigran sau sigla TT",
+    "title3": "Descărcări nelimitate",
+    "description3": "Oferă descărcări nelimitate gratuite. Nu este necesar un abonament.",
+    "mp3": {
+      "title1": "Cele mai rapide descărcări MP3",
+      "description1": "Convertor online rapid și gratuit de video în audio MP3.",
+      "title2": "Fără virus",
+      "description2": "Fără viruși, fără lag. Convertor curat și sigur disponibil online.",
+      "title3": "Descărcări nelimitate",
+      "description3": "Fără limite. Fără tensiune. Fără înscrieri. Gândește dincolo de limite."
+    },
+    "thumbnail": {
+      "title1": "Descărcări în dimensiunea originală",
+      "description1": "Descărcați miniaturi în dimensiunea originală în format PNG, JPG, JPEG și WebP.",
+      "title2": "Logo și filigran gratuit",
+      "description2": "Descărcați imagini HD clare, fără logo-uri sau filigrane.",
+      "title3": "Descărcări rapide nelimitate",
+      "description3": "Descarcă miniaturi nelimitate în cel mai scurt timp."
+    },
+    "slideshow": {
+      "title1": "Calitate HD sau 4K",
+      "description1": "Descarcă prezentări de diapozitive în format HD sau 4K, dacă sunt disponibile pe TikTok.",
+      "title2": "100% gratuit și nelimitat",
+      "description2": "Nu trebuie să vă faceți griji cu privire la prețuri și limitele de descărcare.",
+      "title3": "Descărcări necomprimate",
+      "description3": "Toate descărcările sunt în dimensiunea lor originală. Nu este necesară compresia."
+    },
+    "story": {
+      "title1": "Cea mai înaltă calitate",
+      "description1": "Descărcați povești în format HD sau chiar 4K, dacă este disponibil.",
+      "title2": "Compatibilitate dispozitiv",
+      "description2": "Funcționează fără probleme pe toate dispozitivele (Android, iOS, Windows)",
+      "title3": "Elimină filigran",
+      "description3": "Filigranele și siglele sunt eliminate automat înainte de descărcare"
+    }
+  },
+  "content": {
+    "heading": "descărcator TikTok",
+    "para1": "Ttmp3 este un serviciu online de descărcare video TikTok care oferă descărcări gratuite de videoclipuri HD din aplicația TikTok în formate MP3 și MP4. Caracteristica principală a acestui program de descărcare este că descarcă toate videoclipurile fără filigran sau sigla TT. Acest lucru permite vizitatorilor să personalizeze aceste videoclipuri pe orice dispozitiv. De asemenea, puteți utiliza această aplicație pe orice dispozitiv, fie că este vorba de mobil, tabletă, laptop sau PC.",
+    "para2": "Ttmp3 este verificat pentru compatibilitatea sa cu toate dispozitivele și dimensiunile ecranului. Acest program de descărcare TikTok oferă utilizatorilor o interfață ușor de utilizat, care este extrem de stabilă. Puteți descărca videoclipuri nelimitate în format HD MP4 fără a vă face griji cu privire la furt sau pierderea de date. Serverele noastre nu stochează datele căutate, iar adresele URL sunt șterse imediat de pe serverul nostru. Toate aceste caracteristici fac din ttmp3 o alegere populară pentru vizitatorii noștri.",
+    "mp3": {
+      "heading": "Descărcător audio MP3 TikTok",
+      "para1": "Ttmp3.io vă oferă posibilitatea de a descărca fișiere audio MP3 din videoclipurile TikTok folosind programul său gratuit TikTok to MP3 Downloader. Acest instrument este special conceput pentru a converti videoclipuri MP4 în fișiere audio MP3, la cererea vizitatorilor noștri.",
+      "para2": "Acest instrument încorporează numeroase caracteristici de securitate. Printre acestea se numără implementarea unui sistem de criptare end-to-end securizat și ștergerea imediată a datelor. Fișierele și datele despre utilizatorii care descarcă aceste fișiere nu sunt stocate pe serverele noastre locale și nu sunt partajate cu nimeni.",
+      "para3": "Instrumentul este compatibil cu toate dispozitivele disponibile la nivel global și cu toate sistemele de operare precum iOS, Android, Windows, Linux și Unix. Nu este nevoie să descărcați și să instalați nicio extensie de browser pentru a utiliza acest instrument. Întreaga funcționalitate este oferită pe o singură pagină.",
+      "para4": "Fișierele descărcate sunt scanate pentru viruși și puteți descărca oricâte fișiere doriți, fără abonament sau înregistrare, în câteva secunde."
+    },
+    "thumbnail": {
+      "heading": "Descărcător de imagini miniatură TikTok",
+      "para1": "Miniaturile sunt imagini plasate peste videoclipurile TikTok pentru a capta atenția spectatorului. Ttmp3.io oferă și un program de descărcare a miniaturilor TikTok care salvează aceste miniaturi în format HD. Aceste fișiere sunt salvate în formate JPG, JPEG, WebP și PNG.",
+      "para2": "Aceste imagini sunt stocate în dimensiunile lor originale, fără nicio compresie. Ttmp3 este un instrument gratuit care, de asemenea, nu necesită abonament sau înregistrare și garantează acces rapid și sigur. Tot ce trebuie să faceți este să copiați adresa URL și să o lipiți în caseta de căutare. Restul depinde de ttmp3.",
+      "para3": "Acest instrument este compatibil și cu toate dispozitivele și software-ul de sistem. De asemenea, nu este nevoie să descărcați sau să instalați niciun software sau extensie de browser pentru a utiliza acest instrument. Miniaturile stocate de acest instrument nu au nici filigrane. Toate aceste caracteristici fac din acest instrument prima alegere printre concurenții săi."
+    },
+    "slideshow": {
+      "heading": "Descărcător de prezentări de diapozitive foto TikTok",
+      "para1": "Prezentările de diapozitive TikTok sunt o colecție de fotografii și imagini cu sunet în fundal. Oamenii distribuie aceste imagini celor dragi. În acest scop, ei creează prezentări de diapozitive cu aceste imagini și introduc sunet în fundal pentru a le face captivante.",
+      "para2": "Ttmp3 TikTok Slideshow Downloader este un instrument dezvoltat pentru a facilita utilizatorilor săi descărcarea de fotografii și prezentări de diapozitive din profilurile publice ale utilizatorilor TikTok. Acest instrument descarcă fotografii și videoclipuri fără logo-uri sau filigrane, ceea ce îl face popular printre concurenții săi. În plus, descarcă fotografii și prezentări de diapozitive în format HD.",
+      "para3": "Instrumentul este compatibil cu toate platformele disponibile, cum ar fi Android, iOS, macOS, Windows, Linux sau Unix. Este rapid, precis, gratuit și sigur de utilizat. Deoarece nu stocăm și nu păstrăm nicio evidență a fișierelor descărcate pe serverele noastre, acest instrument este o alegere populară pentru vizitatori. De asemenea, folosim conexiuni securizate între dispozitive, astfel încât nicio informație despre vizitatorii noștri să nu poată fi spartă."
+    },
+    "story": {
+      "heading": "Descărcătorul de povești TikTok",
+      "para1": "Instrumentul nostru TikTok Story Downloader este gratuit și ușor de utilizat, care vă permite să descărcați povești de pe orice profil public disponibil pe TikTok. Nu este nevoie să descărcați niciun software sau să instalați nicio extensie sau plugin. Întregul proces este fără probleme, sigur și protejat.",
+      "para2": "Aceste povești sunt descărcate în format HD, Ultra HD și chiar 4K, în funcție de modul în care sunt încărcate aceste povești de către un anumit utilizator TikTok. Acest instrument poate fi utilizat pe toate dispozitivele și are compatibilitate globală. Nu trebuie să vă faceți griji. Trebuie doar să copiați și să lipiți adresa URL aici.",
+      "para3": "Poveștile TikTok încărcate de cineva rămân pe profilul său pentru următoarele 24 de ore. Așadar, este mai bine să le salvați pentru a le vizualiza ulterior offline. Instrumentul nostru vă oferă această facilitate gratuit și fără filigran. De asemenea, nu există limite pentru descărcarea poveștilor pe ttmp3."
+    }
+  },
+  "howToUse": {
+    "heading": "Cum se utilizează TikTok MP4 Downloader online",
+    "title1": "Găsiți TT Video",
+    "description1": "Deschide TikTok pe dispozitiv și caută videoclipul dorit. Redă videoclipul pentru a verifica dacă funcționează. Apasă pe butonul de partajare și copiază linkul. Linkul va fi salvat în clipboard-ul dispozitivului.",
+    "title2": "Inserați adresa URL a videoclipului",
+    "description2": "Deschide ttmp3.io pe dispozitivul tău și dă clic pe butonul de lipire. Linkul va fi lipit acolo. Acum, dă clic pe butonul de căutare pentru a găsi videoclipul. Vei fi direcționat către pagina de descărcare, unde va fi afișat videoclipul dorit împreună cu un buton de descărcare.",
+    "title3": "Descărcați videoclipul",
+    "description3": "Faceți clic pe butonul de descărcare, iar videoclipul va fi salvat în memoria dispozitivului în format HD MP4. Videoclipul va fi salvat fără filigran. Faceți clic pe Descărcați un alt videoclip dacă doriți să descărcați mai multe videoclipuri de pe TikTok.",
+    "mp3": {
+      "heading": "Cum se utilizează convertorul audio TikTok în MP3 online",
+      "title1": "Găsiți linkul TikTok",
+      "description1": "Deschide TikTok pe mobil sau desktop și caută videoclipul dorit. Dacă videoclipul se redă corect, copiază adresa URL a videoclipului făcând clic pe butonul de partajare de pe un dispozitiv mobil. Acolo, vei vedea opțiunea de copiere a linkului. Fă clic pe ea și un link va fi salvat în clipboard. Pe un computer desktop, copiază adresa URL din bara de adrese sau făcând clic dreapta și selectând opțiunea de copiere a linkului.",
+      "title2": "Lipiți adresa URL",
+      "description2": "Vizitați ttmp3.io și lipiți linkul în caseta de text dată. Acum, faceți clic pe butonul de căutare. Veți fi redirecționat către o pagină de descărcare. Acest proces va fi rapid și se va finaliza în aproape o secundă. Acolo veți vedea cele două butoane de descărcare.",
+      "title3": "Descărcați fișierul MP3",
+      "description3": "Faceți clic pe butonul „Descărcați MP3”, iar un fișier audio cu cea mai înaltă calitate disponibilă va fi salvat pe dispozitivul dvs. Acum faceți clic pe acesta pentru a reda fișierul. De asemenea, puteți face clic pe butonul „Descărcați un alt videoclip” pentru a descărca mai multe videoclipuri, fișiere MP3, miniaturi, povești sau prezentări de diapozitive."
+    },
+    "thumbnail": {
+      "heading": "Cum se utilizează programul de descărcare a miniaturilor TikTok online",
+      "title1": "Copiați adresa URL",
+      "description1": "În primul rând, trebuie să copiați linkul fișierului video pentru a descărca miniatura. Puteți face acest lucru deschizând videoclipul în aplicația TikTok și apoi dând clic pe butonul de partajare. Acolo veți vedea opțiunea „copiați linkul”. Faceți clic pe ea și un link va fi copiat în clipboard-ul dispozitivului dvs.",
+      "title2": "Lipiți adresa URL",
+      "description2": "Deschideți fișierul ttmp3.io în browserul web și faceți clic pe bara de adrese. Lipiți adresa URL pe care ați copiat-o anterior folosind tasta Ctrl+V. Acum, faceți clic pe butonul de căutare. Miniatura va fi afișată pe o pagină nouă.",
+      "title3": "Descărcați miniatura",
+      "description3": "Faceți clic pe butonul „Descărcați miniatura”, iar un fișier va fi stocat în folderul de descărcări al dispozitivului dvs. Deschideți fișierul făcând clic pe el. Fișierul va fi în format WebP, JPEG, JPG sau PNG de înaltă calitate, fără filigrane."
+    },
+    "slideshow": {
+      "heading": "Cum se utilizează programul de descărcare a prezentărilor de diapozitive TikTok online",
+      "title1": "Găsiți linkul prezentării de diapozitive TikTok",
+      "description1": "Deschide TikTok.com în browserul web sau lansează aplicația pe dispozitivul mobil. Acum navighează la prezentarea de diapozitive pe care dorești să o descarci și dă clic pe butonul de partajare din colțul din dreapta jos. Acolo vei găsi opțiunea „Copiere link”. Pur și simplu dă clic pe ea.",
+      "title2": "Lipiți linkul pentru prezentarea de diapozitive",
+      "description2": "Deschideți instrumentul de descărcare a prezentărilor de diapozitive ttmp3.io și lipiți linkul acolo. Faceți clic pe butonul „Căutare” și veți fi redirecționat către pagina de descărcare.",
+      "title3": "Descărcați prezentarea",
+      "description3": "Faceți clic pe butonul „Descărcați prezentarea de diapozitive”. Prezentarea de diapozitive va fi descărcată în memoria dispozitivului dvs. în câteva secunde. Nu va fi inclus niciun logo sau filigran în prezentare. Accesați acea locație și deschideți prezentarea de diapozitive."
+    },
+    "story": {
+      "heading": "Cum se utilizează TikTok Story Downloader online",
+      "title1": "Găsiți adresa URL a poveștii TikTok",
+      "description1": "Procesul de găsire a adresei URL pentru o poveste TikTok este foarte simplu și similar. Deschide videoclipul dorit în aplicația TikTok și dă clic pe butonul de partajare disponibil în colțul din dreapta jos. Acolo vei vedea o opțiune „Copiere link”. Pur și simplu dă clic pe ea.",
+      "title2": "Inserați adresa URL a poveștii",
+      "description2": "Lipiți această adresă URL în caseta de căutare ttmp3.io deschizând site-ul web într-un browser web. Acum, faceți clic pe butonul de căutare. Ttmp3 va căuta povestea și vă va redirecționa către pagina de descărcare.",
+      "title3": "Descărcați Story",
+      "description3": "Faceți clic pe butonul „Descărcați povestea”. Povestea va fi descărcată în memoria locală a dispozitivului dvs. în cel mai bun format HD sau 4K disponibil. Această poveste va fi fără filigran și logo, oferindu-vă astfel libertatea de a o utiliza ulterior."
+    }
+  },
+  "faq": {
+    "heading": "Întrebări frecvente",
+    "title1": "Se pot descărca videoclipuri TikTok?",
+    "description1": "Da, videoclipurile TikTok pot fi descărcate cu ușurință folosind aplicații terțe precum TTMp3.io, SSSTikTok, Y2Mate, SnapTik și TikTokio.",
+    "title2": "Cum să descarci videoclipuri TikTok fără filigran?",
+    "description2": "Deschide ttmp3.io și lipește linkurile videoclipului pe care vrei să-l descarci. Apoi, dă clic pe butonul de descărcare pentru a salva videoclipul pe dispozitiv.",
+    "title3": "Cum descarc videoclipuri TikTok fără logo?",
+    "description3": "ttmp3.io vă permite să descărcați videoclipuri în format HD MP4 cu sigla TT. Interfața cu utilizatorul este, de asemenea, simplă și ușor de utilizat.",
+    "title4": "TikTok îți spune cine ți-a descărcat videoclipul?",
+    "description4": "Nu, informațiile tale nu vor fi partajate cu creatorul videoclipului după descărcarea acestuia.",
+    "title5": "Poți viziona videoclipuri TikTok fără să descarci aplicația?",
+    "description5": "Da, poți folosi site-ul TikTok pentru a viziona videoclipuri fără a descărca aplicația TikTok.",
+    "title6": "Există vreo taxă de abonament pentru a utiliza acest program de descărcare video TikTok ttmp3.io?",
+    "description6": "Nu, nu există nicio taxă de abonament pentru descărcarea videoclipurilor de pe ttmp3.io.",
+    "title7": "Este necesară vreo extensie pentru a descărca videoclipuri de pe ttmp3?",
+    "description7": "Nu, nu există nicio extensie pentru a descărca videoclipuri de pe ttmp3.io.",
+    "title8": "Unde sunt salvate videoclipurile TikTok după descărcare?",
+    "description8": "Videoclipurile TikTok sunt salvate în folderul de descărcări al dispozitivului dvs. în mod implicit. Dar puteți schimba această cale ulterior.",
+    "title9": "Trebuie să mă înregistrez pentru a folosi acest program de descărcare?",
+    "description9": "Nu, nu este nevoie să vă conectați sau să vă înregistrați pentru a utiliza programul de descărcare ttmp3 TikTok MP4.",
+    "title10": "Cum pot obține linkul către un videoclip TikTok?",
+    "description10": "Deschide videoclipul în aplicația TikTok sau pe site-ul TikTok și dă clic pe butonul de partajare. Acolo vei găsi opțiunea de a copia linkul sau adresa URL.",
+    "title11": "Pot descărca videoclipuri TikTok în format HD fără filigran?",
+    "description11": "Da, ttmp3.io este o aplicație exclusivă de unde poți descărca videoclipuri în format HD fără a utiliza filigran. În plus, ți se oferă descărcări nelimitate.",
+    "mp3": {
+      "title1": "Cum se convertește un videoclip TikTok în MP3?",
+      "description1": "Poți folosi ttmp3.io în acest scop. Copiază linkul de pe TikTok și lipește-l în caseta de text, apoi dă clic pe butonul de căutare. Acum, dă clic pe butonul de descărcare și ai terminat.",
+      "title2": "Cum se convertește sunetul TikTok în MP3?",
+      "description2": "Ttmp3.io vă oferă cea mai ușoară modalitate de a converti și descărca fișiere audio în format MP3 gratuit.",
+      "title3": "Câte descărcări are TikTok?",
+      "description3": "Puteți descărca cât mai multe fișiere folosind serviciul gratuit ttmp3.io. Lucrăm constant la site-ul nostru web pentru a vă oferi o experiență fluidă.",
+      "title4": "Când poate fi descărcat TikTok?",
+      "description4": "Aplicația TikTok poate fi descărcată cu ușurință din Google Play, Apple Store sau Windows Store, în funcție de compatibilitatea dispozitivului.",
+      "title5": "Când vor putea fi din nou descărcate videoclipurile de pe TikTok?",
+      "description5": "Pe ttmp3.io, poți descărca imediat un alt fișier video sau audio. Nu există limite privind timpul sau numărul de descărcări disponibile.",
+      "title6": "Trebuie să descărcăm vreun software pentru a utiliza acest serviciu?",
+      "description6": "Nu. Nu este nevoie să descărcați niciun software pentru a utiliza acest serviciu. Serviciul nostru poate fi utilizat cu ușurință de pe site-ul nostru web. Procesul implică câțiva pași simpli.",
+      "title7": "Salvăm date personale sau fișiere ale utilizatorilor?",
+      "description7": "Nu. ttmp3 nu salvează datele utilizatorilor sau profilurile personale. De asemenea, nu este nevoie să vă înregistrați pentru a utiliza acest serviciu. Toate videoclipurile sunt descărcate direct de pe TikTok pe dispozitivul local al utilizatorului."
+    },
+    "thumbnail": {
+      "title1": "Este posibil să descarc miniaturi din videoclipurile TikTok?",
+      "description1": "Da. Miniaturile TikTok pot fi descărcate cu ușurință folosind serviciul de descărcare gratuită ttmp3.io.",
+      "title2": "În ce format de fișier se descarcă miniaturile?",
+      "description2": "Aceste miniaturi sunt descărcate din videoclipurile TikTok în format JPG, JPEG, PNG sau WebP.",
+      "title3": "Pot descărca miniaturi din toate videoclipurile de pe TikTok?",
+      "description3": "Da, miniaturile pot fi descărcate din toate videoclipurile care au miniaturi incluse în ele.",
+      "title4": "Sunt miniaturile descărcate stocate pe serverele ttmp3.io?",
+      "description4": "Nu. Respectăm cu strictețe regulile și reglementările privind confidențialitatea. Nicio dată nu este stocată pe serverele noastre.",
+      "title5": "Câte miniaturi pot descărca folosind ttmp3.io?",
+      "description5": "Nu există limite pentru descărcarea miniaturilor de pe TikTok folosind serviciul de descărcare ttmp3.io. Poți descărca sute de imagini miniatură fără filigrane și logo-uri.",
+      "title6": "Unde sunt stocate pe dispozitivul meu miniaturile descărcate?",
+      "description6": "Fișierele sau miniaturile descărcate sunt stocate în folderul de descărcări al dispozitivului. Asigurați-vă că permiteți ttmp3.io să acceseze spațiul de stocare al dispozitivului dvs. efectuând aranjamentele necesare în setări."
+    },
+    "slideshow": {
+      "title1": "Trebuie să plătesc pentru a utiliza Slideshow Downloader?",
+      "description1": "Nu. Toate instrumentele de pe site-ul nostru web sunt gratuite. În plus, nu este nevoie să vă înregistrați sau să vă conectați.",
+      "title2": "Pot folosi ttmp3 Photo and Slideshow Downloader pe un dispozitiv Android?",
+      "description2": "Da, poate fi folosit pe orice dispozitiv care folosește Android ca sistem de operare.",
+      "title3": "Pot folosi ttmp3 TikTok Slideshow Downloader pe iOS sau macOS?",
+      "description3": "Da. Poți folosi acest instrument cu ușurință pe iOS sau macOS. Nu sunt incluse taxe de înscriere sau înregistrare.",
+      "title4": "Este sigur să descarc fotografii și prezentări de diapozitive de pe TikTok folosind ttmp3.io?",
+      "description4": "100%. Nu este nevoie să vă faceți griji. Tot traficul care intră și iese de pe site-ul nostru este criptat folosind cele mai noi protocoale. Deci, nu există furt sau scurgere de informații confidențiale.",
+      "title5": "Este nevoie de vreo extensie de browser pentru a utiliza acest instrument?",
+      "description5": "Nu. Nu trebuie să descărcați nicio extensie pentru a utiliza acest instrument. Site-ul web are o interfață curată și ușor de utilizat.",
+      "title6": "Prezentările de diapozitive descărcate nu conțin filigran?",
+      "description6": "Da. Toate prezentările de diapozitive descărcate folosind ttmp3 nu conțin filigrane și logo-uri."
+    },
+    "story": {
+      "title1": "Este gratuit un program de descărcare a poveștilor de pe ttmp3.io?",
+      "description1": "100%. Puteți utiliza instrumentul nostru gratuit și nelimitat. Nu există nicio taxă de înscriere sau înregistrare.",
+      "title2": "Pot folosi ttmp3 TikTok Story Downloader pe un dispozitiv Android?",
+      "description2": "Da, programul de descărcare a poveștilor ttmp3 poate fi utilizat gratuit pe dispozitivele Android.",
+      "title3": "Pot folosi ttmp3 TikTok Story Downloader pe un iOS sau Mac?",
+      "description3": "Da. Acest program de descărcare a poveștilor va funcționa fără probleme pe orice dispozitiv iOS sau Mac, indiferent de versiunea instalată pe acesta.",
+      "title4": "Pot să încarc propria mea poveste pe TikTok folosind ttmp3.io?",
+      "description4": "Nu, nu poți folosi acest instrument pentru a încărca poveștile tale pe TikTok. Poți folosi aplicația oficială TikTok în acest scop.",
+      "title5": "Ttmp3.io păstrează o evidență a tuturor poveștilor descărcate?",
+      "description5": "Nu. Nu păstrăm nicio evidență a niciunei povești descărcate de pe site-ul nostru web. Respectăm confidențialitatea dumneavoastră.",
+      "title6": "Unde sunt descărcate aceste povești TikTok pe dispozitivul meu?",
+      "description6": "Le poți găsi în folderul de descărcări al dispozitivului tău. Aceasta este locația implicită dacă le descarci de pe ttmp3.",
+      "title7": "Există vreo problemă legală la descărcarea de povești de pe TikTok?",
+      "description7": "Nu, nu există obligații legale. Din punct de vedere etic, ar trebui să descărcați doar poveștile persoanelor pe care le cunoașteți."
+    }
+  },
+  "seo": {
+    "mp4": {
+      "title": "Descărcător video TikTok - Salvează videoclipuri TikTok fără filigran în format MP4 HD",
+      "description": "Descarcă videoclipuri TikTok în HD fără filigran - Nelimitat, gratuit și rapid. Formatele MP4 și MP3 sunt acceptate pe toate dispozitivele. Cel mai simplu program de descărcare TikTok disponibil online."
+    },
+    "mp3": {
+      "title": "TikTok to MP3 Downloader – Convertește videoclipuri în fișiere audio MP3 gratuit",
+      "description": "Cel mai sigur, rapid și ușor de utilizat program de descărcare online de fișiere audio MP3 TikTok pentru toate dispozitivele. Convertește videoclipuri în format MP3 și MP4 de înaltă calitate, fără logo-uri incluse."
+    },
+    "thumbnail": {
+      "title": "Descărcător de miniaturi TikTok – Gratuit, HD, fără filigrane incluse",
+      "description": "Descarcă miniaturi TikTok fără logo și filigran în dimensiunea lor originală. Această funcție gratuită funcționează pe toate dispozitivele cu ecrane de toate dimensiunile și descarcă miniaturi în format HD."
+    },
+    "slideshow": {
+      "title": "Descărcător de diapozitive TikTok – HD și filigrane gratuite",
+      "description": "Descarcă prezentări foto TikTok la rezoluție înaltă, fără filigran – Acest instrument de la ttmp3 este rapid, gratuit și ușor de utilizat. Salvează cu ușurință videoclipuri cu prezentări de diapozitive din orice profil public TikTok."
+    },
+    "story": {
+      "title": "Descărcător de povești TikTok – Rapid, Gratuit, HD, Fără filigrane și nume de utilizator",
+      "description": "Folosește ttmp3 pentru a salva instantaneu videoclipuri TikTok Story de pe orice profil public în format HD sau chiar 4K. Rapid, gratuit, eficient, fără filigrane și nume de utilizator inclus."
+    }
+  }
+}

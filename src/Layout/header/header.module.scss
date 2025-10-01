@@ -1,0 +1,139 @@
+/* Navbar */
+.navbar {
+  padding: 16px 0;
+  background: #8d021f;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.logo img {
+  height: 40px;
+}
+
+/* Hamburger */
+.hamburger {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  z-index: 110;
+
+  span {
+    width: 25px;
+    height: 3px;
+    background: #fff;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+  }
+
+  &.active {
+    span:nth-child(1) { transform: rotate(45deg) translate(7px, 7px); }
+    span:nth-child(2) { opacity: 0; }
+    span:nth-child(3) { transform: rotate(-45deg) translate(7px, -7px); }
+  }
+}
+
+/* Mobile overlay */
+.mobile-overlay {
+  display: none;
+  position: fixed;
+  inset: 0; /* shorthand for top/left/right/bottom: 0 */
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 98;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+
+  &.active { opacity: 1; }
+}
+
+/* Mobile menu */
+.mobile-menu {
+  position: fixed;
+  top: 0;
+  left: -100%;
+  width: 280px;
+  height: 100vh;
+  background: #fff;
+  z-index: 99;
+  overflow-y: auto;
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+  transition: left 0.3s ease;
+
+  &.active { left: 0; }
+}
+
+.mobile-menu-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 28px;
+  cursor: pointer;
+  color: #333;
+  padding: 4px;
+  line-height: 1;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &:hover { color: #ff0000; }
+}
+
+.mobile-nav-items {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0;
+}
+
+.mobile-nav-link {
+  padding: 16px 20px;
+  font-size: 16px;
+  color: #333;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+
+  &:hover { background: #ffd700; }
+  &:active { background: #ffd700; }
+}
+
+/* Desktop menu */
+.menu-items {
+  display: flex;
+  align-items: center;
+}
+
+.nav-items a {
+  font-size: 16px;
+  color: #fff;
+  transition: color 0.2s ease;
+
+  &:hover { color: #ff0000; }
+}
+
+/* Media queries */
+@media (max-width: 1080px) {
+  .menu-items { display: none; }
+  .hamburger { display: flex; justify-content: center; }
+  .mobile-overlay { display: block; }
+}
+
+@media (max-width: 768px) {
+  .container { padding: 0 16px; }
+  .mobile-menu { width: 80%; max-width: 320px; }
+}
+
+@media (max-width: 480px) {
+  .logo img { height: 32px; }
+}

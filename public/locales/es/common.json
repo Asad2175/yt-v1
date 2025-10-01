@@ -1,0 +1,288 @@
+{
+  "menu": {
+    "home": "Hogar",
+    "more": "Más",
+    "mp3": {
+      "title": "Descargador de TikTok a MP3",
+      "description": "Convierte y descarga vídeos de TikTok a archivos de audio MP3"
+    },
+    "mp4": {
+      "title": "Descargador de MP4 de TikTok",
+      "description": "Descargar vídeos de TikTok sin marca de agua en formato MP4"
+    },
+    "thumbnail": {
+      "title": "Descargador de miniaturas de TikTok",
+      "description": "Descargar miniaturas de TikTok en tamaño y calidad originales"
+    },
+    "story": {
+      "title": "Descargador de historias de TikTok",
+      "description": "Descarga TikTok Story sin marca de agua gratis"
+    },
+    "slide": {
+      "title": "Descargador de presentaciones de TikTok",
+      "description": "Descargue presentaciones de TikTok con la mejor calidad"
+    }
+  },
+  "footer": {
+    "aboutUs": "Sobre nosotras",
+    "termsOfUse": "Condiciones de uso",
+    "privacyPolicy": "política de privacidad",
+    "dmca": "DMCA",
+    "contactUs": "Contacta con nosotras",
+    "associated": "La aplicación está diseñada únicamente con fines de entretenimiento y no está asociada con TikTok o ByteDance de ningún modo.",
+    "rightsReserved": "©ttmp3.io 2025 Todos los derechos reservados."
+  },
+  "downloader": {
+    "placeholder": "Pegar la URL del vídeo de TikTok...",
+    "paste": "Pasta",
+    "search": "Buscar",
+    "clear": "Clara",
+    "loading": "Cargando...",
+    "mp4": {
+      "title": "Descargador de vídeos de TikTok",
+      "description": "La solución definitiva para descargar vídeos MP4 TikTok ilimitados: segura, sin complicaciones y sin marca de agua."
+    },
+    "mp3": {
+      "title": "Descargador de TikTok a MP3",
+      "description": "Convierte TikTok a audios MP3: descargador ilimitado, rápido, gratuito, de alta calidad y estable.",
+      "download": "Descargar Mp3"
+    },
+    "thumbnail": {
+      "title": "Descargador de miniaturas de TikTok",
+      "description": "Descarga miniaturas HD de videos de TikTok en tamaño original: 100 % gratis y fácil de usar. Sin marcas de agua ni logotipos incluidos.",
+      "download": "Descargar miniatura"
+    },
+    "slideshow": {
+      "title": "Descargador de presentaciones de TikTok",
+      "description": "Descarga presentaciones de TikTok HD gratis: rápidas, seguras, sin marca de agua, 100 % gratis",
+      "download": "Descargar presentación de diapositivas"
+    },
+    "story": {
+      "title": "Descargador de historias de TikTok",
+      "description": "Descarga TikTok Stories en HD gratis: rápido, fácil de usar, sin nombre de usuario ni marca de agua",
+      "download": "Descargar historia"
+    }
+  },
+  "features": {
+    "title1": "Seguro y protegido",
+    "description1": "No te preocupes por el robo de tus datos. No se guardan los enlaces.",
+    "title2": "Sin marcas de agua",
+    "description2": "Descarga videos MP4 de TikTok sin marca de agua ni logotipo TT",
+    "title3": "Descargas ilimitadas",
+    "description3": "Descargas ilimitadas gratis. Sin suscripción.",
+    "mp3": {
+      "title1": "Descargas de MP3 más rápidas",
+      "description1": "Conversor de vídeo a audio MP3 online rápido y gratuito.",
+      "title2": "Sin virus",
+      "description2": "Sin virus ni retrasos. Conversor limpio y seguro disponible en línea.",
+      "title3": "Descargas ilimitadas",
+      "description3": "Sin límites. Sin tensión. Sin inscripciones. Piensa más allá de los límites."
+    },
+    "thumbnail": {
+      "title1": "Descargas en tamaño original",
+      "description1": "Descargue miniaturas de tamaño original en PNG, JPG, JPEG y WebP.",
+      "title2": "Logotipo y marca de agua gratis",
+      "description2": "Descargue imágenes HD nítidas sin logotipos ni marcas de agua.",
+      "title3": "Descargas rápidas ilimitadas",
+      "description3": "Descargue miniaturas ilimitadas en poco tiempo."
+    },
+    "slideshow": {
+      "title1": "Calidad HD o 4K",
+      "description1": "Descargue presentaciones de diapositivas en formato HD o 4K si están disponibles en TikTok.",
+      "title2": "100% gratis e ilimitada",
+      "description2": "No hay necesidad de preocuparse por los precios ni los límites de descarga.",
+      "title3": "Descargas sin comprimir",
+      "description3": "Todas las descargas están en su tamaño original. Sin compresión."
+    },
+    "story": {
+      "title1": "La más alta calidad",
+      "description1": "Descargue historias en formato HD o incluso 4K si está disponible.",
+      "title2": "Compatibilidad del dispositivo",
+      "description2": "Funciona sin problemas para todos los dispositivos (Android, iOS, Windows)",
+      "title3": "Elimina la marca de agua",
+      "description3": "Las marcas de agua y los logotipos se eliminan automáticamente antes de la descarga."
+    }
+  },
+  "content": {
+    "heading": "Descargador de TikTok",
+    "para1": "Ttmp3 es un servicio de descarga de videos de TikTok en línea que ofrece descargas gratuitas de videos HD desde la app en formatos MP3 y MP4. Su principal característica es que descarga todos los videos sin marca de agua ni logotipo de TT. Esto permite personalizarlos en cualquier dispositivo. También puedes usar la aplicación en cualquier dispositivo, ya sea móvil, tableta, portátil o PC.",
+    "para2": "Se ha comprobado la compatibilidad de ttmp3 con todos los dispositivos y tamaños de pantalla. Este descargador de TikTok ofrece una interfaz intuitiva y muy estable. Puedes descargar vídeos ilimitados en formato HD MP4 sin preocuparte por robos ni pérdida de datos. Nuestros servidores no almacenan los datos de búsqueda y las URL se eliminan inmediatamente. Todas estas características hacen de ttmp3 una opción popular entre nuestros visitantes.",
+    "mp3": {
+      "heading": "Descargador de audio MP3 de TikTok",
+      "para1": "Ttmp3.io te ofrece la posibilidad de descargar audios MP3 de videos de TikTok con su descarga gratuita de TikTok a MP3. Esta herramienta está especialmente diseñada para convertir videos MP4 a archivos de audio MP3 según las necesidades de nuestros visitantes.",
+      "para2": "Esta herramienta incorpora numerosas funciones de seguridad. Estas incluyen la implementación de un sistema de cifrado seguro de extremo a extremo y la eliminación inmediata de datos. Los archivos y los datos de los usuarios que los descargan no se almacenan en nuestros servidores locales ni se comparten con nadie.",
+      "para3": "La herramienta es compatible con todos los dispositivos disponibles a nivel mundial y con todos los sistemas operativos, como iOS, Android, Windows, Linux y Unix. No es necesario descargar ni instalar ninguna extensión del navegador para usarla. Toda la funcionalidad se encuentra en una sola página.",
+      "para4": "Los archivos descargados se analizan en busca de virus y usted puede descargar tantos archivos como desee sin necesidad de suscripción o registro en segundos."
+    },
+    "thumbnail": {
+      "heading": "Descargador de imágenes en miniatura de TikTok",
+      "para1": "Las miniaturas son imágenes que se colocan sobre los videos de TikTok para captar la atención del espectador. Ttmp3.io también ofrece un descargador de miniaturas de TikTok que guarda estas miniaturas en formato HD. Estos archivos se guardan en formatos JPG, JPEG, WebP y PNG.",
+      "para2": "Estas imágenes se almacenan en su tamaño original sin compresión. Ttmp3 es una herramienta gratuita que no requiere suscripción ni registro y garantiza un acceso rápido y seguro. Solo tienes que copiar la URL y pegarla en el cuadro de búsqueda. El resto lo gestiona ttmp3.",
+      "para3": "Esta herramienta es compatible con todos los dispositivos y software del sistema. No es necesario descargar ni instalar ningún software ni extensión del navegador para usarla. Las miniaturas almacenadas no tienen marca de agua. Todas estas características la convierten en la mejor opción entre sus competidores."
+    },
+    "slideshow": {
+      "heading": "Descargador de presentaciones de fotos de TikTok",
+      "para1": "Las presentaciones de TikTok son una colección de fotos e imágenes con sonido de fondo. La gente comparte estas imágenes con sus seres queridos. Para ello, crean presentaciones con estas imágenes y añaden sonido de fondo para hacerlas más atractivas.",
+      "para2": "Ttmp3 TikTok Slideshow Downloader es una herramienta diseñada para facilitar la descarga de fotos y presentaciones de los perfiles públicos de usuarios de TikTok. Descarga fotos y videos sin logotipos ni marcas de agua, lo que la convierte en una herramienta popular entre sus competidores. Además, descarga fotos y presentaciones en formato HD.",
+      "para3": "La herramienta es compatible con todas las plataformas disponibles, como Android, iOS, macOS, Windows, Linux o Unix. Es rápida, precisa, gratuita y segura. Dado que no almacenamos ni registramos los archivos descargados en nuestros servidores, esta herramienta es una opción popular entre los visitantes. Además, utilizamos conexiones seguras entre dispositivos para evitar que la información de nuestros visitantes sea pirateada."
+    },
+    "story": {
+      "heading": "Descargador de historias de TikTok",
+      "para1": "Nuestro Descargador de Historias de TikTok es una herramienta gratuita y fácil de usar que te permite descargar historias de cualquier perfil público disponible en TikTok. No necesitas descargar ningún software ni instalar extensiones ni plugins. Todo el proceso es sencillo y seguro.",
+      "para2": "Estas historias se descargan en formato HD, Ultra HD e incluso 4K, según cómo las suba cada usuario de TikTok. Esta herramienta es compatible con todos los dispositivos y tiene compatibilidad global. No hay que preocuparse por nada. Solo tienes que copiar y pegar la URL aquí.",
+      "para3": "Las historias de TikTok que alguien sube permanecen en su perfil durante 24 horas. Por eso, es mejor guardarlas para verlas más tarde sin conexión. Nuestra herramienta te ofrece esta función gratuita y sin marca de agua. Además, no hay límite para descargar historias en ttmp3."
+    }
+  },
+  "howToUse": {
+    "heading": "Cómo usar TikTok MP4 Downloader en línea",
+    "title1": "Buscar vídeo TT",
+    "description1": "Abre TikTok en tu dispositivo y busca el video que quieras. Reprodúcelo para comprobar si funciona. Haz clic en el botón para compartir y copia el enlace. Este se guardará en el portapapeles de tu dispositivo.",
+    "title2": "Pegar URL del vídeo",
+    "description2": "Abre ttmp3.io en tu dispositivo y haz clic en el botón 'Pegar'. El enlace se pegará ahí. Ahora, haz clic en el botón de búsqueda para encontrar el video. Accederás a la página de descarga, donde se mostrará el video deseado junto con un botón de descarga.",
+    "title3": "Descargar vídeo",
+    "description3": "Haz clic en el botón de descarga y el video se guardará en el almacenamiento de tu dispositivo en formato HD MP4. El video se guardará sin marca de agua. Haz clic en 'Descargar otro video' si quieres descargar más videos de TikTok.",
+    "mp3": {
+      "heading": "Cómo usar el convertidor de audio de TikTok a MP3 en línea",
+      "title1": "Encuentra el enlace de TikTok",
+      "description1": "Abre TikTok en tu móvil o computadora y busca el video que quieras. Si se reproduce correctamente, copia la URL haciendo clic en el botón de compartir en un dispositivo móvil. Ahí verás la opción 'Copiar enlace'. Haz clic en ella y se guardará el enlace en tu portapapeles. En una computadora, copia la URL desde la barra de direcciones o haz clic derecho y selecciona la opción Copiar enlace.",
+      "title2": " Pegar URL",
+      "description2": "Visita ttmp3.io y pega el enlace en el cuadro de texto. Haz clic en el botón de búsqueda. Serás redirigido a una página de descarga. Este proceso es rápido y se completa en casi un segundo. Allí verás los dos botones de descarga.",
+      "title3": "Descargar archivo MP3",
+      "description3": "Haz clic en el botón 'Descargar MP3' y se guardará en tu dispositivo un archivo de audio con la mejor calidad disponible. Haz clic en él para reproducirlo. También puedes hacer clic en el botón 'Descargar otro video' para descargar más videos, MP3, miniaturas, historias o presentaciones."
+    },
+    "thumbnail": {
+      "heading": "Cómo usar el descargador de miniaturas de TikTok en línea",
+      "title1": "Copiar URL",
+      "description1": "Primero, copia el enlace del video para descargar la miniatura. Puedes hacerlo abriendo el video en la app de TikTok y haciendo clic en el botón para compartir. Ahí verás la opción 'Copiar enlace'. Haz clic en ella y se copiará el enlace al portapapeles de tu dispositivo.",
+      "title2": "Pegar URL",
+      "description2": "Abre ttmp3.io en tu navegador web y haz clic en la barra de direcciones. Pega la URL que copiaste anteriormente con Ctrl+V. Ahora, haz clic en el botón de búsqueda. La miniatura se mostrará en una nueva página.",
+      "title3": "Descargar miniatura",
+      "description3": "Haz clic en el botón 'Descargar miniatura' y se guardará un archivo en la carpeta de descargas de tu dispositivo. Haz clic en el archivo para abrirlo. El archivo estará en formato WebP, JPEG, JPG o PNG de alta calidad, sin marcas de agua."
+    },
+    "slideshow": {
+      "heading": "Cómo usar el descargador de presentaciones de TikTok en línea",
+      "title1": "Encuentra el enlace de presentación de TikTok",
+      "description1": "Abre TikTok.com en tu navegador web o inicia la app en tu dispositivo móvil. Ahora, navega hasta la presentación que quieras descargar y haz clic en el botón de compartir en la esquina inferior derecha. Allí encontrarás la opción 'Copiar enlace'. Haz clic en ella.",
+      "title2": "Pegar enlace de presentación de diapositivas",
+      "description2": "Abre el descargador de presentaciones ttmp3.io y pega el enlace. Haz clic en el botón 'Buscar' para acceder a la página de descarga.",
+      "title3": "Descargar presentación de diapositivas",
+      "description3": "Haz clic en el botón 'Descargar presentación'. La presentación se descargará en el almacenamiento de tu dispositivo en segundos. No se incluirá ningún logotipo ni marca de agua. Ve a esa ubicación y ábrela."
+    },
+    "story": {
+      "heading": "Cómo usar TikTok Story Downloader en línea",
+      "title1": "Encuentra la URL de la historia de TikTok",
+      "description1": "El proceso para encontrar la URL de una historia de TikTok es muy sencillo y similar. Abre el video que quieras en la app de TikTok y haz clic en el botón para compartir, disponible en la esquina inferior derecha. Ahí verás la opción 'Copiar enlace'. Simplemente haz clic en ella.",
+      "title2": "Pegar URL de la historia",
+      "description2": "Pega esta URL en el buscador de ttmp3.io abriendo el sitio web en un navegador. Ahora, haz clic en el botón de búsqueda. Ttmp3 buscará la historia y te redirigirá a la página de descarga.",
+      "title3": "Descargar historia",
+      "description3": "Haz clic en el botón 'Descargar historia'. La historia se descargará en el almacenamiento local de tu dispositivo en el mejor formato HD o 4K disponible. No tendrá marca de agua ni logotipo, así que podrás usarla después."
+    }
+  },
+  "faq": {
+    "heading": "Preguntas frecuentes",
+    "title1": "¿Se pueden descargar vídeos de TikTok?",
+    "description1": "Sí, los videos de TikTok se pueden descargar fácilmente usando aplicaciones de terceros como TTMp3.io, SSSTikTok, Y2Mate, SnapTik y TikTokio.",
+    "title2": "¿Cómo descargar vídeos de TikTok sin marca de agua?",
+    "description2": "Abre ttmp3.io y pega los enlaces del video que deseas descargar. Luego, haz clic en el botón de descarga para guardar el video en tu dispositivo.",
+    "title3": "¿Cómo descargar vídeos de TikTok sin el logo?",
+    "description3": "ttmp3.io te permite descargar videos en formato HD MP4 con el logo de TT. La interfaz es sencilla e intuitiva.",
+    "title4": "¿TikTok te dice quién descargó tu video?",
+    "description4": "No, tu información no se compartirá con el creador del video luego de que el mismo se descargue.",
+    "title5": "¿Puedes ver vídeos de TikTok sin descargar la aplicación?",
+    "description5": "Sí, puedes usar el sitio web de TikTok para ver los videos sin descargar la aplicación TikTok.",
+    "title6": "¿Hay alguna tarifa de suscripción para utilizar este descargador de videos de TikTok ttmp3.io?",
+    "description6": "No, no hay ninguna tarifa de suscripción para descargar videos de ttmp3.io.",
+    "title7": "¿Hay alguna extensión necesaria para descargar vídeos de ttmp3?",
+    "description7": "No, no hay ninguna extensión para descargar vídeos de ttmp3.io.",
+    "title8": "¿Dónde se guardan los vídeos de TikTok después de descargarlos?",
+    "description8": "Los videos de TikTok se guardan en la carpeta de descargas de tu dispositivo por defecto. Pero puedes cambiar esta ruta más tarde.",
+    "title9": "¿Necesito registrarme para utilizar este descargador?",
+    "description9": "No, no es necesario iniciar sesión ni registrarse para utilizar el descargador ttmp3 TikTok MP4.",
+    "title10": "¿Cómo puedo obtener el enlace a un vídeo de TikTok?",
+    "description10": "Abre el video en la app o en la página web de TikTok y haz clic en el botón para compartir. Allí encontrarás la opción para copiar el enlace o la URL.",
+    "title11": "¿Puedo descargar vídeos de TikTok en formato HD sin marca de agua?",
+    "description11": "Sí, ttmp3.io es una aplicación exclusiva que te permite descargar videos en formato HD sin marca de agua. Además, ofrece descargas ilimitadas.",
+    "mp3": {
+      "title1": "¿Cómo convertir un vídeo de TikTok a MP3?",
+      "description1": "Puedes usar ttmp3.io para esto. Solo copia el enlace de TikTok, pégalo en el cuadro de texto y haz clic en el botón de búsqueda. Luego, haz clic en el botón de descarga y listo.",
+      "title2": "¿Cómo convertir audio de TikTok a MP3?",
+      "description2": "Ttmp3.io le ofrece la forma más sencilla de convertir y descargar archivos de audio al formato MP3 de forma gratuita.",
+      "title3": "¿Cuántas descargas tiene TikTok?",
+      "description3": "Puedes descargar todos los archivos que quieras con el servicio gratuito ttmp3.io. Trabajamos constantemente en nuestro sitio web para ofrecerte una experiencia fluida.",
+      "title4": "¿Cuándo se podrá descargar TikTok?",
+      "description4": "La aplicación TikTok se puede descargar fácilmente desde Google Play, Apple Store o Windows Store, según la compatibilidad de su dispositivo.",
+      "title5": "¿Cuándo se podrán volver a descargar los vídeos de TikTok?",
+      "description5": "En ttmp3.io, puedes descargar inmediatamente otro archivo de video o audio. No hay límite de tiempo ni de número de descargas disponibles.",
+      "title6": "¿Tenemos que descargar algún software para utilizar este servicio?",
+      "description6": "No. No necesita descargar ningún software para usar este servicio. Puede usarlo fácilmente desde nuestro sitio web. El proceso consta de unos sencillos pasos.",
+      "title7": "¿Guardamos datos o archivos personales de los usuarios?",
+      "description7": "No. ttmp3 no guarda los datos ni los perfiles personales de los usuarios. No es necesario registrarse para usar este servicio. Todos los videos se descargan directamente de TikTok al dispositivo del usuario."
+    },
+    "thumbnail": {
+      "title1": "¿Es posible descargar miniaturas de vídeos de TikTok?",
+      "description1": "Sí. Las miniaturas de TikTok se pueden descargar fácilmente utilizando el servicio de descarga gratuita ttmp3.io.",
+      "title2": "¿En qué formato de archivo se descargan las miniaturas?",
+      "description2": "Estas miniaturas se descargan de videos de TikTok en formato JPG, JPEG, PNG o WebP.",
+      "title3": "¿Puedo descargar miniaturas de todos los videos en TikTok?",
+      "description3": "Sí, las miniaturas se pueden descargar de todos aquellos vídeos que tengan miniaturas incluidas en ellos.",
+      "title4": "¿Las miniaturas descargadas se almacenan en los servidores de ttmp3.io?",
+      "description4": "No. Cumplimos estrictamente las normas de privacidad. No se almacena ningún dato en nuestros servidores.",
+      "title5": "¿Cuántas miniaturas puedo descargar usando ttmp3.io?",
+      "description5": "No hay límites para descargar miniaturas de TikTok con el servicio de descarga ttmp3.io. Puedes descargar cientos de miniaturas sin marcas de agua ni logotipos.",
+      "title6": "¿Dónde se almacenan las miniaturas descargadas en mi dispositivo?",
+      "description6": "Los archivos o miniaturas descargados se almacenan en la carpeta de descargas de tu dispositivo. Asegúrate de permitir que ttmp3.io acceda al almacenamiento de tu dispositivo realizando los ajustes necesarios en la configuración."
+    },
+    "slideshow": {
+      "title1": "¿Tengo que pagar para utilizar Slideshow Downloader?",
+      "description1": "No. Todas las herramientas de nuestro sitio web son gratuitas. Además, no es necesario registrarse ni iniciar sesión.",
+      "title2": "¿Puedo utilizar ttmp3 Photo and Slideshow Downloader en un dispositivo Android?",
+      "description2": "Sí, se puede utilizar en cualquier dispositivo que utilice Android como sistema operativo.",
+      "title3": "¿Puedo usar ttmp3 TikTok Slideshow Downloader en mi iOS o macOS?",
+      "description3": "Sí. Puedes usar esta herramienta fácilmente en iOS o macOS. No hay costos de registro.",
+      "title4": "¿Es seguro descargar fotos y presentaciones de TikTok usando ttmp3.io?",
+      "description4": "100%. No hay de qué preocuparse. Todo el tráfico que entra y sale de nuestro sitio web está cifrado con los protocolos más modernos. Por lo tanto, no hay robo ni vulneración de la privacidad.",
+      "title5": "¿Es necesaria alguna extensión del navegador para utilizar esta herramienta?",
+      "description5": "No. No necesitas descargar ninguna extensión para usar esta herramienta. El sitio web tiene una interfaz clara y fácil de usar.",
+      "title6": "¿Están las diapositivas descargadas sin marca de agua?",
+      "description6": "Sí. Todas las presentaciones de diapositivas que se descargan mediante ttmp3 están libres de marcas de agua y logotipos."
+    },
+    "story": {
+      "title1": "¿Es gratuito el descargador de historias de ttmp3.io?",
+      "description1": "100 %. Puedes usar nuestra herramienta gratis y sin límite de veces. No hay cuota de inscripción ni registro.",
+      "title2": "¿Puedo usar ttmp3 TikTok Story Downloader en un dispositivo Android?",
+      "description2": "Sí, el descargador de historias ttmp3 se puede utilizar en dispositivos Android de forma gratuita.",
+      "title3": "¿Puedo usar ttmp3 TikTok Story Downloader en iOS o Mac?",
+      "description3": "Sí. Este descargador de historias funcionará bien en cualquier dispositivo iOS o Mac, independientemente de la versión instalada en él.",
+      "title4": "¿Puedo subir mi propia historia en TikTok usando ttmp3.io?",
+      "description4": "No, no puedes usar esta herramienta para subir tus historias a TikTok. Puedes usar la app oficial de TikTok para ello.",
+      "title5": "¿ttmp3.io mantiene un registro de todas las historias descargadas?",
+      "description5": "No. No guardamos ningún registro de las historias descargadas de nuestro sitio web. Respetamos su privacidad.",
+      "title6": "¿Dónde se descargan estas historias de TikTok en mi dispositivo?",
+      "description6": "Puedes encontrarlos en la carpeta de descargas de tu dispositivo. Esta es la ubicación predeterminada si los descargas desde ttmp3.",
+      "title7": "¿Existen preocupaciones legales al descargar historias de TikTok?",
+      "description7": "No, no hay obligaciones legales. Por ética, solo deberías descargar historias de personas que conozcas."
+    }
+  },
+  "seo": {
+    "mp4": {
+      "title": "Descargador de videos de TikTok: guarda videos de TikTok sin marca de agua en HD MP4",
+      "description": "Descarga videos de TikTok en HD sin marca de agua: ilimitados, gratis y rápidos. Compatible con todos los dispositivos. El descargador de TikTok más fácil disponible en línea."
+    },
+    "mp3": {
+      "title": "Descargador de TikTok a MP3: convierte vídeos a audio MP3 gratis",
+      "description": "El descargador de audio MP3 de TikTok en línea más seguro, rápido y fácil de usar para todos los dispositivos. Convierte videos a formatos MP3 y MP4 de alta calidad sin logotipos."
+    },
+    "thumbnail": {
+      "title": "Descargador de miniaturas de TikTok: gratis, HD, sin marcas de agua",
+      "description": "Descarga miniaturas de TikTok sin logo ni marca de agua en su tamaño original. Esta función gratuita funciona en todos los dispositivos con pantallas de todos los tamaños y descarga miniaturas en formato HD."
+    },
+    "slideshow": {
+      "title": "Descargador de presentaciones de TikTok: HD y sin marcas de agua",
+      "description": "Descarga presentaciones de fotos de TikTok en alta resolución sin marca de agua: esta herramienta de ttmp3 es rápida, gratuita y sencilla. Guarda fácilmente tus presentaciones desde cualquier perfil público de TikTok."
+    },
+    "story": {
+      "title": "Descargador de historias de TikTok: rápido, gratis, HD, sin marcas de agua ni nombre de usuario",
+      "description": "Usa ttmp3 para guardar videos de historias de TikTok desde cualquier perfil público al instante en HD o incluso 4K. Rápido, gratis, eficiente, sin marcas de agua ni nombre de usuario."
+    }
+  }
+}

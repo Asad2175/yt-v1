@@ -1,0 +1,288 @@
+{
+  "menu": {
+    "home": "Thuis",
+    "more": "Meer",
+    "mp3": {
+      "title": "TikTok naar MP3-downloader",
+      "description": "Converteer en download TikTok-video's naar MP3-audiobestanden"
+    },
+    "mp4": {
+      "title": "TikTok MP4-downloader",
+      "description": "Download TikTok-video's zonder watermerk in MP4"
+    },
+    "thumbnail": {
+      "title": "TikTok-miniatuurdownloader",
+      "description": "Download TikTok-miniaturen in originele grootte en kwaliteit"
+    },
+    "story": {
+      "title": "TikTok-verhaaldownloader",
+      "description": "Download TikTok Story gratis zonder watermerk"
+    },
+    "slide": {
+      "title": "TikTok-diavoorstelling-downloader",
+      "description": "Download TikTok-diavoorstellingen met de beste kwaliteit"
+    }
+  },
+  "footer": {
+    "aboutUs": "Over ons",
+    "termsOfUse": "Gebruiksvoorwaarden",
+    "privacyPolicy": "Privacybeleid",
+    "dmca": "DMCA",
+    "contactUs": "Neem contact met ons op",
+    "associated": "De applicatie is uitsluitend bedoeld voor entertainmentdoeleinden en is op geen enkele wijze verbonden aan TikTok of ByteDance.",
+    "rightsReserved": "©ttmp3.io 2025 Alle rechten voorbehouden."
+  },
+  "downloader": {
+    "placeholder": "Plak TikTok-video-URL...",
+    "paste": "Plakken",
+    "search": "Zoekopdracht",
+    "clear": "Duidelijk",
+    "loading": "Laden...",
+    "mp4": {
+      "title": "TikTok-videodownloader",
+      "description": "Ultieme oplossing om onbeperkt MP4 TikTok-video's te downloaden - Veilig, probleemloos en zonder watermerk"
+    },
+    "mp3": {
+      "title": "TikTok naar MP3-downloader",
+      "description": "Converteer TikTok naar MP3-audio – Onbeperkt, snel, gratis, hoogwaardige en stabiele downloader",
+      "download": "Mp3 downloaden"
+    },
+    "thumbnail": {
+      "title": "TikTok-miniatuurdownloader",
+      "description": "Download HD-miniaturen van TikTok-video's in originele grootte - 100% gratis en gemakkelijk te gebruiken - Geen watermerken of logo's inbegrepen",
+      "download": "Miniatuur downloaden"
+    },
+    "slideshow": {
+      "title": "TikTok-diavoorstelling-downloader",
+      "description": "Download gratis HD TikTok-diavoorstellingen – snel, veilig, zonder watermerk, 100% gratis",
+      "download": "Diavoorstelling downloaden"
+    },
+    "story": {
+      "title": "TikTok-verhaaldownloader",
+      "description": "Download HD TikTok Stories gratis – snel, gemakkelijk te gebruiken, zonder gebruikersnaam en watermerk",
+      "download": "Verhaal downloaden"
+    }
+  },
+  "features": {
+    "title1": "Veilig en vertrouwd",
+    "description1": "U hoeft zich geen zorgen te maken over diefstal van uw gegevens. Er worden geen links opgeslagen.",
+    "title2": "Geen watermerken",
+    "description2": "Download TikTok MP4-video's zonder watermerk of TT-logo",
+    "title3": "Onbeperkte downloads",
+    "description3": "Biedt onbeperkt gratis downloads aan. Geen abonnement vereist.",
+    "mp3": {
+      "title1": "Snelste MP3-downloads",
+      "description1": "Snelle en gratis online video naar MP3 audio converter.",
+      "title2": "Virusvrij",
+      "description2": "Geen virussen, geen vertraging. Schone en veilige converter online beschikbaar.",
+      "title3": "Onbeperkte downloads",
+      "description3": "Geen grenzen. Geen spanning. Geen aanmeldingen. Denk voorbij grenzen."
+    },
+    "thumbnail": {
+      "title1": "Origineel formaat downloads",
+      "description1": "Download miniaturen in originele grootte in PNG, JPG, JPEG en WebP",
+      "title2": "Logo en watermerk gratis",
+      "description2": "Download heldere HD-afbeeldingen zonder logo's of watermerken.",
+      "title3": "Onbeperkt snelle downloads",
+      "description3": "Download in een mum van tijd onbeperkt miniaturen."
+    },
+    "slideshow": {
+      "title1": "HD- of 4K-kwaliteit",
+      "description1": "Download diavoorstellingen in HD- of 4K-formaat als dit beschikbaar is op TikTok.",
+      "title2": "100% gratis en onbeperkt",
+      "description2": "U hoeft zich geen zorgen te maken over prijzen en downloadlimieten.",
+      "title3": "Ongecomprimeerde downloads",
+      "description3": "Alle downloads hebben hun originele grootte. Er is geen compressie toegepast."
+    },
+    "story": {
+      "title1": "Hoogste kwaliteit",
+      "description1": "Download verhalen in HD- of zelfs 4K-formaat, indien beschikbaar.",
+      "title2": "Apparaatcompatibiliteit",
+      "description2": "Werkt soepel op alle apparaten (Android, iOS, Windows)",
+      "title3": "Verwijdert watermerk",
+      "description3": "Watermerken en logo's worden automatisch verwijderd voordat u ze downloadt"
+    }
+  },
+  "content": {
+    "heading": "TikTok-downloader",
+    "para1": "Ttmp3 is een online TikTok-videodownloadservice die gratis HD-video's downloadt vanuit de TikTok-app in MP3- en MP4-formaat. Het belangrijkste kenmerk van deze downloader is dat alle video's zonder watermerk of TT-logo worden gedownload. Hierdoor kunnen bezoekers deze video's op elk apparaat personaliseren. Je kunt deze applicatie ook op elk apparaat gebruiken, of het nu een mobiel, tablet, laptop of pc is.",
+    "para2": "Ttmp3 is getest op compatibiliteit met alle apparaten en schermformaten. Deze TikTok-downloader biedt gebruikers een gebruiksvriendelijke en zeer stabiele interface. Je kunt onbeperkt video's downloaden in HD MP4-formaat zonder je zorgen te maken over diefstal of gegevensverlies. Onze servers slaan je zoekopdrachten niet op en URL's worden direct van onze server verwijderd. Al deze functies maken ttmp3 een populaire keuze voor onze bezoekers.",
+    "mp3": {
+      "heading": "TikTok MP3-audiodownloader",
+      "para1": "Ttmp3.io biedt je de mogelijkheid om MP3-audiobestanden van TikTok-video's te downloaden met de gratis TikTok naar MP3 Downloader. Deze tool is speciaal ontworpen om MP4-video's naar MP3-audiobestanden te converteren, geheel naar wens van onze bezoekers.",
+      "para2": "Deze tool is voorzien van vele beveiligingsfuncties. Deze functies omvatten de implementatie van een veilig end-to-end encryptiesysteem en het direct verwijderen van gegevens. De bestanden en de gegevens over de gebruikers die deze bestanden downloaden, worden niet opgeslagen op onze lokale servers en worden met niemand gedeeld.",
+      "para3": "De tool is compatibel met alle apparaten wereldwijd en met alle besturingssystemen, zoals iOS, Android, Windows, Linux en Unix. U hoeft geen browserextensie te downloaden en te installeren om deze tool te gebruiken. Alle functionaliteit is beschikbaar op één pagina.",
+      "para4": "De gedownloade bestanden worden gescand op virussen. U kunt binnen enkele seconden zoveel bestanden downloaden als u wilt, zonder dat u zich hoeft te abonneren of te registreren."
+    },
+    "thumbnail": {
+      "heading": "TikTok-miniatuurafbeeldingdownloader",
+      "para1": "Thumbnails zijn afbeeldingen die over TikTok-video's worden geplaatst om de aandacht van de kijker te trekken. Ttmp3.io biedt ook een TikTok Thumbnail Downloader die deze thumbnails in HD-formaat opslaat. Deze bestanden worden opgeslagen in JPG-, JPEG-, WebP- en PNG-formaat.",
+      "para2": "Deze afbeeldingen worden opgeslagen in hun originele formaat, zonder enige compressie. Ttmp3 is een gratis tool waarvoor geen abonnement of registratie vereist is en die snelle en veilige toegang garandeert. Het enige wat u hoeft te doen, is de URL kopiëren en in het zoekvak plakken. De rest is aan ttmp3.",
+      "para3": "Deze tool is bovendien compatibel met alle apparaten en systeemsoftware. U hoeft geen software of browserextensie te downloaden of te installeren om deze tool te gebruiken. De miniaturen die door deze tool worden opgeslagen, bevatten bovendien geen watermerken. Al deze functies maken deze tool de eerste keus onder de concurrenten."
+    },
+    "slideshow": {
+      "heading": "TikTok-fotodiavoorstelling-downloader",
+      "para1": "TikTok-diavoorstellingen zijn een verzameling foto's en afbeeldingen met geluid op de achtergrond. Mensen delen deze afbeeldingen met hun dierbaren. Hiervoor maken ze diavoorstellingen van deze afbeeldingen en voegen ze geluid op de achtergrond toe om ze aantrekkelijker te maken.",
+      "para2": "Ttmp3 TikTok Slideshow Downloader is een tool die is ontwikkeld om gebruikers te helpen bij het downloaden van foto's en diavoorstellingen van openbare profielen van TikTok-gebruikers. Deze tool downloadt foto's en video's zonder logo's of watermerken, waardoor het een populaire tool is onder concurrenten. Bovendien downloadt het foto's en diavoorstellingen in HD-formaat.",
+      "para3": "De tool is compatibel met alle beschikbare platforms, zoals Android, iOS, macOS, Windows, Linux en Unix. Het is snel, nauwkeurig, gratis en veilig in gebruik. Omdat we het gedownloade bestand niet opslaan of registreren op onze servers, is deze tool een populaire keuze onder bezoekers. We gebruiken ook beveiligde verbindingen tussen apparaten, zodat er geen informatie over onze bezoekers kan worden gehackt."
+    },
+    "story": {
+      "heading": "TikTok Stories Downloader",
+      "para1": "Onze TikTok Story Downloader is een gratis en gebruiksvriendelijke tool waarmee je verhalen kunt downloaden van elk openbaar profiel op TikTok. Je hoeft geen software te downloaden of een extensie of plugin te installeren. Het hele proces is probleemloos, veilig en beveiligd.",
+      "para2": "Deze verhalen worden gedownload in HD, Ultra HD en zelfs 4K-formaat, afhankelijk van hoe ze door een specifieke TikTok-gebruiker worden geüpload. Deze tool is te gebruiken op alle apparaten en is wereldwijd compatibel. Je hoeft je nergens zorgen over te maken. Je hoeft alleen de URL hier te kopiëren en te plakken.",
+      "para3": "TikTok-verhalen die iemand eenmaal heeft geüpload, blijven 24 uur op zijn of haar profiel staan. Het is dus beter om ze op te slaan om ze later offline te bekijken. Onze tool biedt je deze mogelijkheid gratis en zonder watermerk. Er zijn ook geen beperkingen aan het downloaden van verhalen op ttmp3."
+    }
+  },
+  "howToUse": {
+    "heading": "Hoe TikTok MP4 Downloader online te gebruiken",
+    "title1": "Zoek TT-video",
+    "description1": "Open TikTok op je apparaat en zoek naar de gewenste video. Speel de video af om te controleren of deze werkt. Klik op de deelknop en kopieer de link. De link wordt opgeslagen in het klembord van je apparaat.",
+    "title2": "Plak de video-URL",
+    "description2": "Open ttmp3.io op je apparaat en klik op de plakknop. De link wordt daar geplakt. Klik nu op de zoekknop om de video te vinden. Je wordt doorgestuurd naar de downloadpagina, waar de gewenste video wordt weergegeven, samen met een downloadknop.",
+    "title3": "Video downloaden",
+    "description3": "Klik op de downloadknop en de video wordt in HD MP4-formaat opgeslagen op de harde schijf van je apparaat. De video wordt zonder watermerk opgeslagen. Klik op 'Download een andere video' als je meer video's van TikTok wilt downloaden.",
+    "mp3": {
+      "heading": "Hoe TikTok naar MP3-audioconverter online te gebruiken",
+      "title1": "Vind TikTok-link",
+      "description1": "Open TikTok op je mobiel of desktop en zoek naar de gewenste video. Als de video goed wordt afgespeeld, kopieer je de URL van de video door op de deelknop op een mobiel apparaat te klikken. Daar zie je de optie 'Link kopiëren'. Klik erop en er wordt een link opgeslagen in je klembord. Kopieer op een desktop de URL uit de adresbalk of klik met de rechtermuisknop en selecteer 'Link kopiëren'.",
+      "title2": "Plak de URL",
+      "description2": "Ga naar ttmp3.io en plak de link in het daarvoor bestemde tekstvak. Klik nu op de zoekknop. Je wordt doorgestuurd naar een downloadpagina. Dit proces is snel en binnen bijna 1 seconde voltooid. Daar zie je de twee downloadknoppen.",
+      "title3": "MP3-bestand downloaden",
+      "description3": "Klik op de knop 'Download MP3' en een audiobestand met de hoogst beschikbare kwaliteit wordt op je apparaat opgeslagen. Klik er nu op om het bestand af te spelen. Je kunt ook op de knop 'Download nog een video' klikken om meer video's, MP3's, miniaturen, verhalen of diavoorstellingen te downloaden."
+    },
+    "thumbnail": {
+      "heading": "Hoe TikTok Thumbnail Downloader online te gebruiken",
+      "title1": "Kopieer URL",
+      "description1": "Allereerst moet je de link van het videobestand kopiëren om de thumbnail te downloaden. Dit doe je door de video te openen in de TikTok-app en vervolgens op de deelknop te klikken. Daar zie je de optie 'Link kopiëren'. Klik erop en er wordt een link naar het klembord van je apparaat gekopieerd.",
+      "title2": "Plak de URL",
+      "description2": "Open ttmp3.io in je webbrowser en klik op de adresbalk. Plak de URL die je eerder hebt gekopieerd met Ctrl+V. Klik nu op de zoekknop. De miniatuur wordt op een nieuwe pagina weergegeven.",
+      "title3": "Miniatuur downloaden",
+      "description3": "Klik op de knop 'Miniatuur downloaden' en er wordt een bestand opgeslagen in de downloadmap van uw apparaat. Open het bestand door erop te klikken. Het bestand is beschikbaar in WebP-, JPEG-, JPG- of PNG-formaat van hoge kwaliteit, zonder watermerken."
+    },
+    "slideshow": {
+      "heading": "Hoe TikTok Slideshow Downloader online te gebruiken",
+      "title1": "Vind TikTok-diavoorstellinglink",
+      "description1": "Open TikTok.com in je webbrowser of open de app op je mobiele apparaat. Navigeer nu naar de diavoorstelling die je wilt downloaden en klik op de deelknop rechtsonder. Daar vind je de optie 'Link kopiëren'. Klik erop.",
+      "title2": "Diavoorstellingslink plakken",
+      "description2": "Open de ttmp3.io Slideshow Downloader en plak de link erin. Klik op de knop 'Zoeken' en je wordt doorgestuurd naar de downloadpagina.",
+      "title3": "Diavoorstelling downloaden",
+      "description3": "Klik op de knop 'Diavoorstelling downloaden'. De diavoorstelling wordt binnen enkele seconden gedownload naar de opslagruimte van je apparaat. Er wordt geen logo of watermerk aan de diavoorstelling toegevoegd. Ga naar die locatie en open de diavoorstelling."
+    },
+    "story": {
+      "heading": "Hoe TikTok Story Downloader online te gebruiken",
+      "title1": "Vind TikTok Story-URL",
+      "description1": "Het vinden van de URL van een TikTok-verhaal is heel eenvoudig en vergelijkbaar. Open de gewenste video in de TikTok-app en klik op de deelknop rechtsonder. Daar zie je de optie 'Link kopiëren'. Klik erop.",
+      "title2": "Verhaal-URL plakken",
+      "description2": "Plak deze URL in het zoekvak van ttmp3.io door de website in een webbrowser te openen. Klik nu op de zoekknop. Ttmp3 zoekt het verhaal en stuurt je door naar de downloadpagina.",
+      "title3": "Verhaal downloaden",
+      "description3": "Klik op de knop 'Download verhaal'. Het verhaal wordt gedownload naar de lokale opslag van je apparaat in het best beschikbare HD- of 4K-formaat. Dit verhaal is watermerk- en logovrij, zodat je het daarna vrij kunt gebruiken."
+    }
+  },
+  "faq": {
+    "heading": "Veelgestelde vragen",
+    "title1": "Kunnen TikTok-video's worden gedownload?",
+    "description1": "Ja, TikTok-video's kunnen eenvoudig worden gedownload met behulp van apps van derden zoals TTMp3.io, SSSTikTok, Y2Mate, SnapTik en TikTokio.",
+    "title2": "Hoe download je TikTok-video's zonder watermerk?",
+    "description2": "Open ttmp3.io en plak de links van de te downloaden video erin. Klik vervolgens op de downloadknop om de video op je apparaat op te slaan.",
+    "title3": "Hoe download ik TikTok-video's zonder logo?",
+    "description3": "Met ttmp3.io kun je video's downloaden in HD MP4-formaat met het TT-logo. De gebruikersinterface is bovendien eenvoudig en gebruiksvriendelijk.",
+    "title4": "Vertelt TikTok je wie jouw video heeft gedownload?",
+    "description4": "Nee, uw gegevens worden niet gedeeld met de maker van de video nadat de video is gedownload.",
+    "title5": "Kun je TikTok-video's bekijken zonder de app te downloaden?",
+    "description5": "Ja, je kunt de TikTok-website gebruiken om de video's te bekijken zonder de TikTok-app te downloaden.",
+    "title6": "Zijn er abonnementskosten verbonden aan het gebruik van ttmp3.io TikTok Video Downloader?",
+    "description6": "Nee, er zijn geen abonnementskosten verbonden aan het downloaden van video's van ttmp3.io.",
+    "title7": "Is er een extensie nodig om video's van ttmp3 te downloaden?",
+    "description7": "Nee, er is geen extensie om video's van ttmp3.io te downloaden.",
+    "title8": "Waar worden TikTok-video's opgeslagen nadat ze zijn gedownload?",
+    "description8": "De TikTok-video's worden standaard opgeslagen in de downloadmap van je apparaat. Je kunt dit pad later wijzigen.",
+    "title9": "Moet ik mij registreren om deze downloader te gebruiken?",
+    "description9": "Nee, u hoeft zich niet aan te melden of te registreren om de ttmp3 TikTok MP4-downloader te gebruiken.",
+    "title10": "Hoe kan ik de link naar een TikTok-video krijgen?",
+    "description10": "Open de video in de TikTok-app of op de TikTok-website en klik op de deelknop. Daar vind je de mogelijkheid om de link of URL te kopiëren.",
+    "title11": "Kan ik TikTok-video's in HD-formaat downloaden zonder watermerk?",
+    "description11": "Ja, ttmp3.io is een exclusieve app waarmee je video's in HD-formaat kunt downloaden zonder watermerk. Bovendien krijg je onbeperkte downloads.",
+    "mp3": {
+      "title1": "Hoe converteer je een TikTok-video naar MP3?",
+      "description1": "Je kunt hiervoor ttmp3.io gebruiken. Kopieer de link van TikTok, plak deze in het tekstvak en klik op de zoekknop. Klik nu op de downloadknop en je bent klaar.",
+      "title2": "Hoe converteer ik TikTok-audio naar MP3?",
+      "description2": "Ttmp3.io biedt u de eenvoudigste manier om gratis audiobestanden naar MP3-formaat te converteren en te downloaden.",
+      "title3": "Hoeveel downloads heeft TikTok?",
+      "description3": "U kunt zoveel bestanden downloaden als u wilt met de gratis service ttmp3.io. We werken voortdurend aan onze website om u een soepele ervaring te bieden.",
+      "title4": "Wanneer kan TikTok gedownload worden?",
+      "description4": "De TikTok-app kan eenvoudig worden gedownload via Google Play, Apple Store of Windows Store, afhankelijk van de compatibiliteit van uw apparaat.",
+      "title5": "Wanneer kunnen TikTok-video's weer worden gedownload?",
+      "description5": "Op ttmp3.io kun je direct een ander video- of audiobestand downloaden. Er zijn geen beperkingen aan de tijd of het aantal beschikbare downloads.",
+      "title6": "Moeten we software downloaden om deze service te gebruiken?",
+      "description6": "Nee. U hoeft geen software te downloaden om deze service te gebruiken. Onze service is eenvoudig te gebruiken via onze website. Het proces bestaat uit een paar eenvoudige stappen.",
+      "title7": "Slaan wij persoonlijke gegevens of bestanden van gebruikers op?",
+      "description7": "Nee. ttmp3 slaat geen gebruikersgegevens of persoonlijke profielen op. Je hoeft je ook niet aan te melden om deze dienst te gebruiken. Alle video's worden rechtstreeks van TikTok gedownload naar het lokale apparaat van de gebruiker."
+    },
+    "thumbnail": {
+      "title1": "Is het mogelijk om thumbnails van TikTok-video's te downloaden?",
+      "description1": "Ja. De TikTok-thumbnails kunnen eenvoudig worden gedownload via de gratis downloadservice ttmp3.io.",
+      "title2": "In welk bestandsformaat worden miniaturen gedownload?",
+      "description2": "Deze miniaturen worden gedownload van TikTok-video's in JPG-, JPEG-, PNG- of WebP-formaat.",
+      "title3": "Kan ik thumbnails van alle video's op TikTok downloaden?",
+      "description3": "Ja, de miniaturen kunnen worden gedownload van alle video's waarin miniaturen zijn opgenomen.",
+      "title4": "Worden de gedownloade miniaturen opgeslagen op ttmp3.io-servers?",
+      "description4": "Nee. We houden ons strikt aan de privacyregels en -voorschriften. Er worden geen gegevens op onze servers opgeslagen.",
+      "title5": "Hoeveel miniaturen kan ik downloaden met ttmp3.io?",
+      "description5": "Er zijn geen beperkingen aan het downloaden van thumbnails van TikTok met de ttmp3.io downloaderservice. Je kunt honderden thumbnails downloaden zonder watermerken en logo's.",
+      "title6": "Waar worden de gedownloade miniaturen op mijn apparaat opgeslagen?",
+      "description6": "De gedownloade bestanden of miniaturen worden opgeslagen in de downloadmap van uw apparaat. Zorg ervoor dat u ttmp3.io toegang geeft tot de opslag van uw apparaat door de nodige aanpassingen te doen in de instellingen."
+    },
+    "slideshow": {
+      "title1": "Moet ik betalen om Slideshow Downloader te gebruiken?",
+      "description1": "Nee. Alle tools op onze website zijn gratis te gebruiken. U hoeft zich niet aan te melden of in te loggen.",
+      "title2": "Kan ik ttmp3 Photo and Slideshow Downloader gebruiken op een Android-apparaat?",
+      "description2": "Ja, het kan gebruikt worden op ieder apparaat dat Android als besturingssysteem gebruikt.",
+      "title3": "Kan ik ttmp3 TikTok Slideshow Downloader gebruiken op mijn iOS of macOS?",
+      "description3": "Ja. Je kunt deze tool eenvoudig gebruiken op je iOS- of macOS-apparaat. Er zijn geen aanmeldings- of registratiekosten.",
+      "title4": "Is het veilig om foto's en diavoorstellingen van TikTok te downloaden met ttmp3.io?",
+      "description4": "100%. U hoeft zich nergens zorgen over te maken. Al het verkeer dat onze website binnenkomt en verlaat, wordt versleuteld met behulp van de nieuwste protocollen. Er is dus geen sprake van diefstal of privacylekken.",
+      "title5": "Is er een browserextensie nodig om deze tool te gebruiken?",
+      "description5": "Nee. Je hoeft geen extensie te downloaden om deze tool te gebruiken. De website heeft een overzichtelijke en gebruiksvriendelijke interface.",
+      "title6": "Zijn de gedownloade diavoorstellingen watermerkvrij?",
+      "description6": "Ja. Alle diavoorstellingen die u met ttmp3 downloadt, bevatten geen watermerken en logo's."
+    },
+    "story": {
+      "title1": "Is een verhaaldownloader van ttmp3.io gratis?",
+      "description1": "100%. Je kunt onze tool gratis en onbeperkt gebruiken. Er zijn geen aanmeldings- of registratiekosten.",
+      "title2": "Kan ik ttmp3 TikTok Story Downloader gebruiken op een Android-apparaat?",
+      "description2": "Ja, ttmp3 story downloader kan gratis gebruikt worden op Android-apparaten.",
+      "title3": "Kan ik ttmp3 TikTok Story Downloader gebruiken op een iOS of Mac?",
+      "description3": "Ja. Deze verhaaldownloader werkt prima op elk iOS- of Mac-apparaat, ongeacht welke versie erop is geïnstalleerd.",
+      "title4": "Kan ik mijn eigen verhaal uploaden naar TikTok met behulp van ttmp3.io?",
+      "description4": "Nee, je kunt deze tool niet gebruiken om je verhalen naar TikTok te uploaden. Je kunt hiervoor de officiële TikTok-app gebruiken.",
+      "title5": "Houdt ttmp3.io een overzicht bij van alle gedownloade verhalen?",
+      "description5": "Nee. We houden geen gegevens bij van verhalen die van onze website worden gedownload. We respecteren uw privacy.",
+      "title6": "Waar worden deze TikTok-verhalen gedownload op mijn apparaat?",
+      "description6": "Je vindt ze in de downloadmap van je apparaat. Dit is de standaardlocatie als je ze downloadt van ttmp3.",
+      "title7": "Zijn er juridische zorgen als ik verhalen van TikTok download?",
+      "description7": "Nee, er zijn geen wettelijke verplichtingen. Ethisch gezien is het raadzaam om alleen verhalen te downloaden van mensen die u mogelijk kent."
+    }
+  },
+  "seo": {
+    "mp4": {
+      "title": "TikTok Video Downloader - Sla TikTok-video's op zonder watermerk in HD MP4",
+      "description": "Download TikTok-video's in HD zonder watermerk - Onbeperkt, gratis en snel. MP4- en MP3-formaten worden op alle apparaten ondersteund. De eenvoudigste TikTok-downloader die online beschikbaar is."
+    },
+    "mp3": {
+      "title": "TikTok naar MP3 Downloader – Converteert video's gratis naar MP3-audio",
+      "description": "De veiligste, snelste en gebruiksvriendelijkste online TikTok audio MP3 downloader voor alle apparaten. Converteert video's naar hoogwaardig MP3- en MP4-formaat, zonder logo's."
+    },
+    "thumbnail": {
+      "title": "TikTok Thumbnail Downloader – Gratis, HD, zonder watermerken",
+      "description": "Download TikTok-thumbnails zonder logo en watermerk in hun originele formaat. Deze gratis functie werkt op alle apparaten met alle schermformaten en downloadt thumbnails in HD-formaat."
+    },
+    "slideshow": {
+      "title": "TikTok Diavoorstelling Downloader – HD en Watermerken Gratis",
+      "description": "Download TikTok-fotodiavoorstellingen in hoge resolutie zonder watermerk – Deze tool van ttmp3 is snel, gratis en eenvoudig. Sla diavoorstellingen van video's van elk openbaar TikTok-profiel eenvoudig op."
+    },
+    "story": {
+      "title": "TikTok Story Downloader – Snel, gratis, HD, geen watermerken en gebruikersnaam",
+      "description": "Gebruik ttmp3 om TikTok-verhaalvideo's van elk openbaar profiel direct op te slaan in HD- of zelfs 4K-formaat. Snel, gratis, efficiënt, zonder watermerken en gebruikersnaam."
+    }
+  }
+}

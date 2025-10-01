@@ -1,0 +1,288 @@
+{
+  "menu": {
+    "home": "Dom",
+    "more": "Więcej",
+    "mp3": {
+      "title": "Pobieracz z TikToka do MP3",
+      "description": "Konwertuj i pobieraj filmy TikTok do plików audio MP3"
+    },
+    "mp4": {
+      "title": "Pobieranie plików MP4 z TikToka",
+      "description": "Pobierz filmy TikTok bez znaku wodnego w formacie MP4"
+    },
+    "thumbnail": {
+      "title": "Pobieranie miniatur TikTok",
+      "description": "Pobierz miniatury TikTok w oryginalnym rozmiarze i jakości"
+    },
+    "story": {
+      "title": "Pobieranie historii TikTok",
+      "description": "Pobierz bezpłatnie TikTok Story bez znaku wodnego"
+    },
+    "slide": {
+      "title": "Pobieranie pokazów slajdów TikTok",
+      "description": "Pobierz pokazy slajdów TikTok w najlepszej jakości"
+    }
+  },
+  "footer": {
+    "aboutUs": "O nas",
+    "termsOfUse": "Warunki użytkowania",
+    "privacyPolicy": "Polityka prywatności",
+    "dmca": "DMCA",
+    "contactUs": "Skontaktuj się z nami",
+    "associated": "Aplikacja służy wyłącznie celom rozrywkowym i w żaden sposób nie jest powiązana z TikTokiem ani ByteDance.",
+    "rightsReserved": "©ttmp3.io 2025 Wszelkie prawa zastrzeżone."
+  },
+  "downloader": {
+    "placeholder": "Wklej adres URL filmu TikTok...",
+    "paste": "Pasta",
+    "search": "Szukaj",
+    "clear": "Jasne",
+    "loading": "Załadunek...",
+    "mp4": {
+      "title": "Pobieranie filmów z TikToka",
+      "description": "Najlepsze rozwiązanie umożliwiające pobieranie nieograniczonej liczby filmów TikTok w formacie MP4 – bezpieczne, bezproblemowe i bez znaku wodnego"
+    },
+    "mp3": {
+      "title": "Pobieracz z TikToka do MP3",
+      "description": "Konwertuj pliki audio z TikToka na pliki MP3 – nielimitowany, szybki, darmowy, wysokiej jakości i stabilny program do pobierania",
+      "download": "Pobierz MP3"
+    },
+    "thumbnail": {
+      "title": "Pobieranie miniatur TikTok",
+      "description": "Pobierz miniatury HD z filmów TikTok w oryginalnym rozmiarze – w 100% za darmo i łatwo w użyciu – bez znaków wodnych i logo",
+      "download": "Pobierz miniaturę"
+    },
+    "slideshow": {
+      "title": "Pobieranie pokazów slajdów TikTok",
+      "description": "Pobierz bezpłatne pokazy slajdów HD TikTok – szybko, bezpiecznie, bez znaku wodnego, w 100% za darmo",
+      "download": "Pobierz pokaz slajdów"
+    },
+    "story": {
+      "title": "Pobieranie historii TikTok",
+      "description": "Pobierz bezpłatnie HD TikTok Stories – szybko, łatwo, bez nazwy użytkownika i znaku wodnego",
+      "download": "Pobierz historię"
+    }
+  },
+  "features": {
+    "title1": "Bezpieczne i bezpieczne",
+    "description1": "Nie musisz się martwić o kradzież danych. Żadne linki nie są zapisywane.",
+    "title2": "Brak znaków wodnych",
+    "description2": "Pobierz filmy TikTok MP4 bez znaku wodnego i logo TT",
+    "title3": "Nieograniczone pobieranie",
+    "description3": "Oferujemy nieograniczoną liczbę pobrań za darmo. Subskrypcja nie jest wymagana.",
+    "mp3": {
+      "title1": "Najszybsze pobieranie plików MP3",
+      "description1": "Szybki i darmowy konwerter wideo do formatu MP3.",
+      "title2": "Wolny od wirusa",
+      "description2": "Bez wirusów, bez opóźnień. Czysty i bezpieczny konwerter dostępny online.",
+      "title3": "Nieograniczone pobieranie",
+      "description3": "Bez ograniczeń. Bez napięcia. Bez zapisów. Myśl bez ograniczeń."
+    },
+    "thumbnail": {
+      "title1": "Pobieranie w rozmiarze oryginalnym",
+      "description1": "Pobierz miniatury w oryginalnym rozmiarze w formatach PNG, JPG, JPEG i WebP.",
+      "title2": "Bez logo i znaku wodnego",
+      "description2": "Pobierz wyraźne obrazy HD bez logo i znaków wodnych.",
+      "title3": "Nieograniczone szybkie pobieranie",
+      "description3": "Pobierz nieograniczoną liczbę miniatur w mgnieniu oka."
+    },
+    "slideshow": {
+      "title1": "Jakość HD lub 4K",
+      "description1": "Pobierz pokazy slajdów w formacie HD lub 4K, jeśli są dostępne na TikToku.",
+      "title2": "100% za darmo i bez ograniczeń",
+      "description2": "Nie musisz martwić się o ceny i limity pobierania.",
+      "title3": "Nieskompresowane pliki do pobrania",
+      "description3": "Wszystkie pliki do pobrania są w oryginalnym rozmiarze. Nie są kompresowane."
+    },
+    "story": {
+      "title1": "Najwyższa jakość",
+      "description1": "Pobieraj historie w formacie HD lub nawet 4K, jeśli jest dostępny.",
+      "title2": "Kompatybilność urządzenia",
+      "description2": "Działa płynnie na wszystkich urządzeniach (Android, iOS, Windows)",
+      "title3": "Usuwa znak wodny",
+      "description3": "Znaki wodne i loga są automatycznie usuwane przed pobraniem"
+    }
+  },
+  "content": {
+    "heading": "Pobieracz TikTok",
+    "para1": "Ttmp3 to internetowa usługa pobierania filmów z TikToka, która oferuje darmowe pobieranie filmów HD z aplikacji TikTok w formatach MP3 i MP4. Główną cechą tej aplikacji jest to, że pobiera wszystkie filmy bez znaku wodnego ani logo TT. Dzięki temu użytkownicy mogą personalizować te filmy na dowolnym urządzeniu. Możesz również korzystać z tej aplikacji na dowolnym urządzeniu, niezależnie od tego, czy jest to telefon komórkowy, tablet, laptop czy komputer stacjonarny.",
+    "para2": "Kompatybilność ttmp3 jest sprawdzana na wszystkich urządzeniach i rozmiarach ekranu. Ten program do pobierania z TikToka oferuje użytkownikom łatwy w obsłudze i bardzo stabilny interfejs. Możesz pobierać nieograniczoną liczbę filmów w formacie HD MP4 bez obaw o kradzież lub utratę danych. Nasze serwery nie przechowują wyszukiwanych danych, a adresy URL są natychmiast usuwane z serwera. Wszystkie te funkcje sprawiają, że ttmp3 jest popularnym wyborem wśród naszych użytkowników.",
+    "mp3": {
+      "heading": "Pobieranie plików audio w formacie MP3 z TikToka",
+      "para1": "Ttmp3.io oferuje pobieranie plików audio MP3 z filmów TikTok za pomocą darmowego narzędzia TikTok do pobierania plików MP3. Narzędzie to zostało zaprojektowane specjalnie do konwersji filmów MP4 do plików audio MP3 na życzenie naszych użytkowników.",
+      "para2": "To narzędzie zawiera wiele funkcji bezpieczeństwa. Obejmują one wdrożenie bezpiecznego, kompleksowego systemu szyfrowania i natychmiastowe usuwanie danych. Pliki i dane użytkowników pobierających te pliki nie są przechowywane na naszych lokalnych serwerach i nie są nikomu udostępniane.",
+      "para3": "Narzędzie jest kompatybilne ze wszystkimi urządzeniami dostępnymi na całym świecie i wszystkimi systemami operacyjnymi, takimi jak iOS, Android, Windows, Linux i Unix. Nie ma potrzeby pobierania ani instalowania żadnych rozszerzeń przeglądarki, aby korzystać z tego narzędzia. Cała funkcjonalność jest dostępna na jednej stronie.",
+      "para4": "Pobrane pliki są skanowane pod kątem wirusów, a Ty możesz pobrać tyle plików, ile chcesz, w ciągu kilku sekund, bez konieczności wykupywania subskrypcji lub rejestrowania się."
+    },
+    "thumbnail": {
+      "heading": "Pobieranie miniatur obrazów TikTok",
+      "para1": "Miniatury to obrazy umieszczane na filmach TikTok, aby przyciągnąć uwagę widza. Ttmp3.io oferuje również narzędzie do pobierania miniatur TikTok, które zapisuje te miniatury w formacie HD. Pliki te są zapisywane w formatach JPG, JPEG, WebP i PNG.",
+      "para2": "Te obrazy są przechowywane w oryginalnych rozmiarach, bez kompresji. ttmp3 to darmowe narzędzie, które nie wymaga subskrypcji ani rejestracji i gwarantuje szybki i bezpieczny dostęp. Wystarczy skopiować adres URL i wkleić go w polu wyszukiwania. Reszta należy do ttmp3.",
+      "para3": "To narzędzie jest również kompatybilne ze wszystkimi urządzeniami i oprogramowaniem systemowym. Nie ma potrzeby pobierania ani instalowania żadnego oprogramowania ani rozszerzeń przeglądarki, aby z niego korzystać. Miniatury przechowywane przez to narzędzie nie mają również znaków wodnych. Wszystkie te funkcje sprawiają, że to narzędzie jest pierwszym wyborem wśród konkurencji."
+    },
+    "slideshow": {
+      "heading": "Pobieranie pokazów slajdów z TikToka",
+      "para1": "Pokazy slajdów TikTok to zbiór zdjęć i obrazów z dźwiękiem w tle. Użytkownicy udostępniają te obrazy swoim bliskim. W tym celu tworzą pokazy slajdów z tych obrazów i dodają dźwięk w tle, aby uczynić je bardziej angażującymi.",
+      "para2": "Ttmp3 TikTok Slideshow Downloader to narzędzie opracowane z myślą o ułatwieniu użytkownikom pobierania zdjęć i pokazów slajdów z publicznych profili użytkowników TikToka. Narzędzie to pobiera zdjęcia i filmy bez logo i znaków wodnych, co czyni je popularnym narzędziem wśród konkurencji. Co więcej, pobiera zdjęcia i pokazy slajdów w formacie HD.",
+      "para3": "Narzędzie jest kompatybilne ze wszystkimi dostępnymi platformami, takimi jak Android, iOS, macOS, Windows, Linux i Unix. Jest szybkie, dokładne, darmowe i bezpieczne w użyciu. Ponieważ nie przechowujemy ani nie rejestrujemy pobranego pliku na naszych serwerach, narzędzie to cieszy się popularnością wśród odwiedzających. Korzystamy również z bezpiecznych połączeń między urządzeniami, aby żadne informacje o naszych użytkownikach nie mogły zostać zhakowane."
+    },
+    "story": {
+      "heading": "Pobieranie historii TikTok",
+      "para1": "Nasz TikTok Story Downloader to darmowe i łatwe w obsłudze narzędzie, które umożliwia pobieranie historii z dowolnego publicznego profilu dostępnego na TikToku. Nie ma potrzeby pobierania żadnego oprogramowania ani instalowania rozszerzeń czy wtyczek. Cały proces jest bezproblemowy, bezpieczny i zabezpieczony.",
+      "para2": "Te historie są pobierane w formacie HD, Ultra HD, a nawet 4K, w zależności od sposobu ich przesłania przez danego użytkownika TikToka. Z tego narzędzia można korzystać na wszystkich urządzeniach i jest ono kompatybilne z całym światem. Nie musisz się o nic martwić. Wystarczy skopiować i wkleić adres URL tutaj.",
+      "para3": "Historie TikToka raz dodane przez użytkownika pozostają na jego profilu przez następne 24 godziny. Dlatego lepiej je zapisać, aby obejrzeć je później offline. Nasze narzędzie oferuje tę funkcję bezpłatnie i bez znaku wodnego. Nie ma również limitów pobierania historii w formacie ttmp3."
+    }
+  },
+  "howToUse": {
+    "heading": "Jak korzystać z programu TikTok MP4 Downloader Online",
+    "title1": "Znajdź wideo TT",
+    "description1": "Otwórz TikToka na swoim urządzeniu i wyszukaj interesujący Cię film. Odtwórz film, aby sprawdzić, czy działa. Kliknij przycisk udostępniania i skopiuj link. Link zostanie zapisany w schowku na Twoim urządzeniu.",
+    "title2": "Wklej adres URL filmu",
+    "description2": "Otwórz plik ttmp3.io na swoim urządzeniu i kliknij przycisk wklej. Link zostanie wklejony. Teraz kliknij przycisk wyszukiwania, aby znaleźć film. Zostaniesz przekierowany na stronę pobierania, gdzie zobaczysz wybrany film wraz z przyciskiem pobierania.",
+    "title3": "Pobierz wideo",
+    "description3": "Kliknij przycisk pobierania, a film zostanie zapisany na Twoim urządzeniu w formacie HD MP4. Film zostanie zapisany bez znaku wodnego. Kliknij „Pobierz kolejny film”, jeśli chcesz pobrać więcej filmów z TikToka.",
+    "mp3": {
+      "heading": "Jak korzystać z konwertera audio TikTok na MP3 online",
+      "title1": "Znajdź link TikTok",
+      "description1": "Otwórz TikToka na telefonie komórkowym lub komputerze stacjonarnym i wyszukaj interesujący Cię film. Jeśli film odtwarza się poprawnie, skopiuj adres URL filmu, klikając przycisk udostępniania na urządzeniu mobilnym. Zobaczysz opcję kopiowania linku. Kliknij ją, a link zostanie zapisany w schowku. Na komputerze stacjonarnym skopiuj adres URL z paska adresu lub kliknij prawym przyciskiem myszy i wybierz opcję kopiowania linku.",
+      "title2": "Wklej adres URL",
+      "description2": "Odwiedź stronę ttmp3.io i wklej link w podanym polu tekstowym. Teraz kliknij przycisk wyszukiwania. Zostaniesz przekierowany na stronę pobierania. Ten proces będzie szybki i zajmie Ci prawie sekundę. Zobaczysz tam dwa przyciski pobierania.",
+      "title3": "Pobierz plik MP3",
+      "description3": "Kliknij przycisk „Pobierz MP3”, a na Twoim urządzeniu zostanie zapisany plik audio w najwyższej dostępnej jakości. Kliknij go, aby odtworzyć plik. Możesz również kliknąć przycisk „Pobierz inny film”, aby pobrać więcej filmów, plików MP3, miniatur, historii lub pokazów slajdów."
+    },
+    "thumbnail": {
+      "heading": "Jak korzystać z narzędzia do pobierania miniatur TikTok online",
+      "title1": "Skopiuj adres URL",
+      "description1": "Najpierw musisz skopiować link do pliku wideo, aby pobrać miniaturkę. Możesz to zrobić, otwierając film w aplikacji TikTok i klikając przycisk „Udostępnij”. Zobaczysz tam opcję „Kopiuj link”. Kliknij ją, a link zostanie skopiowany do schowka urządzenia.",
+      "title2": "Wklej adres URL",
+      "description2": "Otwórz plik ttmp3.io w przeglądarce internetowej i kliknij pasek adresu. Wklej skopiowany wcześniej adres URL, używając klawiszy Ctrl+V. Teraz kliknij przycisk wyszukiwania. Miniatura zostanie wyświetlona na nowej stronie.",
+      "title3": "Pobierz miniaturę",
+      "description3": "Kliknij przycisk „Pobierz miniaturę”, a plik zostanie zapisany w folderze pobierania na Twoim urządzeniu. Otwórz plik, klikając go. Plik będzie w wysokiej jakości formacie WebP, JPEG, JPG lub PNG i nie będzie zawierał znaków wodnych."
+    },
+    "slideshow": {
+      "heading": "Jak korzystać z programu do pobierania pokazów slajdów TikTok online",
+      "title1": "Znajdź link do pokazu slajdów TikTok",
+      "description1": "Otwórz TikTok.com w przeglądarce internetowej lub uruchom aplikację na urządzeniu mobilnym. Przejdź do pokazu slajdów, który chcesz pobrać i kliknij przycisk udostępniania w prawym dolnym rogu. Znajdziesz tam opcję „Kopiuj link”. Kliknij ją.",
+      "title2": "Wklej link do pokazu slajdów",
+      "description2": "Otwórz program do pobierania pokazów slajdów ttmp3.io i wklej tam link. Kliknij przycisk „Szukaj”, a zostaniesz przekierowany na stronę pobierania.",
+      "title3": "Pobierz pokaz slajdów",
+      "description3": "Kliknij przycisk „Pobierz pokaz slajdów”. Pokaz slajdów zostanie pobrany na Twoje urządzenie w ciągu kilku sekund. Pokaz slajdów nie będzie zawierał logo ani znaku wodnego. Przejdź do tej lokalizacji i otwórz pokaz slajdów."
+    },
+    "story": {
+      "heading": "Jak korzystać z narzędzia do pobierania historii z TikToka online",
+      "title1": "Znajdź adres URL historii TikTok",
+      "description1": "Proces wyszukiwania adresu URL relacji TikTok jest bardzo prosty i podobny. Otwórz wybrany film w aplikacji TikTok i kliknij przycisk udostępniania w prawym dolnym rogu. Zobaczysz opcję „Kopiuj link”. Wystarczy ją kliknąć.",
+      "title2": "Wklej adres URL historii",
+      "description2": "Wklej ten adres URL w polu wyszukiwania ttmp3.io, otwierając stronę w przeglądarce internetowej. Następnie kliknij przycisk wyszukiwania. Ttmp3 wyszuka historię i przekieruje Cię na stronę pobierania.",
+      "title3": "Pobierz historię",
+      "description3": "Kliknij przycisk „Pobierz historię”. Historia zostanie pobrana na dysk lokalny Twojego urządzenia w najlepszym dostępnym formacie HD lub 4K. Historia będzie wolna od znaku wodnego i logo, co daje Ci swobodę późniejszego wykorzystania."
+    }
+  },
+  "faq": {
+    "heading": "Często zadawane pytania",
+    "title1": "Czy można pobierać filmy z TikToka?",
+    "description1": "Tak, filmy z TikToka można łatwo pobierać za pomocą aplikacji innych firm, takich jak TTMp3.io, SSSTikTok, Y2Mate, SnapTik i TikTokio.",
+    "title2": "Jak pobierać filmy z TikToka bez znaku wodnego?",
+    "description2": "Otwórz ttmp3.io i wklej linki do filmów, które chcesz pobrać. Następnie kliknij przycisk pobierania, aby zapisać film na swoim urządzeniu.",
+    "title3": "Jak pobierać filmy TikTok bez logo?",
+    "description3": "Aplikacja ttmp3.io umożliwia pobieranie filmów w formacie HD MP4 z logo TT. Interfejs użytkownika jest prosty i przyjazny dla użytkownika.",
+    "title4": "Czy TikTok informuje, kto pobrał Twój film?",
+    "description4": "Nie, po pobraniu filmu Twoje dane nie zostaną udostępnione jego twórcy.",
+    "title5": "Czy można oglądać filmy TikTok bez pobierania aplikacji?",
+    "description5": "Tak, możesz oglądać filmy na stronie TikTok bez konieczności pobierania aplikacji TikTok.",
+    "title6": "Czy za korzystanie z programu do pobierania filmów z TikToka ttmp3.io pobierana jest jakaś opłata abonamentowa?",
+    "description6": "Nie, pobieranie filmów z serwisu ttmp3.io nie wiąże się z żadną opłatą abonamentową.",
+    "title7": "Czy do pobierania filmów z formatu ttmp3 potrzebne jest jakieś rozszerzenie?",
+    "description7": "Nie, nie ma rozszerzenia umożliwiającego pobieranie filmów z serwisu ttmp3.io.",
+    "title8": "Gdzie są zapisywane filmy TikTok po pobraniu?",
+    "description8": "Filmy TikTok są domyślnie zapisywane w folderze pobranych plików na Twoim urządzeniu. Możesz jednak później zmienić tę ścieżkę.",
+    "title9": "Czy muszę się zarejestrować, aby korzystać z tego programu do pobierania?",
+    "description9": "Nie, nie ma potrzeby logowania się ani rejestrowania, aby korzystać z programu do pobierania plików MP4 z TikToka w formacie ttmp3.",
+    "title10": "Jak mogę uzyskać link do filmu TikTok?",
+    "description10": "Otwórz film w aplikacji TikTok lub na stronie internetowej TikTok i kliknij przycisk „Udostępnij”. Znajdziesz tam opcję skopiowania linku lub adresu URL.",
+    "title11": "Czy mogę pobierać filmy TikTok w formacie HD bez znaku wodnego?",
+    "description11": "Tak, ttmp3.io to ekskluzywna aplikacja, w której możesz pobierać filmy w formacie HD bez znaku wodnego. Co więcej, masz nieograniczoną liczbę pobrań.",
+    "mp3": {
+      "title1": "Jak przekonwertować film TikTok do formatu MP3?",
+      "description1": "Możesz użyć do tego celu pliku ttmp3.io. Wystarczy skopiować link z TikToka i wkleić go w pole tekstowe, a następnie kliknąć przycisk wyszukiwania. Teraz wystarczy kliknąć przycisk pobierania i gotowe.",
+      "title2": "Jak przekonwertować dźwięk TikTok na MP3?",
+      "description2": "Ttmp3.io to najłatwiejszy sposób na darmową konwersję i pobieranie plików audio do formatu MP3.",
+      "title3": "Ile pobrań ma TikTok?",
+      "description3": "Możesz pobrać dowolną liczbę plików, korzystając z darmowej usługi ttmp3.io. Stale pracujemy nad udoskonaleniem naszej strony internetowej, aby zapewnić Ci bezproblemowe korzystanie z niej.",
+      "title4": "Kiedy będzie można pobrać TikToka?",
+      "description4": "Aplikację TikTok można łatwo pobrać z Google Play, Apple Store lub Windows Store, w zależności od zgodności urządzenia.",
+      "title5": "Kiedy znów będzie można pobierać filmy z TikToka?",
+      "description5": "W serwisie ttmp3.io możesz natychmiast pobrać kolejny plik wideo lub audio. Nie ma ograniczeń czasowych ani liczby dostępnych pobrań.",
+      "title6": "Czy musimy pobrać jakieś oprogramowanie, aby korzystać z tej usługi?",
+      "description6": "Nie. Nie musisz pobierać żadnego oprogramowania, aby korzystać z tej usługi. Możesz z niej łatwo korzystać za pośrednictwem naszej strony internetowej. Proces obejmuje kilka prostych kroków.",
+      "title7": "Czy zapisujemy dane osobowe i pliki użytkowników?",
+      "description7": "Nie. ttmp3 nie zapisuje danych użytkownika ani profili osobistych. Nie ma również potrzeby rejestracji, aby korzystać z tej usługi. Wszystkie filmy są pobierane bezpośrednio z TikToka na urządzenie użytkownika."
+    },
+    "thumbnail": {
+      "title1": "Czy można pobierać miniatury z filmów TikTok?",
+      "description1": "Tak. Miniatury TikToka można łatwo pobrać za pomocą bezpłatnej usługi pobierania ttmp3.io.",
+      "title2": "W jakim formacie pliku pobierane są miniatury?",
+      "description2": "Te miniatury są pobierane z filmów TikTok w formacie JPG, JPEG, PNG lub WebP.",
+      "title3": "Czy mogę pobrać miniatury ze wszystkich filmów na TikToku?",
+      "description3": "Tak, miniatury można pobrać ze wszystkich filmów, które zawierają miniatury.",
+      "title4": "Czy pobrane miniatury są przechowywane na serwerach ttmp3.io?",
+      "description4": "Nie. Ściśle przestrzegamy zasad i przepisów dotyczących prywatności. Na naszych serwerach nie przechowujemy żadnych danych.",
+      "title5": "Ile miniatur mogę pobrać za pomocą ttmp3.io?",
+      "description5": "Nie ma limitów pobierania miniatur z TikToka za pomocą usługi pobierania ttmp3.io. Możesz pobrać setki miniatur bez znaków wodnych i logo.",
+      "title6": "Gdzie na moim urządzeniu są przechowywane pobrane miniatury?",
+      "description6": "Pobrane pliki lub miniatury są przechowywane w folderze pobierania na Twoim urządzeniu. Upewnij się, że zezwalasz aplikacji ttmp3.io na dostęp do pamięci urządzenia, dokonując odpowiednich ustawień w ustawieniach."
+    },
+    "slideshow": {
+      "title1": "Czy muszę płacić za korzystanie z programu Slideshow Downloader?",
+      "description1": "Nie. Wszystkie narzędzia na naszej stronie są bezpłatne. Co więcej, nie ma potrzeby rejestracji ani logowania.",
+      "title2": "Czy mogę używać programu ttmp3 Photo and Slideshow Downloader na urządzeniu z systemem Android?",
+      "description2": "Tak, można z niego korzystać na dowolnym urządzeniu z systemem operacyjnym Android.",
+      "title3": "Czy mogę używać aplikacji ttmp3 TikTok Slideshow Downloader na moim urządzeniu z systemem iOS lub macOS?",
+      "description3": "Tak. Możesz z łatwością korzystać z tego narzędzia na iOS lub macOS. Nie ma żadnych opłat rejestracyjnych ani opłat abonamentowych.",
+      "title4": "Czy pobieranie zdjęć i pokazów slajdów z TikToka za pomocą ttmp3.io jest bezpieczne?",
+      "description4": "100%. Nie musisz się o nic martwić. Cały ruch przychodzący i wychodzący z naszej strony internetowej jest szyfrowany przy użyciu najnowszych protokołów. Dzięki temu nie ma ryzyka kradzieży ani wycieku danych osobowych.",
+      "title5": "Czy do korzystania z tego narzędzia potrzebne jest jakieś rozszerzenie przeglądarki?",
+      "description5": "Nie. Nie musisz pobierać żadnych rozszerzeń, aby korzystać z tego narzędzia. Strona ma przejrzysty i przyjazny dla użytkownika interfejs.",
+      "title6": "Czy pobrane pokazy slajdów nie mają znaku wodnego?",
+      "description6": "Tak. Wszystkie pokazy slajdów pobrane w formacie ttmp3 są wolne od znaków wodnych i logo."
+    },
+    "story": {
+      "title1": "Czy program do pobierania opowiadań z ttmp3.io jest darmowy?",
+      "description1": "100%. Możesz korzystać z naszego narzędzia za darmo i nieograniczoną liczbę razy. Nie ma opłaty rejestracyjnej ani wpisowej.",
+      "title2": "Czy mogę używać aplikacji ttmp3 TikTok Story Downloader na urządzeniu z systemem Android?",
+      "description2": "Tak, program do pobierania plików ttmp3 można używać bezpłatnie na urządzeniach z systemem Android.",
+      "title3": "Czy mogę używać aplikacji ttmp3 TikTok Story Downloader na systemie iOS lub Mac?",
+      "description3": "Tak. Ten program do pobierania historii będzie działał poprawnie na każdym urządzeniu z systemem iOS lub Mac, niezależnie od zainstalowanej wersji.",
+      "title4": "Czy mogę przesłać własną historię na TikTok korzystając z ttmp3.io?",
+      "description4": "Nie, nie możesz użyć tego narzędzia do przesłania swoich historii na TikToka. Możesz w tym celu skorzystać z oficjalnej aplikacji TikToka.",
+      "title5": "Czy ttmp3.io zapisuje wszystkie pobrane historie?",
+      "description5": "Nie. Nie przechowujemy żadnych historii pobranych z naszej strony internetowej. Szanujemy Twoją prywatność.",
+      "title6": "Gdzie mogę pobrać te historie TikTok na swoje urządzenie?",
+      "description6": "Znajdziesz je w folderze pobierania na swoim urządzeniu. Jest to domyślna lokalizacja, jeśli pobierasz je z ttmp3.",
+      "title7": "Czy pobieranie historii z TikToka wiąże się z jakimiś problemami prawnymi?",
+      "description7": "Nie, nie ma żadnych zobowiązań prawnych. Z etycznego punktu widzenia powinieneś pobierać tylko historie osób, które możesz znać."
+    }
+  },
+  "seo": {
+    "mp4": {
+      "title": "Pobieranie filmów z TikToka – zapisz filmy z TikToka bez znaku wodnego w jakości HD MP4",
+      "description": "Pobieraj filmy z TikToka w jakości HD bez znaku wodnego – nielimitowane, darmowe i szybkie. Formaty MP4 i MP3 są obsługiwane na wszystkich urządzeniach. Najprostszy w obsłudze program do pobierania filmów z TikToka dostępny online."
+    },
+    "mp3": {
+      "title": "Pobieracz z TikToka do plików MP3 – konwertuje filmy do plików audio MP3 za darmo",
+      "description": "Najbezpieczniejszy, najszybszy i najłatwiejszy w użyciu internetowy program do pobierania plików audio MP3 z TikToka na wszystkie urządzenia. Konwertuje filmy do wysokiej jakości formatów MP3 i MP4 bez logo."
+    },
+    "thumbnail": {
+      "title": "Pobieranie miniatur z TikToka – za darmo, w jakości HD, bez znaków wodnych",
+      "description": "Pobierz miniatury TikToka bez logo i znaku wodnego w oryginalnym rozmiarze. Ta darmowa funkcja działa na wszystkich urządzeniach z ekranami o dowolnej wielkości i pobiera miniatury w formacie HD."
+    },
+    "slideshow": {
+      "title": "Pobieranie pokazów slajdów TikTok – HD i bez znaków wodnych",
+      "description": "Pobierz pokazy slajdów z TikToka w wysokiej rozdzielczości bez znaku wodnego – to narzędzie od ttmp3 jest szybkie, darmowe i proste w obsłudze. Łatwo zapisuj pokazy slajdów z dowolnego publicznego profilu TikToka."
+    },
+    "story": {
+      "title": "Pobieranie historii z TikToka – szybkie, darmowe, w jakości HD, bez znaków wodnych i nazw użytkowników",
+      "description": "Użyj ttmp3, aby natychmiast zapisać filmy z TikToka z dowolnego profilu publicznego w formacie HD, a nawet 4K. Szybko, za darmo, wydajnie, bez znaków wodnych i nazwy użytkownika."
+    }
+  }
+}
