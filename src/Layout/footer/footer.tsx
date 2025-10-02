@@ -3,7 +3,7 @@ import styles from './Footer.module.scss';
 export default function Footer() {
   return (
     <footer className={styles.footer}>
-      <nav className={styles.footerNav}>
+      <nav className={`${styles.footerNav} d-flex justify-content-center`}>
         <a href="/contact" className={styles.footerLink}>
           Contact Us
         </a>

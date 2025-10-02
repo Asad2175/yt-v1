@@ -35,28 +35,30 @@ export default function Downloader() {
             </h2>
             <ToggleSelection />
             <div className={`${styles.inputGroup} position-relative d-flex`}>
-              <input
-                type="text"
-                value={url}
-                className={styles.input}
-                onChange={(e) => setUrl(e.target.value)}
-                placeholder="Enter URL..."
-              />
-              {url ? (
-                <button
-                  className={`${styles.paste} btn cursor-pointer`}
-                  onClick={handleClear}
-                >
-                  Clear
-                </button>
-              ) : (
-                <button
-                  className={`${styles.paste} btn cursor-pointer`}
-                  onClick={handlePaste}
-                >
-                  Paste
-                </button>
-              )}
+              <div className={`${styles.inputField} d-flex flex-1`}>
+                <input
+                  type="text"
+                  value={url}
+                  className={`${styles.input} w-100`}
+                  onChange={(e) => setUrl(e.target.value)}
+                  placeholder="Enter URL..."
+                />
+                {url ? (
+                  <button
+                    className={`${styles.paste} btn cursor-pointer`}
+                    onClick={handleClear}
+                  >
+                    Clear
+                  </button>
+                ) : (
+                  <button
+                    className={`${styles.paste} btn cursor-pointer`}
+                    onClick={handlePaste}
+                  >
+                    Paste
+                  </button>
+                )}
+              </div>
               <button className={`${styles.search} btn cursor-pointer`} onClick={handleSearch}>
                 Search
               </button>

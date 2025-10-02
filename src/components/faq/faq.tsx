@@ -17,7 +17,7 @@ export default function FAQ({ faqs }: { faqs: FaqInterface[] }) {
           <button
             className={`${styles.faqQuestion} ${
               openIndex === index ? styles.active : ''
-            } d-flex align-items-center justify-content-between cursor-pointer w-100 position-relative`}
+            } d-flex align-items-center justify-content-between cursor-pointer w-100 position-relative text-left`}
             onClick={() => toggleFAQ(index)}
           >
             {faq.question}

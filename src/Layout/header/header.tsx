@@ -4,6 +4,7 @@ import { languagesArray } from 'constants/languages';
 import { useState, useEffect } from 'react';
 import styles from './Header.module.scss';
 import Dropdown from '../../components/dropdown/dropdown';
+import Link from 'next/link';
 
 export default function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -41,7 +42,9 @@ export default function Header() {
         <div className="container">
           <div className="d-flex align-items-center justify-content-between gap-4">
             <div className={styles.logo}>
-              <img src="/icons/logoIcon.svg" alt="ttmp3" />
+              <Link href="/">
+                <img src="/icons/logoIcon.svg" alt="ttmp3" />
+              </Link>
             </div>
 
             <div className={styles.lang}>

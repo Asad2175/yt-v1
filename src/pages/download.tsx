@@ -1,3 +1,5 @@
+import router from "next/router";
+
 export default function Download() {
     return <>
         <div className="container">
@@ -29,7 +31,7 @@ export default function Download() {
             </div>
 
             <div className="w-100 next">
-                <button className="w-100 btn cursor-pointer">Next</button>
+                <button onClick={() => router.push({pathname: '/'})} className="w-100 btn cursor-pointer">Next</button>
             </div>
 
             <section>

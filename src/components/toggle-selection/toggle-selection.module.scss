@@ -1,6 +1,10 @@
 .toggler {
-  margin-left: 10px;
   height: 100%;
+
+  @media (max-width: 600px) {
+    flex-direction: column;
+    gap: 0;
+  }
 
   button {
     padding: 13px;
@@ -8,6 +12,11 @@
     background: rgba(255,255,255,.25);
     border-color: rgba(255,255,255,.25);
     color: #fff;
+
+    @media (max-width: 600px) {
+      width: 100%;
+      margin: 0 0 10px 0;
+    }
 
     &.active {
       color: #fff;

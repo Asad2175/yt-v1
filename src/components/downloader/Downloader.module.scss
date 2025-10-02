@@ -1,6 +1,6 @@
 .downloader {
   background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
-  padding: 20px 20px 40px;
+  padding: 20px 0 40px;
 
   h1 {
     color: #fff;
@@ -19,19 +19,35 @@
     max-width: 900px;
     margin: 20px auto;
 
-    .input {
-      flex: 1;
-      height: 50px;
-      padding: 0 15px;
-      border: 2px solid #e2e8f0; // light gray border
-      border-radius: 8px 0 0 8px;
-      font-size: 18px;
-      outline: none;
-      transition: all 0.2s ease-in-out;
+    @media (max-width: 600px) {
+      flex-direction: column;
+    }
 
-      &:focus {
-        border-color: #38bdf8; // sky blue
-        box-shadow: 0 0 0 2px rgba(56, 189, 248, 0.3);
+    .inputField {
+      margin-right: 10px;
+
+      @media (max-width: 600px) {
+        margin-right: 0;
+      }
+
+      .input {
+        flex: 1;
+        height: 50px;
+        padding: 0 15px;
+        border: 2px solid #e2e8f0; // light gray border
+        border-radius: 8px 0 0 8px;
+        font-size: 18px;
+        outline: none;
+        transition: all 0.2s ease-in-out;
+
+        @media (max-width: 600px) {
+          font-size: 16px;
+        }
+
+        &:focus {
+          border-color: #38bdf8; // sky blue
+          box-shadow: 0 0 0 2px rgba(56, 189, 248, 0.3);
+        }
       }
     }
 
@@ -45,6 +61,11 @@
 
       &.search {
         margin-left: 10px;
+
+        @media (max-width: 600px) {
+          margin: 10px 0 0 0;
+          padding: 13px;
+        }
       }
     }
   }
