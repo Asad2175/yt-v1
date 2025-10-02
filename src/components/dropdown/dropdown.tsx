@@ -60,7 +60,7 @@ const Dropdown: React.FC<DropdownProps> = ({
     <div className={styles.dropdown} ref={dropdownRef}>
       <button
         type="button"
-        className={`${styles.dropdownToggle} ${isOpen ? styles.open : ''}`}
+        className={`${styles.dropdownToggle} ${isOpen ? styles.open : ''} cursor-pointer`}
         onClick={handleToggle}
       >
         <span className={styles.selectedText}>

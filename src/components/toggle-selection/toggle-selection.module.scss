@@ -1,0 +1,20 @@
+.toggler {
+  margin-left: 10px;
+  background: #fff;
+  // border-radius: 5px;
+  height: 100%;
+
+  span {
+    padding: 13px;
+    font-weight: 500;
+
+    &:first-child {
+      border-right: 1px solid #000;
+    }
+
+    &.active {
+      color: #fff;
+      background: #000;
+    }
+  }
+}

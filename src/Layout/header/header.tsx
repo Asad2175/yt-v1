@@ -7,12 +7,6 @@ import { useState, useEffect } from 'react';
 import styles from './Header.module.scss';
 import Dropdown from '../../components/dropdown/dropdown';
 
-const navLinks = [
-  { href: '/', label: 'Youtube Downloader' },
-  { href: '/', label: 'Youtube to Mp4' },
-  { href: '/', label: 'Youtube to Mp3' },
-];
-
 export default function Header() {
   const router = useRouter();
   const { locale } = router;
@@ -57,72 +51,17 @@ export default function Header() {
               <img src="/icons/logoIcon.svg" alt="ttmp3" />
             </div>
 
-            <div className="d-flex gap-24">
-              {/* Desktop Menu */}
-              <div className={`${styles['menu-items']} gap-24`}>
-                <div className={`${styles['nav-items']} d-flex align-items-center gap-24`}>
-                  {navLinks.map(({ href, label }) => (
-                    <Link key={label} href={href} className="text-decoration">
-                      {label}
-                    </Link>
-                  ))}
-                </div>
-              </div>
-
-              <div className={styles.lang}>
-                <Dropdown
-                  options={languagesArray}
-                  placeholder="Choose Language"
-                  onChange={(val) => console.log('Selected language:', val)}
-                  defaultValue="en"
-                />
-              </div>
-
-              {/* Hamburger Menu Button */}
-              <button
-                className={`${styles.hamburger} ${isMobileMenuOpen ? styles.active : ''}`}
-                onClick={toggleMobileMenu}
-                aria-label="Toggle menu"
-              >
-                <span />
-                <span />
-                <span />
-              </button>
+            <div className={styles.lang}>
+              <Dropdown
+                options={languagesArray}
+                placeholder="Choose Language"
+                onChange={(val) => console.log('Selected language:', val)}
+                defaultValue="en"
+              />
             </div>
           </div>
         </div>
       </nav>
-
-      {/* Mobile Overlay */}
-      <div
-        className={`${styles['mobile-overlay']} ${isMobileMenuOpen ? styles.active : ''}`}
-        onClick={closeMobileMenu}
-      />
-
-      {/* Mobile Menu */}
-      <div className={`${styles['mobile-menu']} ${isMobileMenuOpen ? styles.active : ''}`}>
-        <div className={styles['mobile-menu-header']}>
-          <div className={styles.logo}>
-            <img src="/icons/logoIcon.svg" alt="ttmp3" />
-          </div>
-          <button className={styles['close-btn']} onClick={closeMobileMenu} aria-label="Close menu">
-            ✕
-          </button>
-        </div>
-
-        <div className={styles['mobile-nav-items']}>
-          {navLinks.map(({ href, label }) => (
-            <Link
-              key={label}
-              href={href}
-              className={styles['mobile-nav-link']}
-              onClick={closeMobileMenu}
-            >
-              {label}
-            </Link>
-          ))}
-        </div>
-      </div>
     </>
   );
 }

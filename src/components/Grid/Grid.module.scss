@@ -1,7 +1,6 @@
 .gridContainer {
   max-width: 1200px;
   margin: 0 auto;
-  padding-top: 20px;
 }
 
 .grid {
@@ -34,7 +33,7 @@
 
     .cardContent {
       h3 {
-        color: #3b82f6;
+        color: #e6a93c;
       }
     }
 
@@ -76,7 +75,6 @@
   padding: 30px;
 
   h3 {
-    font-size: 1.3rem;
     color: #2d3748;
     margin-bottom: 15px;
     font-weight: 600;
@@ -84,43 +82,14 @@
   }
 
   p {
-    font-size: 1rem;
     color: #718096;
     line-height: 1.7;
     margin-bottom: 20px;
   }
 }
 
-.cardLink {
-  display: inline-flex;
-  align-items: center;
-  color: #3b82f6;
-  font-weight: 600;
-  text-decoration: none;
-  transition: color 0.3s ease;
-
-  &:hover {
-    color: #2563eb;
-  }
-
-  svg {
-    margin-left: 8px;
-    transition: transform 0.3s ease;
-  }
-}
-
 // Responsive Design
 @media (max-width: 768px) {
-  .header {
-    h2 {
-      font-size: 2rem;
-    }
-
-    p {
-      font-size: 1rem;
-    }
-  }
-
   .grid {
     grid-template-columns: 1fr;
   }
