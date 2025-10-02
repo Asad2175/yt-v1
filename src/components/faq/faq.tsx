@@ -11,13 +11,13 @@ export default function FAQ({ faqs }: { faqs: FaqInterface[] }) {
   };
 
   return (
-    <div className={styles.faqList}>
+    <div className={`${styles.faqList} overflow-hidden`}>
       {faqs.map((faq: FaqInterface, index: number) => (
         <div key={index} className={styles.faqItem}>
           <button
             className={`${styles.faqQuestion} ${
               openIndex === index ? styles.active : ''
-            }`}
+            } d-flex align-items-center justify-content-between cursor-pointer w-100 position-relative`}
             onClick={() => toggleFAQ(index)}
           >
             {faq.question}
@@ -28,7 +28,7 @@ export default function FAQ({ faqs }: { faqs: FaqInterface[] }) {
           <div
             className={`${styles.faqAnswer} ${
               openIndex === index ? styles.show : ''
-            }`}
+            } overflow-hidden`}
           >
             <p>{faq.answer}</p>
           </div>

@@ -3,7 +3,7 @@ import Footer from './footer/footer';
 import Header from './header/header';
 import { useTranslation } from 'next-i18next';
 import Head from 'next/head';
-import { Gulzar, Noto_Naskh_Arabic, Poppins } from 'next/font/google';
+import { ABeeZee, Gulzar, Noto_Naskh_Arabic, } from 'next/font/google';
 
 const gulzar = Gulzar({
   weight: '400',
@@ -19,8 +19,8 @@ const arabic = Noto_Naskh_Arabic({
   preload: true, // preload font for faster LCP
 });
 
-export const poppins = Poppins({
-  weight: ['400', '500', '600'],
+export const poppins = ABeeZee({
+  weight: ['400'],
   subsets: ['latin'],
   display: 'swap',
   preload: true, // preload font for faster LCP

@@ -24,7 +24,7 @@ export default function Downloader() {
               TikTokmp3 offers to download fast, free, & Unlimited TikTok videos
               without Watermark – Safe, Secure & Subscription-free
             </h2>
-            <div className={styles.inputGroup}>
+            <div className={`${styles.inputGroup} position-relative d-flex`}>
               <input
                 type="text"
                 value={url}

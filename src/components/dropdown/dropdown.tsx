@@ -57,10 +57,10 @@ const Dropdown: React.FC<DropdownProps> = ({
   };
 
   return (
-    <div className={styles.dropdown} ref={dropdownRef}>
+    <div className={`${styles.dropdown} w-100 position-relative`} ref={dropdownRef}>
       <button
         type="button"
-        className={`${styles.dropdownToggle} ${isOpen ? styles.open : ''} cursor-pointer`}
+        className={`${styles.dropdownToggle} ${isOpen ? styles.open : ''} cursor-pointer w-100`}
         onClick={handleToggle}
       >
         <span className={styles.selectedText}>
@@ -75,7 +75,7 @@ const Dropdown: React.FC<DropdownProps> = ({
               key={option.value}
               className={`${styles.dropdownItem} ${
                 selectedOption?.value === option.value ? styles.selected : ''
-              }`}
+              } cursor-pointer`}
               onClick={() => handleSelect(option)}
             >
               {option.label}

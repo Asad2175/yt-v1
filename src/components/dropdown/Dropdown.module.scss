@@ -1,11 +1,8 @@
 .dropdown {
-  position: relative;
-  width: 100%;
   max-width: 300px;
 }
 
 .dropdownToggle {
-  width: 100%;
   padding: 0.5rem 1rem;
   background-color: transparent;
   border: 1px solid #fff;
@@ -17,7 +14,6 @@
 
 .selectedText {
   flex: 1;
-  text-align: left;
   color: #fff;
 }
 
@@ -49,7 +45,6 @@
 
 .dropdownItem {
   padding: 12px 16px;
-  cursor: pointer;
   transition: background-color 0.2s ease;
   color: #333;
   margin-bottom: 5px;
