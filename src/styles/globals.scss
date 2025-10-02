@@ -11,7 +11,7 @@ body {
 }
 
 .result {
-  margin: 50px auto;
+  margin: 50px auto 30px;
   max-width: 1000px;
   background: white;
   border-radius: 16px;
@@ -45,5 +45,17 @@ body {
         gap: 0.5rem;
       }
     }
+  }
+}
+
+.next {
+  margin: auto;
+  max-width: 1000px;
+
+  button {
+    height: 50px;
+    color: #fff;
+    background: #e6a93c;
+    border: 1px solid #e6a93c;
   }
 }

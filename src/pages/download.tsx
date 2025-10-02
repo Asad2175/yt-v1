@@ -6,7 +6,7 @@ export default function Download() {
                     <img className="w-100" src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&q=80" />
                 </div>
                 <div className="right-side">
-                    <h3 className="mb-4">Youtube Video Info</h3>
+                    <h3 className="mb-4 text-center">Youtube Video Info</h3>
                     <p><strong>Title:</strong> Ikko Mikke - Sanu ajkal sheesha bada ched da | Satinder Sartaaj | New Punjabi Song 2020 | New Song</p>
                     <p><strong>Author Nickname:</strong> SagaHits</p>
                     <p><strong>Provider:</strong> YouTube</p>
@@ -26,6 +26,10 @@ export default function Download() {
                         </div>
                     </div>
                 </div>
+            </div>
+
+            <div className="w-100 next">
+                <button className="w-100 btn cursor-pointer">Next</button>
             </div>
 
             <section>
