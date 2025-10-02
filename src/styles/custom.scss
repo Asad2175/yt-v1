@@ -28,6 +28,10 @@
   justify-content: center;
 }
 
+.flex-column {
+  flex-direction: column;
+}
+
 .gap-24 {
   gap: 24px;
 }
@@ -106,10 +110,15 @@ p {
   font-weight: 500;
   transition: background 0.2s ease-in-out;
   background: #e6a93c;
+
+  &:disabled {
+    opacity: 0.4;
+    pointer-events: none;
+  }
 }
 
 .overflow-hidden {
-  overflow: hidden
+  overflow: hidden;
 }
 
 .w-100 {
@@ -122,4 +131,8 @@ p {
 
 .ml-20 {
   margin-left: 20px;
+}
+
+.error {
+  color: #ff2800;
 }

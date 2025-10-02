@@ -2,9 +2,15 @@ import { useState } from 'react';
 import styles from './Downloader.module.scss';
 import ToggleSelection from '../../components/toggle-selection/toggle-selection';
 import router from 'next/router';
+import { cleanYouTubeUrl } from 'lib/customFunctions';
+import { useVideoStore } from 'store/videoStore';
+import { Err } from 'interfaces/general';
 
 export default function Downloader() {
   const [url, setUrl] = useState('');
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState('');
+  const setSelectedVideo = useVideoStore((state) => state.setSelectedVideo);
 
   const handlePaste = async () => {
     const text = await navigator.clipboard?.readText();
@@ -16,10 +22,32 @@ export default function Downloader() {
   };
 
   const handleSearch = async () => {
-    router.push({
-      pathname: '/download',
-    });
-  }
+    if (!url.trim()) return;
+    setError('');
+    setLoading(true);
+    const updatedURL = cleanYouTubeUrl(url.trim());
+    try {
+      const res = await fetch(
+        `/api/youtube?url=${encodeURIComponent(updatedURL)}`
+      );
+      const data = await res.json();
+
+      if (!res.ok) throw new Error(data.error || 'Failed to fetch video info');
+
+      setSelectedVideo({
+        video: data,
+        url: updatedURL,
+      });
+      router.push({
+        pathname: '/download',
+      });
+    } catch (err: unknown) {
+      const error = err as Err;
+      setError(error.message || 'Something went wrong. Please try again');
+    } finally {
+      setLoading(false);
+    }
+  };
 
   return (
     <>
@@ -59,10 +87,20 @@ export default function Downloader() {
                   </button>
                 )}
               </div>
-              <button className={`${styles.search} btn cursor-pointer`} onClick={handleSearch}>
-                Search
+              <button
+                className={`${styles.search} btn cursor-pointer`}
+                onClick={handleSearch}
+                disabled={loading}
+              >
+                {loading ? 'Loading...' : 'Search'}
               </button>
             </div>
+            {loading && (
+              <p className={`${styles.loading}`}>
+                Please wait while we are fetching details for you...
+              </p>
+            )}
+            {error && <p className={`${styles.loading}`}>{error}</p>}
           </div>
         </div>
       </div>

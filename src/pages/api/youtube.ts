@@ -1,4 +1,4 @@
-import { Youtube } from 'interfaces/youtube';
+import { Youtube } from 'interfaces/general';
 import type { NextApiRequest, NextApiResponse } from 'next';
 
 export default async function handler(
@@ -35,14 +35,9 @@ export default async function handler(
     const data: Youtube = {
       title: oembed.title || '',
       author: oembed.author_name || '',
-      provider: oembed.provider_name || 'YouTube',
       thumbnail:
         oembed.thumbnail_url ||
         `https://i.ytimg.com/vi/${videoId}/maxresdefault.jpg`,
-      embedHtml:
-        oembed.html ||
-        `<iframe width="560" height="315" src="https://www.youtube.com/embed/${videoId}" frameborder="0" allowfullscreen></iframe>`,
-      videoUrl: url,
     };
 
     res.status(200).json(data);

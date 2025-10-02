@@ -43,26 +43,26 @@ export default async function handler(
     url,
   ];
 
-  console.log(`Running yt-dlp: ${ytDlpPath} ${args.join(' ')}`);
+  console.log(`Running: ${ytDlpPath} ${args.join(' ')}`);
 
   const ytDlp = spawn(ytDlpPath, args, { stdio: ['ignore', 'pipe', 'pipe'] });
 
   ytDlp.stdout.pipe(res); // pipe directly to client
 
   ytDlp.stderr.setEncoding('utf8');
-  ytDlp.stderr.on('data', (data) => console.error('yt-dlp stderr:', data));
+  ytDlp.stderr.on('data', (data) => console.error('stderr:', data));
 
   ytDlp.on('error', (err) => {
-    console.error('yt-dlp failed to start:', err);
+    console.error('failed to start:', err);
     if (!res.headersSent)
       res.status(500).json({ error: 'Failed to start download process' });
   });
 
   ytDlp.on('close', (code) => {
     if (code !== 0) {
-      console.error(`yt-dlp exited with code ${code}`);
+      console.error(`exited with code ${code}`);
       if (!res.headersSent)
-        res.status(500).json({ error: `yt-dlp exited with code ${code}` });
+        res.status(500).json({ error: `exited with code ${code}` });
     }
     res.end();
   });

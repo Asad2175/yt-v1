@@ -1,15 +1,18 @@
-import { Faq } from 'interfaces/faq';
+import { FaqInterface } from 'interfaces/general';
 
-export function generateFaqSchema(faqs: Faq[], t: (key: string) => string) {
+export function generateFaqSchema(
+  faqs: FaqInterface[],
+  t: (key: string) => string
+) {
   return {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
     mainEntity: faqs.map((faq) => ({
       '@type': 'Question',
-      name: t(faq.title),
+      name: t(faq.question),
       acceptedAnswer: {
         '@type': 'Answer',
-        text: t(faq.description),
+        text: t(faq.answer),
       },
     })),
   };

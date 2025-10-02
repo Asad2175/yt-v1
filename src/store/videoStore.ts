@@ -1,10 +1,8 @@
-import { Youtube } from 'interfaces/youtube';
+import { Youtube } from 'interfaces/general';
 import { create } from 'zustand';
 
 type videoData = {
   video: Youtube;
-  type: 'mp3' | 'mp4' | 'thumbnail';
-  downloadButton: string;
   url: string;
 };
 

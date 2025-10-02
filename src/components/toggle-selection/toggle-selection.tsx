@@ -5,7 +5,9 @@ export default function ToggleSelection() {
   const [format, setFormat] = useState('mp3');
   return (
     <>
-      <div className={`${styles.toggler} d-flex align-items-center d-flex justify-content-center`}>
+      <div
+        className={`${styles.toggler} d-flex align-items-center d-flex justify-content-center`}
+      >
         <button
           className={`${format === 'mp4' ? styles.active : ''} btn cursor-pointer`}
           onClick={() => setFormat('mp4')}
