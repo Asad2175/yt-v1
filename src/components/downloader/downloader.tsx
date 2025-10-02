@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import styles from './Downloader.module.scss';
 import ToggleSelection from '../../components/toggle-selection/toggle-selection';
+import router from 'next/router';
 
 export default function Downloader() {
   const [url, setUrl] = useState('');
@@ -13,6 +14,13 @@ export default function Downloader() {
   const handleClear = async () => {
     setUrl('');
   };
+
+  const handleSearch = async () => {
+    router.push({
+      pathname: '/download',
+    });
+  }
+
   return (
     <>
       <div className={`${styles['downloader']}`}>
@@ -49,7 +57,7 @@ export default function Downloader() {
                   Paste
                 </button>
               )}
-              <button className={`${styles.search} btn cursor-pointer`}>
+              <button className={`${styles.search} btn cursor-pointer`} onClick={handleSearch}>
                 Search
               </button>
             </div>

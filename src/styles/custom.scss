@@ -12,6 +12,10 @@
   align-items: center;
 }
 
+.align-items-start {
+  align-items: center;
+}
+
 .align-self-center {
   align-self: center;
 }
@@ -38,6 +42,18 @@
 
 .mt-2 {
   margin-top: 0.5rem;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem;
+}
+
+.mt-4 {
+  margin-top: 1.5rem;
 }
 
 .mb-4 {
