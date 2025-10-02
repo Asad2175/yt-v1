@@ -20,6 +20,10 @@
   justify-content: space-between;
 }
 
+.justify-content-center {
+  justify-content: center;
+}
+
 .gap-24 {
   gap: 24px;
 }
@@ -89,4 +93,8 @@ p {
 
 .position-relative {
   position: relative;
+}
+
+.ml-20 {
+  margin-left: 20px;
 }

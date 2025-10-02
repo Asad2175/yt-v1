@@ -1,20 +1,17 @@
 .toggler {
   margin-left: 10px;
-  background: #fff;
-  // border-radius: 5px;
   height: 100%;
 
-  span {
+  button {
     padding: 13px;
     font-weight: 500;
-
-    &:first-child {
-      border-right: 1px solid #000;
-    }
+    background: rgba(255,255,255,.25);
+    border-color: rgba(255,255,255,.25);
+    color: #fff;
 
     &.active {
       color: #fff;
-      background: #000;
+      background: #e6a93c;
     }
   }
 }

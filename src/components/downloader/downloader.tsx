@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import styles from './Downloader.module.scss';
+import ToggleSelection from '../../components/toggle-selection/toggle-selection';
 
 export default function Downloader() {
   const [url, setUrl] = useState('');
@@ -24,6 +25,7 @@ export default function Downloader() {
               TikTokmp3 offers to download fast, free, & Unlimited TikTok videos
               without Watermark – Safe, Secure & Subscription-free
             </h2>
+            <ToggleSelection />
             <div className={`${styles.inputGroup} position-relative d-flex`}>
               <input
                 type="text"
