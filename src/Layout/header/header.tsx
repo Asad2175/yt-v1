@@ -1,20 +1,13 @@
 'use client';
 
-import { useRouter } from 'next/router';
-import Link from 'next/link';
-import { languages, languagesArray } from 'constants/languages';
+import { languagesArray } from 'constants/languages';
 import { useState, useEffect } from 'react';
 import styles from './Header.module.scss';
 import Dropdown from '../../components/dropdown/dropdown';
 
 export default function Header() {
-  const router = useRouter();
-  const { locale } = router;
-  const localeNames: Record<string, string> = languages;
-
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
-  const toggleMobileMenu = () => setIsMobileMenuOpen((prev) => !prev);
   const closeMobileMenu = () => setIsMobileMenuOpen(false);
 
   useEffect(() => {

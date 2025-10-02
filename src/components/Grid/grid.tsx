@@ -1,14 +1,15 @@
 // components/Grid/grid.js
 import React from 'react';
 import styles from './grid.module.scss';
+import { GridInterface } from '../../interfaces/general';
 
-export default function Grid({ cards }: any) {
+export default function Grid({ cards }: { cards: GridInterface[] }) {
   return (
     <div className={styles.gridContainer}>
       {/* Grid Section */}
       <div className={styles.grid}>
         {cards && cards.length > 0 ? (
-          cards.map((card: any) => (
+          cards.map((card: GridInterface) => (
             <div className={styles.card} key={card.id}>
               <div className={styles.cardImage}>
                 <img src={card.image} alt={card.title} />

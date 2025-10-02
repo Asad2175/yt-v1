@@ -1,8 +1,9 @@
 'use client';
 import { useState } from 'react';
 import styles from './FAQ.module.scss';
+import { FaqInterface } from 'interfaces/general';
 
-export default function FAQ({ faqs }: any) {
+export default function FAQ({ faqs }: { faqs: FaqInterface[] }) {
   const [openIndex, setOpenIndex] = useState<number | null>(null);
 
   const toggleFAQ = (index: number) => {
@@ -11,7 +12,7 @@ export default function FAQ({ faqs }: any) {
 
   return (
     <div className={styles.faqList}>
-      {faqs.map((faq: any, index: any) => (
+      {faqs.map((faq: FaqInterface, index: number) => (
         <div key={index} className={styles.faqItem}>
           <button
             className={`${styles.faqQuestion} ${

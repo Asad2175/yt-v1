@@ -2,9 +2,9 @@ import FAQ from '../components/faq/faq';
 import Grid from '../components/Grid/grid';
 import Downloader from '../components/downloader/downloader';
 import { getI18nStaticProps } from '../lib/with-i18n-props.server';
-import { useTranslation } from 'next-i18next';
+import { FaqInterface, GridInterface } from 'interfaces/general';
 
-const cards = [
+const cards: GridInterface[] = [
   {
     id: 1,
     image:
@@ -31,7 +31,7 @@ const cards = [
   },
 ];
 
-const faqs = [
+const faqs: FaqInterface[] = [
   {
     question: 'What is your return policy?',
     answer:
@@ -55,8 +55,6 @@ const faqs = [
 ];
 
 export default function Home() {
-  const { t } = useTranslation('common');
-
   return (
     <>
       <Downloader />
