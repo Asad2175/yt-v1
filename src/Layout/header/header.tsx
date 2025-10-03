@@ -1,6 +1,5 @@
 'use client';
 
-import { languagesArray } from 'constants/languages';
 import { useState, useEffect } from 'react';
 import styles from './Header.module.scss';
 import Dropdown from '../../components/dropdown/dropdown';
@@ -48,12 +47,7 @@ export default function Header() {
             </div>
 
             <div className={styles.lang}>
-              <Dropdown
-                options={languagesArray}
-                placeholder="Choose Language"
-                onChange={(val) => console.log('Selected language:', val)}
-                defaultValue="en"
-              />
+              <Dropdown />
             </div>
           </div>
         </div>

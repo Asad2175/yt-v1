@@ -6,6 +6,12 @@ import { cleanYouTubeUrl } from 'lib/customFunctions';
 import { useVideoStore } from 'store/videoStore';
 import { Err } from 'interfaces/general';
 
+// interface DownloaderProps {
+//   title: string;
+//   description: string;
+//   search: string;
+// }
+
 export default function Downloader() {
   const [url, setUrl] = useState('');
   const [loading, setLoading] = useState(false);

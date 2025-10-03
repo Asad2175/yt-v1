@@ -1,12 +1,10 @@
-export const getI18nStaticProps = (namespaces: string[] = ['common']) => {
-  return async (ctx: { locale: string }) => {
-    const { serverSideTranslations } = await import(
-      'next-i18next/serverSideTranslations'
-    );
-    return {
-      props: {
-        ...(await serverSideTranslations(ctx.locale, namespaces)),
-      },
-    };
+import { GetStaticProps } from 'next';
+import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
+
+export const getI18nStaticProps: GetStaticProps = async ({ locale }) => {
+  return {
+    props: {
+      ...(await serverSideTranslations(locale ?? 'en', ['common'])),
+    },
   };
 };

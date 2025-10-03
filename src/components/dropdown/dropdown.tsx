@@ -2,31 +2,17 @@
 
 import React, { useState, useRef, useEffect } from 'react';
 import styles from './Dropdown.module.scss';
+import { useRouter } from 'next/router';
+import Link from 'next/link';
+import { languages } from 'constants/languages';
 
-interface DropdownOption {
-  value: string;
-  label: string;
-}
+const defaultLocale = 'en';
 
-interface DropdownProps {
-  options: DropdownOption[];
-  placeholder?: string;
-  onChange?: (value: string) => void;
-  defaultValue?: string;
-}
-
-const Dropdown: React.FC<DropdownProps> = ({
-  options,
-  placeholder = 'Select an option',
-  onChange,
-  defaultValue,
-}) => {
+export default function Dropdown() {
+  const router = useRouter();
   const [isOpen, setIsOpen] = useState(false);
-  const [selectedOption, setSelectedOption] = useState<DropdownOption | null>(
-    defaultValue
-      ? options.find((opt) => opt.value === defaultValue) || null
-      : null
-  );
+  const { locale, locales, asPath } = router;
+  const localeNames: Record<string, string> = languages;
   const dropdownRef = useRef<HTMLDivElement>(null);
 
   // Close dropdown when clicking outside
@@ -48,14 +34,6 @@ const Dropdown: React.FC<DropdownProps> = ({
     setIsOpen(!isOpen);
   };
 
-  const handleSelect = (option: DropdownOption) => {
-    setSelectedOption(option);
-    setIsOpen(false);
-    if (onChange) {
-      onChange(option.value);
-    }
-  };
-
   return (
     <div
       className={`${styles.dropdown} w-100 position-relative`}
@@ -67,27 +45,32 @@ const Dropdown: React.FC<DropdownProps> = ({
         onClick={handleToggle}
       >
         <span className={styles.selectedText}>
-          {selectedOption ? selectedOption.label : placeholder}
+          {localeNames[locale || defaultLocale]}
         </span>
       </button>
-
       {isOpen && (
         <ul className={styles.dropdownMenu}>
-          {options.map((option) => (
-            <li
-              key={option.value}
-              className={`${styles.dropdownItem} ${
-                selectedOption?.value === option.value ? styles.selected : ''
-              } cursor-pointer`}
-              onClick={() => handleSelect(option)}
-            >
-              {option.label}
-            </li>
-          ))}
+          {locales?.map((lang) => {
+            const href =
+              lang === locale
+                ? asPath
+                : lang === defaultLocale
+                  ? asPath // no prefix for default locale
+                  : `/${lang}${asPath}`;
+            return (
+              <li key={lang}>
+                <Link
+                  href={href}
+                  locale={lang}
+                  className={`${styles.dropdownItem} ${lang === locale ? styles.selected : ''} text-decoration`}
+                >
+                  {localeNames[lang]}
+                </Link>
+              </li>
+            );
+          })}
         </ul>
       )}
     </div>
   );
-};
-
-export default Dropdown;
+}

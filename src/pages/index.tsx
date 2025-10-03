@@ -1,8 +1,12 @@
 import FAQ from '../components/faq/faq';
 import Grid from '../components/Grid/grid';
 import Downloader from '../components/downloader/downloader';
-import { getI18nStaticProps } from '../lib/with-i18n-props.server';
 import { FaqInterface, GridInterface } from 'interfaces/general';
+// import { useTranslation } from 'next-i18next';
+// import type { GetStaticProps } from 'next';
+// import { getI18nStaticProps } from 'lib/with-i18n-props.server';
+
+// export const getStaticProps: GetStaticProps = getI18nStaticProps;
 
 const cards: GridInterface[] = [
   {
@@ -59,29 +63,121 @@ export default function Home() {
     <>
       <Downloader />
 
-      {/* About us */}
+      {/* Youtube Video Downloader */}
       <section className="about">
         <div className="container">
-          <h2 className="text-center">Free YouTube to MP4 Converter</h2>
+          <h2 className="text-center">Youtube Video Downloader</h2>
           <p>
-            Yt1s is Popular YouTube to MP4 Converter. using this Free YouTube
-            Downloader that Allow to Easily Download and save YouTube Videos in
-            High quality.
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500s, when an unknown printer took a galley of type
+            and scrambled it to make a type specimen book.
           </p>
           <p>
-            Follow Just simple process insert URL in to search box. Select
-            Quality You can download YouTube MP4 Videos and save them different
-            quality such as 144p, 240p, 360p, 480p, 720p, 1080p, 1440p (2k) and
-            upto 2160p (4k). Our Youtube Video Downloader totally Safe and
-            secure.
+            If you are going to use a passage of Lorem Ipsum, you need to be
+            sure there isn't anything embarrassing hidden in the middle of text.
           </p>
         </div>
       </section>
 
       <section>
         <div className="container">
-          <h2 className="text-center">Our Services</h2>
+          <h2 className="text-center">Features</h2>
           <Grid cards={cards} />
+        </div>
+      </section>
+
+      {/* YouTube to MP3 Converter */}
+      <section className="about">
+        <div className="container">
+          <h2 className="text-center">Free YouTube to MP3 Converter</h2>
+          <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500s, when an unknown printer took a galley of type
+            and scrambled it to make a type specimen book.
+          </p>
+          <p>
+            If you are going to use a passage of Lorem Ipsum, you need to be
+            sure there isn't anything embarrassing hidden in the middle of text.
+          </p>
+        </div>
+      </section>
+
+      {/* YouTube to MP4 Converter */}
+      <section className="about">
+        <div className="container">
+          <h2 className="text-center">Free YouTube to MP4 Converter</h2>
+          <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500s, when an unknown printer took a galley of type
+            and scrambled it to make a type specimen book.
+          </p>
+          <p>
+            If you are going to use a passage of Lorem Ipsum, you need to be
+            sure there isn't anything embarrassing hidden in the middle of text.
+          </p>
+        </div>
+      </section>
+
+      {/* YouTube Shorts Downloader */}
+      <section className="about">
+        <div className="container">
+          <h2 className="text-center">Free YouTube Shorts Downloader</h2>
+          <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500s, when an unknown printer took a galley of type
+            and scrambled it to make a type specimen book.
+          </p>
+          <p>
+            If you are going to use a passage of Lorem Ipsum, you need to be
+            sure there isn't anything embarrassing hidden in the middle of text.
+          </p>
+        </div>
+      </section>
+
+      {/* How to Download */}
+      <section>
+        <div className="container">
+          <h2 className="text-center">How to Download</h2>
+          <p>
+            <strong>Step 1:</strong> Lorem Ipsum is simply dummy text of the
+            printing and typesetting industry. Lorem Ipsum has been the
+            industry's standard dummy text ever since the 1500s, when an unknown
+            printer took a galley of type and scrambled it to make a type
+            specimen book.
+          </p>
+          <p>
+            <strong>Step 2:</strong> If you are going to use a passage of Lorem
+            Ipsum, you need to be sure there isn't anything embarrassing hidden
+            in the middle of text.
+          </p>
+          <p>
+            <strong>Step 3:</strong> Lorem Ipsum is simply dummy text of the
+            printing and typesetting industry. Lorem Ipsum has been the
+            industry's standard dummy text ever since the 1500s, when an unknown
+            printer took a galley of type and scrambled it to make a type
+            specimen book.
+          </p>
+          <p>
+            <strong>Step 4:</strong> If you are going to use a passage of Lorem
+            Ipsum, you need to be sure there isn't anything embarrassing hidden
+            in the middle of text.
+          </p>
+          <p>
+            <strong>Step 5:</strong> Lorem Ipsum is simply dummy text of the
+            printing and typesetting industry. Lorem Ipsum has been the
+            industry's standard dummy text ever since the 1500s, when an unknown
+            printer took a galley of type and scrambled it to make a type
+            specimen book.
+          </p>
+          <p>
+            <strong>Step 6:</strong> If you are going to use a passage of Lorem
+            Ipsum, you need to be sure there isn't anything embarrassing hidden
+            in the middle of text.
+          </p>
         </div>
       </section>
 
@@ -94,5 +190,3 @@ export default function Home() {
     </>
   );
 }
-
-export const getStaticProps = getI18nStaticProps(['common']);

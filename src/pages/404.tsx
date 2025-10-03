@@ -1,6 +1,3 @@
-import { getI18nStaticProps } from '../lib/with-i18n-props.server';
-
-export const getStaticProps = getI18nStaticProps(['common']);
 import Link from 'next/link';
 
 export default function Custom404() {
