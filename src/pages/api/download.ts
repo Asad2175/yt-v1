@@ -10,18 +10,24 @@ export default async function handler(
 ) {
   const { url, quality } = req.query;
 
+  console.log('quality', quality);
+
   if (!url || typeof url !== 'string') {
-    return res.status(400).json({ error: 'videoUrl is required' });
+    return res.status(400).json({ message: 'videoUrl is required' });
   }
 
   try {
     const outputFile = path.join(process.cwd(), `video_${Date.now()}.mp4`);
 
     // ✅ Choose format dynamically
-    let format = 'bestvideo+bestaudio';
-    if (quality === '360') {
-      format = 'bv*[height<=360]+ba/best';
-    }
+    let format = 'bestvideo[height<=360]+bestaudio/best'; // default auto quality
+    if (quality === '1080') format = 'bestvideo[height<=1080]+bestaudio/best';
+    if (quality === '720') format = 'bestvideo[height<=720]+bestaudio/best';
+    if (quality === '480') format = 'bestvideo[height<=480]+bestaudio/best';
+    if (quality === '360') format = 'bestvideo[height<=360]+bestaudio/best';
+    if (quality === '240') format = 'bestvideo[height<=240]+bestaudio/best';
+    if (quality === '144') format = 'bestvideo[height<=144]+bestaudio/best';
+    if (quality === '') format = 'bestvideo+bestaudio/best';
 
     const ytDlpPath = path.join(
       process.cwd(),
@@ -54,22 +60,33 @@ export default async function handler(
       ytDlp.stdout.pipe(res);
 
       ytDlp.stderr.setEncoding('utf8');
-      ytDlp.stderr.on('data', (data) =>
-        console.error(`yt-dlp stderr: ${data}`)
-      );
+      ytDlp.stderr.on('data', (data) => {
+        console.error(`yt-dlp stderr: ${data}`);
+        const errorMsg = data.toString();
+        if (
+          errorMsg.includes('Requested format is not available') ||
+          errorMsg.includes('requested format not available')
+        ) {
+          if (!res.headersSent) {
+            res.status(400).json({
+              message: `The selected quality (${quality}p) is not available for this video.`,
+            });
+          }
+        }
+      });
 
       ytDlp.on('error', (err) => {
         console.error('yt-dlp failed to start:', err);
         if (!res.headersSent) {
           res
             .status(500)
-            .json({ error: 'Something went wrong. Please try again.' });
+            .json({ message: 'Something went wrong. Please try again.' });
         }
       });
 
       ytDlp.on('close', (code) => {
         if (code !== 0 && !res.headersSent) {
-          res.status(500).json({ error: `yt-dlp exited with code ${code}` });
+          res.status(500).json({ message: `yt-dlp exited with code ${code}` });
         }
         res.end(); // Ensure response is closed
       });
@@ -93,7 +110,7 @@ export default async function handler(
 
           stream.on('end', () => {
             console.log('Download completed');
-            res.status(200).end('Download COmpleted');
+            res.status(200).end('Download Completed');
             fs.unlink(outputFile, (err) => {
               if (err) console.error('Failed to delete temp file:', err);
             });
@@ -104,12 +121,12 @@ export default async function handler(
             res.status(500).end('Failed to stream file');
           });
         } else {
-          res.status(500).json({ error: 'Failed to download video' });
+          res.status(500).json({ message: 'Failed to download video' });
         }
       });
     }
   } catch (error) {
     console.error(error);
-    res.status(500).json({ error: 'Failed to process video' });
+    res.status(500).json({ message: 'Failed to process video' });
   }
 }

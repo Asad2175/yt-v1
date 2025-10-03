@@ -70,7 +70,12 @@
     }
   }
 
-  .loading {
-    color: #fff;
+  .notification {
+    max-width: 900px;
+    margin: 20px auto;
+
+    .loading {
+      color: #fff;
+    }
   }
 }

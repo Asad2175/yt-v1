@@ -2,6 +2,7 @@ import router from 'next/router';
 import { useVideoStore } from 'store/videoStore';
 import Image from 'next/image';
 import { useState } from 'react';
+import { Err } from 'interfaces/general';
 
 export default function Download() {
   const data = useVideoStore((state) => state.selectedVideo);
@@ -9,8 +10,51 @@ export default function Download() {
   const [error, setError] = useState('');
   const [type, setType] = useState('');
 
-  const downloadMp4 = (type: string) => {
-    setType(type);
+  const downloadMp4 = async (type: string) => {
+    try {
+      setType(type);
+      setLoading(true);
+      setError('');
+
+      const response = await fetch(
+        `/api/download?url=${encodeURIComponent(data?.url.trim() as string)}&quality=${type === 'Best Quality' ? '' : type}`
+      );
+
+      if (!response.ok) {
+        let errorMessage = 'Download failed. Try another link.';
+        try {
+          const errorData = await response.json(); // parse JSON from BE
+          errorMessage = errorData.message || errorMessage;
+        } catch {
+          const text = await response.text(); // fallback if not JSON
+          if (text) errorMessage = text;
+        }
+        throw new Error(errorMessage);
+      }
+
+      // Convert response to blob
+      const blob = await response.blob();
+      const downloadUrl = URL.createObjectURL(blob);
+
+      // Trigger browser download
+      const a = document.createElement('a');
+      a.href = downloadUrl;
+      a.download = `${data?.video.title.replace(' ', '_')}.mp4`;
+      a.style.display = 'none';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+
+      // Revoke object URL
+      URL.revokeObjectURL(downloadUrl);
+    } catch (err: unknown) {
+      const e = err as Err;
+      // console.log('error', err);
+      console.log('error', typeof err);
+      setError(e.message || 'Something went wrong. Please try again');
+    } finally {
+      setLoading(false);
+    }
   };
 
   const downloadMp3 = async () => {
@@ -123,22 +167,20 @@ export default function Download() {
                 </button>
                 <button
                   className="btn download-btn w-100 cursor-pointer"
-                  onClick={() => downloadMp4('best')}
+                  onClick={() => downloadMp4('Best Quality')}
                   disabled={loading}
                 >
                   Download Mp4: Best Quality
                 </button>
               </div>
             </div>
-            {error && (
-              <p className="mt-4 error">
-                Something went wrong during download. Please try again.
-              </p>
-            )}
+            {error && <p className="mt-4 error">{error}</p>}
             {loading && (
               <p className="mt-4">
-                Please wait while we prepare your {type} file for download. The
-                downloading time may vary depending on your internet speed.
+                Please wait while we prepare your{' '}
+                {type === 'Best Quality' || 'Mp3' ? type : type + 'p'} file for
+                download. The downloading time may vary depending on your
+                internet speed.
               </p>
             )}
           </div>
@@ -147,10 +189,18 @@ export default function Download() {
         <div className="w-100 next">
           <div className="note mb-4">
             <p>
-              <strong>Note:</strong> We download videos only in the resolutions
-              available on YouTube. If your selected resolution is not
-              available, the system will automatically download the next lower
-              resolution.
+              <p>
+                <strong>Note:</strong>{' '}
+              </p>
+              <p>
+                We can only grab videos in the resolutions that YouTube actually
+                provides.
+              </p>
+              <p>
+                If the resolution you pick isn't available, we won't be able to
+                fetch it — instead, you'll see an error message letting you
+                know.
+              </p>
             </p>
           </div>
           <button

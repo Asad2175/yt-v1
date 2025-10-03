@@ -95,12 +95,14 @@ export default function Downloader() {
                 {loading ? 'Loading...' : 'Search'}
               </button>
             </div>
-            {loading && (
-              <p className={`${styles.loading}`}>
-                Please wait while we are fetching details for you...
-              </p>
-            )}
-            {error && <p className={`${styles.loading}`}>{error}</p>}
+            <div className={`${styles.notification}`}>
+              {loading && (
+                <p className={`${styles.loading}`}>
+                  Please wait while we are fetching details for you...
+                </p>
+              )}
+              {error && <p className={`${styles.loading}`}>{error}</p>}
+            </div>
           </div>
         </div>
       </div>
