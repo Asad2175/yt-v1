@@ -1,18 +1,23 @@
+import Link from 'next/link';
 import styles from './Footer.module.scss';
 
 export default function Footer() {
   return (
     <footer className={styles.footer}>
       <nav className={`${styles.footerNav} d-flex justify-content-center`}>
-        <a href="/contact" className={styles.footerLink}>
+        <Link href="/contact-us" className={styles.footerLink} locale={false}>
           Contact Us
-        </a>
-        <a href="/privacy-policy" className={styles.footerLink}>
+        </Link>
+        <Link
+          href="/privacy-policy"
+          className={styles.footerLink}
+          locale={false}
+        >
           Privacy Policy
-        </a>
-        <a href="/terms-and-conditions" className={styles.footerLink}>
+        </Link>
+        <Link href="/terms-of-use" className={styles.footerLink} locale={false}>
           Terms & Conditions
-        </a>
+        </Link>
       </nav>
       <p className={styles.footerCopy}>
         © {new Date().getFullYear()} MyWebsite. All rights reserved.

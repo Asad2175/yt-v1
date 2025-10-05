@@ -4,11 +4,16 @@ import { useState, useEffect } from 'react';
 import styles from './Header.module.scss';
 import Dropdown from '../../components/dropdown/dropdown';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
+
+const footerPages = ['/terms-of-use', '/privacy-policy', '/contact-us'];
 
 export default function Header() {
+  const router = useRouter();
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   const closeMobileMenu = () => setIsMobileMenuOpen(false);
+  const isFooterPage = footerPages.includes(router.pathname);
 
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
@@ -46,9 +51,7 @@ export default function Header() {
               </Link>
             </div>
 
-            <div className={styles.lang}>
-              <Dropdown />
-            </div>
+            <div className={styles.lang}>{!isFooterPage && <Dropdown />}</div>
           </div>
         </div>
       </nav>

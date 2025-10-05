@@ -2,11 +2,11 @@ import FAQ from '../components/faq/faq';
 import Grid from '../components/Grid/grid';
 import Downloader from '../components/downloader/downloader';
 import { FaqInterface, GridInterface } from 'interfaces/general';
-// import { useTranslation } from 'next-i18next';
-// import type { GetStaticProps } from 'next';
-// import { getI18nStaticProps } from 'lib/with-i18n-props.server';
+import { useTranslation } from 'next-i18next';
+import type { GetStaticProps } from 'next';
+import { getI18nStaticProps } from 'lib/with-i18n-props.server';
 
-// export const getStaticProps: GetStaticProps = getI18nStaticProps;
+export const getStaticProps: GetStaticProps = getI18nStaticProps;
 
 const cards: GridInterface[] = [
   {
@@ -59,6 +59,7 @@ const faqs: FaqInterface[] = [
 ];
 
 export default function Home() {
+  const { t } = useTranslation('common');
   return (
     <>
       <Downloader />
@@ -66,7 +67,7 @@ export default function Home() {
       {/* Youtube Video Downloader */}
       <section className="about">
         <div className="container">
-          <h2 className="text-center">Youtube Video Downloader</h2>
+          <h2 className="text-center">{t('features.title1')}</h2>
           <p>
             Lorem Ipsum is simply dummy text of the printing and typesetting
             industry. Lorem Ipsum has been the industry's standard dummy text

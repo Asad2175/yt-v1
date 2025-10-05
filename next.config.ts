@@ -10,7 +10,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 const nextConfig: NextConfig = {
   i18n,
   reactStrictMode: true,
-  trailingSlash: false,
+  trailingSlash: true,
   poweredByHeader: false,
   images: {
     formats: ['image/webp', 'image/avif'],

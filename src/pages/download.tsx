@@ -96,122 +96,123 @@ export default function Download() {
 
   return (
     <>
-      <div className="container">
-        <div className="result w-100 overflow-hidden">
-          <div className="img w-100">
-            <Image
-              src={data?.video.thumbnail || ''}
-              alt="Youtube Thumbnail"
-              className="w-100"
-              width={500}
-              height={500}
-              priority
-              placeholder="blur"
-              blurDataURL="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAABAAEDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAv/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCdABmX/9k="
-            />
-          </div>
-          <div className="right-side">
-            <h3 className="mb-4 text-center">Youtube Video Info</h3>
-            <p className="text-center">
-              <strong>Title:</strong> {data?.video.title}
-            </p>
-            <p className="text-center">
-              <strong>Author Nickname:</strong> {data?.video.author}
-            </p>
-
-            <div className="buttons mt-4">
-              <div className="mp3">
-                <button
-                  className="btn download-btn w-100 cursor-pointer mb-2"
-                  onClick={downloadMp3}
-                  disabled={loading}
-                >
-                  Download Mp3
-                </button>
-              </div>
-              <div className="mp4">
-                <button
-                  className="btn download-btn w-100 cursor-pointer"
-                  onClick={() => downloadMp4('144')}
-                  disabled={loading}
-                >
-                  Download Mp4: 144p
-                </button>
-                <button
-                  className="btn download-btn w-100 cursor-pointer"
-                  onClick={() => downloadMp4('240')}
-                  disabled={loading}
-                >
-                  Download Mp4: 240p
-                </button>
-                <button
-                  className="btn download-btn w-100 cursor-pointer"
-                  onClick={() => downloadMp4('360')}
-                  disabled={loading}
-                >
-                  Download Mp4: 360p
-                </button>
-                <button
-                  className="btn download-btn w-100 cursor-pointer"
-                  onClick={() => downloadMp4('480')}
-                  disabled={loading}
-                >
-                  Download Mp4: 480p
-                </button>
-                <button
-                  className="btn download-btn w-100 cursor-pointer"
-                  onClick={() => downloadMp4('720')}
-                  disabled={loading}
-                >
-                  Download Mp4: 720p
-                </button>
-                <button
-                  className="btn download-btn w-100 cursor-pointer"
-                  onClick={() => downloadMp4('Best Quality')}
-                  disabled={loading}
-                >
-                  Download Mp4: Best Quality
-                </button>
-              </div>
+      {data?.video && (
+        <div className="container">
+          <div className="result w-100 overflow-hidden">
+            <div className="img w-100">
+              <Image
+                src={data?.video.thumbnail || ''}
+                alt="Youtube Thumbnail"
+                className="w-100"
+                width={500}
+                height={500}
+                priority
+                placeholder="blur"
+                blurDataURL="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAABAAEDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAv/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCdABmX/9k="
+              />
             </div>
-            {error && <p className="mt-4 error">{error}</p>}
-            {loading && (
-              <p className="mt-4">
-                Please wait while we prepare your{' '}
-                {type === 'Best Quality' || 'Mp3' ? type : type + 'p'} file for
-                download. The downloading time may vary depending on your
-                internet speed.
+            <div className="right-side">
+              <h3 className="mb-4 text-center">Youtube Video Info</h3>
+              <p className="text-center">
+                <strong>Title:</strong> {data?.video.title}
               </p>
-            )}
-          </div>
-        </div>
+              <p className="text-center">
+                <strong>Author Nickname:</strong> {data?.video.author}
+              </p>
 
-        <div className="w-100 next">
-          <div className="note mb-4">
-            <p>
-              <p>
-                <strong>Note:</strong>{' '}
-              </p>
-              <p>
-                We can only grab videos in the resolutions that YouTube actually
-                provides.
-              </p>
-              <p>
-                If the resolution you pick isn't available, we won't be able to
-                fetch it — instead, you'll see an error message letting you
-                know.
-              </p>
-            </p>
+              <div className="buttons mt-4">
+                <div className="mp3">
+                  <button
+                    className="btn download-btn w-100 cursor-pointer mb-2"
+                    onClick={downloadMp3}
+                    disabled={loading}
+                  >
+                    Download Mp3
+                  </button>
+                </div>
+                <div className="mp4">
+                  <button
+                    className="btn download-btn w-100 cursor-pointer"
+                    onClick={() => downloadMp4('144')}
+                    disabled={loading}
+                  >
+                    Download Mp4: 144p
+                  </button>
+                  <button
+                    className="btn download-btn w-100 cursor-pointer"
+                    onClick={() => downloadMp4('240')}
+                    disabled={loading}
+                  >
+                    Download Mp4: 240p
+                  </button>
+                  <button
+                    className="btn download-btn w-100 cursor-pointer"
+                    onClick={() => downloadMp4('360')}
+                    disabled={loading}
+                  >
+                    Download Mp4: 360p
+                  </button>
+                  <button
+                    className="btn download-btn w-100 cursor-pointer"
+                    onClick={() => downloadMp4('480')}
+                    disabled={loading}
+                  >
+                    Download Mp4: 480p
+                  </button>
+                  <button
+                    className="btn download-btn w-100 cursor-pointer"
+                    onClick={() => downloadMp4('720')}
+                    disabled={loading}
+                  >
+                    Download Mp4: 720p
+                  </button>
+                  <button
+                    className="btn download-btn w-100 cursor-pointer"
+                    onClick={() => downloadMp4('Best Quality')}
+                    disabled={loading}
+                  >
+                    Download Mp4: Best Quality
+                  </button>
+                </div>
+              </div>
+              {error && <p className="mt-4 error">{error}</p>}
+              {loading && (
+                <p className="mt-4">
+                  Please wait while we prepare your{' '}
+                  {type === 'Best Quality' || 'Mp3' ? type : type + 'p'} file
+                  for download. The downloading time may vary depending on your
+                  internet speed.
+                </p>
+              )}
+            </div>
           </div>
-          <button
-            onClick={() => router.push({ pathname: '/' })}
-            className="w-100 btn cursor-pointer"
-          >
-            Next
-          </button>
-        </div>
 
-        <section>
+          <div className="w-100 next">
+            <div className="note mb-4">
+              <p>
+                <p>
+                  <strong>Note:</strong>{' '}
+                </p>
+                <p>
+                  We can only grab videos in the resolutions that YouTube
+                  actually provides.
+                </p>
+                <p>
+                  If the resolution you pick isn't available, we won't be able
+                  to fetch it — instead, you'll see an error message letting you
+                  know.
+                </p>
+              </p>
+            </div>
+            <button
+              onClick={() => router.push({ pathname: '/' })}
+              className="w-100 btn cursor-pointer"
+            >
+              Next
+            </button>
+          </div>
+
+          {/* <section>
           <h1 className="text-center mb-4">
             How to Download TikTok Videos from ttmp3?
           </h1>
@@ -246,8 +247,9 @@ export default function Download() {
             the option to download this video or go for another search. Click on
             your desired option.
           </p>
-        </section>
-      </div>
+        </section> */}
+        </div>
+      )}
     </>
   );
 }

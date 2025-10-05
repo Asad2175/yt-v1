@@ -1,16 +1,66 @@
 /** @type {import('next-sitemap').IConfig} */
+const fs = require('fs');
+const path = require('path');
+
+const locales = [
+  'en',
+  'id',
+  'vi',
+  'cs',
+  'es',
+  'fr',
+  'de',
+  'it',
+  'ms',
+  'nl',
+  'pt',
+  'tr',
+  'el',
+  'ar',
+  'ro',
+  'bn',
+  'ur',
+  'hi',
+];
+
+const footerPages = ['/terms-of-use', '/privacy-policy', '/contact-us'];
+
+const localizedFooterPages = footerPages.flatMap((page) =>
+  locales.map((locale) => `/${locale}${page}`)
+);
+
+/** Get last modified date for a route's source file */
+function getPageLastMod(route, locales) {
+  // Remove leading slash
+  let clean = route.replace(/^\/+/, '');
+  if (!clean) clean = 'index';
+
+  // Build possible paths, e.g. /about (about.tsx) or about/index.tsx
+  const candidates = [
+    path.join(process.cwd(), 'pages', `${clean}.tsx`),
+    path.join(process.cwd(), 'pages', `${clean}.js`),
+    path.join(process.cwd(), 'pages', clean, 'index.tsx'),
+  ];
+
+  for (const file of candidates) {
+    if (fs.existsSync(file)) {
+      return fs.statSync(file).mtime.toISOString();
+    }
+  }
+
+  return new Date().toISOString(); // fallback
+}
+
 module.exports = {
   siteUrl: 'http://localhost:3000',
   generateRobotsTxt: true,
   sitemapSize: 7000,
   generateIndexSitemap: false,
-  changefreq: 'monthly',
-  priority: 0.8,
-  autoLastmod: true,
+  priority: 1,
   robotsTxtOptions: {
     transformRobotsTxt: async (_, robotsTxt) => {
       const withoutHost = robotsTxt.replace(
-        /# Host\nHost: https:\/\/ttmp3\.io\n\n/g,
+        /# Host\nHost: https:\/\/ttmp3\.org\n\n/g,
         ''
       );
       return withoutHost;
@@ -18,69 +68,21 @@ module.exports = {
   },
   exclude: [
     '/404',
-    '/en/404',
-    '/id/404',
-    '/vi/404',
-    '/cs/404',
-    '/es/404',
-    '/fr/404',
-    '/de/404',
-    '/it/404',
-    '/hu/404',
-    '/ms/404',
-    '/nl/404',
-    '/pl/404',
-    '/pt/404',
-    '/th/404',
-    '/tr/404',
-    '/el/404',
-    '/ru/404',
-    '/ar/404',
-    '/ko/404',
-    '/ja/404',
-    '/ro/404',
-    '/bn/404',
-    '/ur/404',
-    '/hi/404',
+    '/download',
+    ...locales.map((l) => `/${l}/404`),
+    ...locales.map((l) => `/${l}/download`),
+    ...localizedFooterPages,
   ],
   i18n: {
-    locales: [
-      'en',
-      'id',
-      'vi',
-      'cs',
-      'es',
-      'fr',
-      'de',
-      'it',
-      'hu',
-      'ms',
-      'nl',
-      'pl',
-      'pt',
-      'th',
-      'tr',
-      'el',
-      'ru',
-      'ar',
-      'ko',
-      'ja',
-      'ro',
-      'bn',
-      'ur',
-      'hi',
-    ],
+    locales,
     defaultLocale: 'en',
   },
-  transform: async (config, path) => {
-    if (path.startsWith('/en')) {
-      path = path.replace(/^\/en/, '');
-    }
+  transform: async (config, url) => {
+    const lastmod = getPageLastMod(url, config.i18n.locales);
     return {
-      loc: path,
-      changefreq: config.changefreq,
-      priority: config.priority,
-      lastmod: config.autoLastmod ? new Date().toISOString() : undefined,
+      loc: url,
+      priority: url === '/' ? 1 : 0.8,
+      lastmod,
     };
   },
 };

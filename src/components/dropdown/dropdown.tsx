@@ -49,7 +49,9 @@ export default function Dropdown() {
         </span>
       </button>
       {isOpen && (
-        <ul className={styles.dropdownMenu}>
+        <ul
+          className={`${styles.dropdownMenu} ${locale === 'ur' || locale === 'ar' ? 'right' : ''}`}
+        >
           {locales?.map((lang) => {
             const href =
               lang === locale
@@ -62,6 +64,7 @@ export default function Dropdown() {
                 <Link
                   href={href}
                   locale={lang}
+                  onClick={() => setIsOpen(false)}
                   className={`${styles.dropdownItem} ${lang === locale ? styles.selected : ''} text-decoration`}
                 >
                   {localeNames[lang]}
