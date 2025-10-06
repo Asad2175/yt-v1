@@ -30,7 +30,7 @@ export default function FAQ({ faqs }: { faqs: FaqInterface[] }) {
               openIndex === index ? styles.show : ''
             } overflow-hidden`}
           >
-            <p>{faq.answer}</p>
+            <p className="m-0">{faq.answer}</p>
           </div>
         </div>
       ))}

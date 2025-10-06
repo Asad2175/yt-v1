@@ -241,19 +241,17 @@ export default function Download() {
 
             <div className="w-100 next">
               <div className="note mb-4">
-                <p>
-                  <p>
-                    <strong>Note:</strong>{' '}
-                  </p>
-                  <p>
-                    We can only grab videos in the resolutions that YouTube
-                    actually provides.
-                  </p>
-                  <p>
-                    If the resolution you pick isn't available, we won't be able
-                    to fetch it — instead, you'll see an error message letting
-                    you know.
-                  </p>
+                <p className="m-0">
+                  <strong>Note:</strong>{' '}
+                </p>
+                <p className="m-0">
+                  We can only grab videos in the resolutions that YouTube
+                  actually provides.
+                </p>
+                <p className="m-0">
+                  If the resolution you pick isn't available, we won't be able
+                  to fetch it — instead, you'll see an error message letting you
+                  know.
                 </p>
               </div>
               <button

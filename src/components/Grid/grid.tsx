@@ -7,19 +7,19 @@ export default function Grid({ cards }: { cards: GridInterface[] }) {
   return (
     <div className={styles.grid}>
       {cards && cards.length > 0 ? (
-        cards.map((card: GridInterface) => (
+        cards.map((card: GridInterface, index: number) => (
           <div
-            className={`${styles.card} overflow-hidden cursor-pointer`}
+            className={`${styles.card} overflow-hidden cursor-pointer position-relative`}
             key={card.id}
           >
             <div
-              className={`${styles.cardImage} overflow-hidden w-100 position-relative`}
+              className={`${styles.cardCount} d-flex align-items-center justify-content-center`}
             >
-              <img src={card.image} alt={card.title} className="w-100" />
+              {index + 1}
             </div>
             <div className={styles.cardContent}>
-              <h3>{card.title}</h3>
-              <p className="small">{card.description}</p>
+              <h3 className="mt-2 text-center">{card.title}</h3>
+              <p className="small m-0 text-center">{card.description}</p>
             </div>
           </div>
         ))

@@ -11,24 +11,18 @@ export const getStaticProps: GetStaticProps = getI18nStaticProps;
 const cards: GridInterface[] = [
   {
     id: 1,
-    image:
-      'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&q=80',
     title: 'Web Development',
     description:
-      'Create stunning websites with modern technologies and best practices for optimal performance and user experience.',
+      'Create stunning websites with modern technologies and best practices for optimal performance.',
   },
   {
     id: 2,
-    image:
-      'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80',
     title: 'Digital Marketing',
     description:
       'Boost your online presence with strategic marketing campaigns that drive real results and engagement.',
   },
   {
     id: 3,
-    image:
-      'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80',
     title: 'Data Analytics',
     description:
       'Transform raw data into actionable insights with powerful analytics and visualization tools.',
@@ -139,6 +133,23 @@ export default function Home() {
         </div>
       </section>
 
+      {/* YouTube Thumbnail Downloader */}
+      <section className="about">
+        <div className="container">
+          <h2 className="text-center">Free YouTube Thumbnail Downloader</h2>
+          <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500s, when an unknown printer took a galley of type
+            and scrambled it to make a type specimen book.
+          </p>
+          <p>
+            If you are going to use a passage of Lorem Ipsum, you need to be
+            sure there isn't anything embarrassing hidden in the middle of text.
+          </p>
+        </div>
+      </section>
+
       {/* How to Download */}
       <section>
         <div className="container">
@@ -182,6 +193,7 @@ export default function Home() {
         </div>
       </section>
 
+      {/* FAQ  */}
       <section>
         <div className="container">
           <h2 className="text-center">Frequently Asked Questions</h2>
