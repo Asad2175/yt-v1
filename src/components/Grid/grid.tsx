@@ -18,7 +18,7 @@ export default function Grid({ cards }: { cards: GridInterface[] }) {
               {index + 1}
             </div>
             <div className={styles.cardContent}>
-              <h3 className="mt-2 text-center">{card.title}</h3>
+              <h3 className="text-center">{card.title}</h3>
               <p className="small m-0 text-center">{card.description}</p>
             </div>
           </div>
