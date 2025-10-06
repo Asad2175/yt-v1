@@ -43,8 +43,6 @@ export default async function handler(
     url,
   ];
 
-  console.log(`Running: ${ytDlpPath} ${args.join(' ')}`);
-
   const ytDlp = spawn(ytDlpPath, args, { stdio: ['ignore', 'pipe', 'pipe'] });
 
   ytDlp.stdout.pipe(res); // pipe directly to client

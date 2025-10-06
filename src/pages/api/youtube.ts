@@ -1,6 +1,6 @@
 import { Youtube } from 'interfaces/general';
 import type { NextApiRequest, NextApiResponse } from 'next';
-import { HttpsProxyAgent } from 'https-proxy-agent';
+// import { HttpsProxyAgent } from 'https-proxy-agent';
 
 // Proxy configuration
 // const PROXY_URL = 'http://db635aa4857a7189:DvOcrwTI@res.proxy-seller.com:10000';
@@ -30,7 +30,6 @@ export default async function handler(
 
     // Fetch data from YouTube oEmbed
     const response = await fetch(oEmbedUrl.toString(), {
-      // @ts-ignore - agent is valid but TypeScript doesn't recognize it
       // agent: proxyAgent,
       headers: {
         'User-Agent':
@@ -38,14 +37,14 @@ export default async function handler(
       },
     });
 
-    console.log('✅ Response status:', response.status);
+    // console.log('✅ Response status:', response.status);
 
     if (!response.ok) {
       throw new Error(`YouTube oEmbed request failed: ${response.status}`);
     }
 
     const oembed = await response.json();
-    console.log('✅ Video title:', oembed.title);
+    // console.log('✅ Video title:', oembed.title);
 
     // Extract video ID for fallback thumbnail or embed URL
     const videoId = extractVideoId(url);

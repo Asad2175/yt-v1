@@ -26,6 +26,12 @@ export default function ToggleSelection() {
         >
           Youtube Shorts Downloader
         </button>
+        <button
+          className={`${format === 'image' ? styles.active : ''} btn cursor-pointer ml-20`}
+          onClick={() => setFormat('image')}
+        >
+          Youtube Thumbnail Downloader
+        </button>
       </div>
     </>
   );

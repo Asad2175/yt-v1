@@ -10,8 +10,6 @@ export default async function handler(
 ) {
   const { url, quality } = req.query;
 
-  console.log('quality', quality);
-
   if (!url || typeof url !== 'string') {
     return res.status(400).json({ message: 'videoUrl is required' });
   }
