@@ -18,7 +18,7 @@ const arabic = Noto_Naskh_Arabic({
   preload: true, // preload font for faster LCP
 });
 
-export const poppins = ABeeZee({
+export const abeezee = ABeeZee({
   weight: ['400'],
   subsets: ['latin'],
   display: 'swap',
@@ -41,7 +41,7 @@ export default function Layout({ children }: { children: ReactNode }) {
             ? gulzar.className
             : i18n.language === 'ar'
               ? arabic.className
-              : poppins.className
+              : abeezee.className
         }
       >
         <Header />

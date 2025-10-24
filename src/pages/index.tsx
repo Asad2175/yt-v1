@@ -75,6 +75,23 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Youtube Video Downloader */}
+      <section className="about">
+        <div className="container">
+          <h2 className="text-center">{t('features.title1')}</h2>
+          <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500s, when an unknown printer took a galley of type
+            and scrambled it to make a type specimen book.
+          </p>
+          <p>
+            If you are going to use a passage of Lorem Ipsum, you need to be
+            sure there isn't anything embarrassing hidden in the middle of text.
+          </p>
+        </div>
+      </section>
+
       <section>
         <div className="container">
           <h2 className="text-center">Features</h2>

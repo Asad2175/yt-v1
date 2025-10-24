@@ -42,7 +42,6 @@ export default function Document() {
           href="/favicon-512x512.png"
         />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-        <link rel="manifest" href="/site.webmanifest" />
       </Head>
       <body>
         <Main />

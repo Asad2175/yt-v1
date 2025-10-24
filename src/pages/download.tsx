@@ -1,20 +1,40 @@
 import router from 'next/router';
 import { useVideoStore } from 'store/videoStore';
 import Image from 'next/image';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Err } from 'interfaces/general';
+import Loader from '../components/loader/loader';
 
 export default function Download() {
   const data = useVideoStore((state) => state.selectedVideo);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
   const [type, setType] = useState('');
+  const [loader, setLoader] = useState(false);
+  const [progress, setProgress] = useState(0);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setProgress((prev) => {
+        console.log('prev', prev);
+        if (prev >= 95) {
+          clearInterval(interval);
+          return 95;
+        }
+        return prev + 5;
+      });
+    }, 10000); // every 10 seconds
+
+    return () => clearInterval(interval);
+  }, []);
 
   const downloadMp4 = async (type: string) => {
     try {
       setType(type);
       setLoading(true);
+      setProgress(0);
       setError('');
+      setLoader(true);
 
       const response = await fetch(
         `/api/download?url=${encodeURIComponent(data?.url.trim() as string)}&quality=${type === 'Best Quality' ? '' : type}`
@@ -51,14 +71,18 @@ export default function Download() {
       const e = err as Err;
       setError(e.message || 'Something went wrong. Please try again');
     } finally {
+      setLoader(false);
       setLoading(false);
+      setProgress(100);
     }
   };
 
   const downloadMp3 = async () => {
     try {
       setType('Mp3');
+      setLoader(true);
       setLoading(true);
+      setProgress(0);
       setError('');
 
       const response = await fetch(
@@ -88,7 +112,9 @@ export default function Download() {
     } catch {
       setError('Something went wrong during download.');
     } finally {
+      setLoader(false);
       setLoading(false);
+      setProgress(100);
     }
   };
 
@@ -228,6 +254,7 @@ export default function Download() {
                   </div>
                 </div>
                 {error && <p className="mt-4 error">{error}</p>}
+                {loader && <Loader progress={progress} />}
                 {loading && (
                   <p className="mt-4">
                     Please wait while we prepare your{' '}

@@ -51,7 +51,9 @@ export default function Header() {
               </Link>
             </div>
 
-            <div className={styles.lang}>{!isFooterPage && <Dropdown />}</div>
+            <div className="d-flex align-items-center gap-24">
+              <div className={styles.lang}>{!isFooterPage && <Dropdown />}</div>
+            </div>
           </div>
         </div>
       </nav>

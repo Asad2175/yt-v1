@@ -76,20 +76,6 @@ const nextConfig: NextConfig = {
           },
         ],
       },
-      {
-        // Web manifest
-        source: '/site.webmanifest',
-        headers: [
-          {
-            key: 'Content-Type',
-            value: 'application/manifestjson',
-          },
-          {
-            key: 'Cache-Control',
-            value: 'public, max-age=31536000, immutable',
-          },
-        ],
-      },
     ];
   },
   webpack(config) {

@@ -5,6 +5,7 @@ import router from 'next/router';
 import { cleanYouTubeUrl } from 'lib/customFunctions';
 import { useVideoStore } from 'store/videoStore';
 import { Err } from 'interfaces/general';
+import { useTranslation } from 'next-i18next';
 
 // interface DownloaderProps {
 //   title: string;
@@ -17,6 +18,10 @@ export default function Downloader() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
   const setSelectedVideo = useVideoStore((state) => state.setSelectedVideo);
+  const { i18n } = useTranslation('common');
+
+  const direction =
+    i18n.language === 'ar' || i18n.language === 'ur' ? 'rtl' : 'ltr';
 
   const handlePaste = async () => {
     const text = await navigator.clipboard?.readText();
@@ -61,15 +66,16 @@ export default function Downloader() {
         <div className="container">
           <div className="box">
             <h1 className="text-center">
-              TikTokmp3 - Youtube Video Downloader Online
+              YouTube Video Downloader – Free MP3, MP4, Shorts & Thumbnail Downloader Online
             </h1>
             <h2 className="text-center mt-2 mb-4">
-              TikTokmp3 offers to download fast, free, & Unlimited TikTok videos
-              without Watermark – Safe, Secure & Subscription-free
+              Download YouTube videos, Shorts, audio (MP3), and thumbnails for free. Fast, secure, and supports all formats including HD 1080p MP4 and 320kbps MP3.
             </h2>
             <ToggleSelection />
             <div className={`${styles.inputGroup} position-relative d-flex`}>
-              <div className={`${styles.inputField} d-flex flex-1`}>
+              <div
+                className={`${styles.inputField} d-flex flex-1 ${direction === 'rtl' ? styles.right : ''}`}
+              >
                 <input
                   type="text"
                   value={url}
@@ -94,7 +100,7 @@ export default function Downloader() {
                 )}
               </div>
               <button
-                className={`${styles.search} btn cursor-pointer`}
+                className={`${styles.search} btn cursor-pointer ${direction === 'rtl' ? styles.right : ''}`}
                 onClick={handleSearch}
                 disabled={loading}
               >

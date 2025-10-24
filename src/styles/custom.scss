@@ -87,10 +87,12 @@ section {
 h2 {
   margin-bottom: 20px;
   font-size: 28px;
+  line-height: 1.2;
 }
 
 h3 {
   font-size: 20px;
+  line-height: 1.2;
 }
 
 .flex-1 {
@@ -105,6 +107,10 @@ p {
 
 .small {
   font-size: 16px;
+}
+
+button {
+  font-family: 'ABeeZee', 'ABeeZee Fallback';
 }
 
 .btn {
@@ -135,6 +141,10 @@ p {
 
 .ml-20 {
   margin-left: 20px;
+}
+
+.mr-20 {
+  margin-right: 20px;
 }
 
 .error {

@@ -1,5 +1,5 @@
 .dropdown {
-  max-width: 300px;
+  max-width: 120px;
 }
 
 .dropdownToggle {
@@ -54,6 +54,7 @@
   margin-bottom: 5px;
   border-radius: 8px;
   display: block;
+  line-height: 1.2;
 
   &:hover,
   &.selected {
